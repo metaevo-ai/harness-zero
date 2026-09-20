@@ -1,0 +1,71 @@
+[project]
+name = "harness-zero"
+version = "0.1.0"
+description = "Agent harness distillation: transfer the behaviors of an optimized agent harness into model weights"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "harbor==0.21.0",
+    "jinja2>=3.1.0",
+    "langchain-deepseek>=1.1.0",
+    "openai>=2.54.0",
+    "pandas>=3.0.5",
+    "pyarrow>=25.0.1",
+    "socksio>=1.0.0",
+    "tenacity>=9.1.4",
+]
+
+[project.scripts]
+harness-zero = "harness_zero.cli:main"
+agent = "harness_zero.agent_cli:main"
+
+[tool.uv]
+# Some transitive dependencies of the deepagents stack only exist as
+# pre-releases.
+prerelease = "allow"
+# The rollout path depends on the deepagents harness; install it by default.
+# tinker stays out of default-groups: torch/transformers are heavy and only
+# needed for training.
+default-groups = ["deepagents"]
+override-dependencies = [
+    # transformers (via tinker-cookbook) requires tokenizers>=0.22.0,<=0.23.0,
+    # and 0.23.0 only exists as an rc; pin the stable 0.22.x line.
+    "tokenizers>=0.22.0,<0.23.0",
+]
+
+[dependency-groups]
+deepagents = [
+    "aiohttp>=3.14.0,<4.0.0",
+    "deepagents==0.7.6",
+    "langchain>=1.3.9,<2.0.0",
+    "langchain-mcp-adapters>=0.3.0,<0.4.0",
+    "langchain-openrouter>=0.2.3,<0.3.0",
+    "langchain-openai>=1.0.0",
+    "tavily-python>=0.7.26,<1.0.0",
+    "toml>=0.10.2,<1.0.0",
+]
+dev = [
+    "matplotlib>=3.10,<4",
+    "pytest>=9.1.1",
+]
+# Training (LoRA SFT via the Tinker recipe): uv sync --group tinker
+tinker = [
+    "tinker>=0.25.0",
+    "tinker-cookbook>=0.5.4",
+]
+
+# The deepagents harness (src/deepagents_harbor/) uses the frozen vendored
+# copy of deepagents (MIT, LangChain Inc.), which may differ from upstream.
+[tool.uv.sources]
+deepagents = { path = "src/deepagents_harbor/.local_deps/deepagents", editable = true }
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/harness_zero", "src/deepagents_harbor", "harness_bank"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
