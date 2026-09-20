@@ -1,0 +1,1 @@
+NC(=S)Nc1ccc(C(F)(F)F)cc1.O=C(CBr)c1ccc(Cl)cc1

@@ -1,0 +1,7 @@
+{
+  "id": "39667",
+  "instruction": "How can I enter a 'description' in a table below a specific (black) row and automatically receive the corresponding 'Pay Item Number' and 'UOM' in the columns to the left of that 'description'? I want to be able to type in a description in the table below the black row and it spit out the corresponding 'Pay Item Number' and 'UOM' in the columns to the left of the 'description'. Outputs an empty string when search is empty. Also, please make rows 20-26, of columns A & B, color: #FFF2CC.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "A20:A26",
+  "num_test_cases": 1
+}

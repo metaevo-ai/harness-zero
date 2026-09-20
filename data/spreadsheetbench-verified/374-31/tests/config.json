@@ -1,0 +1,7 @@
+{
+  "id": "374-31",
+  "instruction": "How can I modify my existing VBA code to only delete the blank rows that appear above a cell with the text \"Code\" in column A, while preserving any blank rows below it?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:D5",
+  "num_test_cases": 1
+}

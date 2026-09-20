@@ -1,0 +1,7 @@
+{
+  "id": "17-35",
+  "instruction": "Display the dates based on the start and end date criteria entered in cells I2 and J2. I have a data range from A1 to E315, the criteria range in cells I2 and J2, and I want the filtered results to start from cell I6 and to maintain the original formatting for each row that's brought over.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "I6:M295",
+  "num_test_cases": 1
+}

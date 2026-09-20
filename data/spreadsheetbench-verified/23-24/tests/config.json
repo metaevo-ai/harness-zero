@@ -1,0 +1,7 @@
+{
+  "id": "23-24",
+  "instruction": "How can I automatically delete a word and its associated details in columns B, C, D, and E in my Excel file if the word in column A matches any word found in column I? Manually, I would highlight from A1 to E1 and press CTRL MINUS to shift cells up, but doing this for all duplicates is time-consuming.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A1:E1102",
+  "num_test_cases": 1
+}

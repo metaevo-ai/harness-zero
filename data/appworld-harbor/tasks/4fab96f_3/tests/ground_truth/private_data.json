@@ -1,0 +1,26 @@
+{
+    "venmo_user_id_to_notification_messages": {
+        "{_INT_}:73": [
+            "Jennifer Powell has sent you a reminder for their payment request of $21.00.",
+            "Jennifer Powell has sent you a reminder for their payment request of $11.00.",
+            "Jennifer Powell has sent you a reminder for their payment request of $34.00.",
+            "Jennifer Powell has sent you a reminder for their payment request of $10.00."
+        ],
+        "{_INT_}:42": [
+            "Jennifer Powell has sent you a reminder for their payment request of $42.00.",
+            "Jennifer Powell has sent you a reminder for their payment request of $53.00."
+        ]
+    },
+    "venmo_user_id_to_notification_payment_request_ids": {
+        "{_INT_}:73": [
+            1608,
+            1612,
+            1613,
+            1615
+        ],
+        "{_INT_}:42": [
+            1624,
+            1627
+        ]
+    }
+}

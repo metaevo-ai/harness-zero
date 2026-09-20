@@ -1,0 +1,7 @@
+{
+  "id": "38462",
+  "instruction": "How can I round up time formatted as Custom [h]:mm, such as '55260:26', to the nearest whole hour in Excel, resulting in '55261'? The context is rounding up exported values from AMOS software for aircraft data. The number format should be general and do not name the column.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C1:C2",
+  "num_test_cases": 1
+}

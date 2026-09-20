@@ -1,0 +1,7 @@
+{
+    "sibling_relation": "sister",
+    "childhood_photo_directory": "~/photographs/childhood_pics/",
+    "expected_subject": "Childhood Memories",
+    "expected_body": "Checkout attachments.",
+    "attachment_extension": "tar"
+}

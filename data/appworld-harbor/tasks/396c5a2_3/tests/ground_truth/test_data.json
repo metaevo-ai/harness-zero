@@ -1,0 +1,26 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match spotify.MusicPlayer.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert 1 spotify.MusicPlayer has been updated using models.changed_records.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "get the end-state queue_song_ids and\nassert all private_data.existing_queue_song_ids are in end-state queue_song_ids.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all private_data.to_be_added_queue_song_ids are in the end state queue_song_ids",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert union of private_data.to_be_added_queue_song_ids and private_data.existing_queue_song_ids\nmatch the end-state queue_song_ids.",
+        "label": "no_op_fail"
+    }
+]

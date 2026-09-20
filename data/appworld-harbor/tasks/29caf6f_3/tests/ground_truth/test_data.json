@@ -1,0 +1,34 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match phone.GlobalTextMessage, phone.UserTextMessage.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain 1 phone.GlobalTextMessage record was added using models.changed_records.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the added global_text_message has private_data.related_person_phone_user_id as the receiver_id.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the receiver of the added global_text_message is the related_person\ncorresponding to data.public.related_person_first_name.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert that all private_data.director_movie_titles occur as a substring in\nadded global_text_message (normalize_text=True)",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert that none of private_data.non_director_movie_titles occur as a substring in\nadded global_text_message (normalize_text=True)",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert 0 phone.UserTextMessage records were removed using models.changed_records.",
+        "label": "no_op_pass"
+    }
+]

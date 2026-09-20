@@ -1,0 +1,7 @@
+{
+  "id": "57590",
+  "instruction": "I need to calculate a sum in cell B26, where the sum is based on the values in Column I but only includes those values where the corresponding date in Column C matches the month in A26.\n\nMy current formula is: SUMIFS(K2:K3,C2:C3,\">=\"&A26,C2:C3,\"<=\"&EOMONTH(A26,0))",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B26",
+  "num_test_cases": 1
+}

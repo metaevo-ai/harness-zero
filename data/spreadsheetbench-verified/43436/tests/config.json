@@ -1,0 +1,7 @@
+{
+  "id": "43436",
+  "instruction": "How can I calculate the number of records that are still open by the end of each month, given two dates for each record (date created and date closed)? I need a formula that can determine which records were open based on a specific month, considering that a record is open if it was not closed before the first day of the month and was not created after the last day of the month.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "I2:K6",
+  "num_test_cases": 1
+}

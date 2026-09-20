@@ -1,0 +1,1 @@
+CN(Cc1cc(-c2ccccc2)n(S(=O)(=O)c2cccc(C#N)c2)c1)C(=O)OC(C)(C)C.[N-]=[N+]=[N-]

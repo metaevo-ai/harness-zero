@@ -1,0 +1,1 @@
+CC(=O)c1cccs1.NNc1cccc(F)c1

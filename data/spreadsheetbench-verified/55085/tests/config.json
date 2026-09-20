@@ -1,0 +1,7 @@
+{
+  "id": "55085",
+  "instruction": "use a formula to perform a multiple criteria lookup in the 'Result' worksheet based on filters in row 2 and 3, specifically in row 10 where column G to I uses column I from Master-RM  and column J to L using column K from Master-RM sheet?  you can also use any alternative method to accomplish this.        \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 My current formula is: 'Master-RM'!I12",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "Result'!G10:L10",
+  "num_test_cases": 1
+}

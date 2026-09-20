@@ -1,0 +1,1 @@
+C=CCc1c(O)ccc2[nH]c(C(=O)OCC)cc12

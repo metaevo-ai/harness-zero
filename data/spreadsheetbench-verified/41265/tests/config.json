@@ -1,0 +1,7 @@
+{
+  "id": "41265",
+  "instruction": "What I am looking for:\nMatch each root word as a complete word within the keywords(D2-D5) to all in column A (A2-A6) and adding the search volume (in column B, i.e. B2-B6).\n\nPlease help me give the sum of the values  of each corresponding word in column E(e2:e5) after it is exactly matched in columns D and A.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "E2:E5",
+  "num_test_cases": 1
+}

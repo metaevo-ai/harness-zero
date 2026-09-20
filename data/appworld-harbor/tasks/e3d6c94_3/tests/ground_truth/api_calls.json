@@ -1,0 +1,244 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "caiburc@gmail.com",
+            "password": "Vum}&9h"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/12",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/39",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/46",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/52",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/53",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/59",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/63",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/64",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/87",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/88",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/117",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/130",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/139",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/147",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/174",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/184",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/193",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/196",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/211",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/234",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/273",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/294",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/322",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/playlists",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0",
+            "title": "R&B Recommendation"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/playlists/654/songs/87",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/playlists/654/songs/184",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2NhaWJ1cmNAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.7pIZgwN8dQjGbediu4d8La107fF_vrxRODqJOls1Ek0"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

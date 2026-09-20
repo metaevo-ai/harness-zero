@@ -1,0 +1,1 @@
+CC(C)(C)OC(=O)N1C[C@@H](NOCc2ccccc2)CC[C@@H]1C#N.[N-]=[N+]=[N-]

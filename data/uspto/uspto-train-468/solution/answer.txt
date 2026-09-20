@@ -1,0 +1,1 @@
+COC(=O)Cc1ccc(OCOc2ccc(Cl)cc2)cc1.O=C1CCC(=O)N1Br

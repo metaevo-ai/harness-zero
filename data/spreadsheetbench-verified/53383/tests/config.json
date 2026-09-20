@@ -1,0 +1,7 @@
+{
+  "id": "53383",
+  "instruction": "How can I create a formula in Excel to compare names and corresponding statuses across two worksheets, indicating 'matched' if both the name and status are the same and 'not matched' if they differ? The formula should check for a name in column A and then verify if the status in column B for that name matches across both sheets, as shown in the provided example workbook.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "worksheet2'!C3:C6",
+  "num_test_cases": 1
+}

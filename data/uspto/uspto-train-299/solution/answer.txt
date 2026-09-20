@@ -1,0 +1,1 @@
+CCOC(=O)/C=C/c1csc(NC2CCN(C(=O)c3ccc(Cl)cc3)C2)n1

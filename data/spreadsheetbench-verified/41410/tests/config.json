@@ -1,0 +1,7 @@
+{
+  "id": "41410",
+  "instruction": "I have a table in Excel with data across various arrays that includes information on heating, cooling, lighting, and other categories, located in the range B3:D22. I need to extract only the lighting data into a separate table that I have set up in the range F3:H6. How can I use Excel formulas to automate this process of extracting and populating the 'lighting' data into the new table?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "F4:H6",
+  "num_test_cases": 1
+}

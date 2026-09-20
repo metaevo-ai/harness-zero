@@ -1,0 +1,7 @@
+{
+  "id": "7902",
+  "instruction": "I need assistance with constructing a formula in my worksheet. I want to compare two values in a row, and based on that comparison, the formula should either return the equivalent value from the same row if it is present or perform a regular VLOOKUP. The specific use case and data structure are outlined in the attached worksheet.\nVLOOKUP(C3,Grouping!$A$2:$I$7,3,FALSE)",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Formula Required'!D3:J6",
+  "num_test_cases": 1
+}

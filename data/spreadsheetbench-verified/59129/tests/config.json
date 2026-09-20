@@ -1,0 +1,7 @@
+{
+  "id": "59129",
+  "instruction": "How can I adjust the SUMPRODUCT formula to calculate month over month headcount in Excel, so it does not continue to count employees who have been terminated?\u00a0\u00a0\u00a0\u00a0\u00a0My current formula is: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SUMPRODUCT(--(MONTH(YEAR($A$2:$A$22)>=E1))*(--(MONTH(YEAR($B2:$B$22)>=E1))))",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "E2:P2",
+  "num_test_cases": 1
+}

@@ -1,0 +1,32 @@
+{
+    "product_type_to_cheapest_product_id": {
+        "food processor": 597,
+        "air purifier": 1199,
+        "ironing board": 34,
+        "headphones": 797,
+        "telescope": 1416
+    },
+    "product_type_to_non_cheapest_product_ids": {
+        "food processor": [
+            598,
+            599,
+            594
+        ],
+        "air purifier": [
+            1196,
+            1200
+        ],
+        "ironing board": [
+            36,
+            37
+        ],
+        "headphones": [
+            799,
+            796
+        ],
+        "telescope": [
+            1419,
+            1414
+        ]
+    }
+}

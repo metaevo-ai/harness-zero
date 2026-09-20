@@ -1,0 +1,22 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match file_system.File.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "prepare start_file_path_to_content and end_file_path_to_content from start and end\nstate of user.files, then assert the files have been renamed (with proper content) as per\nprivate_data.start_to_end_file_path. Also lowercase the paths first.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain all the file paths from start_file_path_to_content's keys that are not in\nprivate_data.start_to_end_file_path. These are the file_paths that should not have been renamed.\nAssert their paths and contents are identical in the start and the end state.",
+        "label": "no_op_pass"
+    },
+    {
+        "requirement": "assert none of the file_system.Directory has been deleted by models.changed_records.",
+        "label": "no_op_pass"
+    }
+]

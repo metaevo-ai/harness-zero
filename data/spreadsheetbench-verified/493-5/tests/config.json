@@ -1,0 +1,7 @@
+{
+  "id": "493-5",
+  "instruction": "Create a macro or other solution in Excel that will delete row pairs in which the value in Column C from one row matches the value in Column D of another, the two reference numbers in Column A are the same and the Narrative values in Column F are the same.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Imported Data'!A1:F10",
+  "num_test_cases": 1
+}

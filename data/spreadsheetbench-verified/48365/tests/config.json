@@ -1,0 +1,7 @@
+{
+  "id": "48365",
+  "instruction": "How can I sum amounts from a data sheet using SUMIFS when a user can select up to 3 regions for a product, with an 'All' option that sums all amounts? I need a formula that can handle multiple region choices in one criteria using an 'OR' logic, or a more elegant alternative.SUMIFS(Data!$C:$C,Data!$A:$A,$C$2,Data!$B:$B,$C11)",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Dashboard'!C4",
+  "num_test_cases": 1
+}

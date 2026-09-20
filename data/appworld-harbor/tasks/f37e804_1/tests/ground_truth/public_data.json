@@ -1,0 +1,10 @@
+{
+    "personal_relations": [
+        "friends",
+        "partner",
+        "children"
+    ],
+    "work_relations": [
+        "coworkers"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "34033",
+  "instruction": "How can I create a formula that retrieves data from a column based on whether a given date falls within two adjacent dates (previous and following) in another column, while also meeting a specific condition in a third column? My intention is better explained within the file.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "K6:K10",
+  "num_test_cases": 1
+}

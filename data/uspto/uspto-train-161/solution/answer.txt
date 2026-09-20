@@ -1,0 +1,1 @@
+CC(C)(C)c1cc(Br)cc2c1OCC2(C)C.CCC[CH2][Sn]([CH2]CCC)([CH2]CCC)[c]1cccs1

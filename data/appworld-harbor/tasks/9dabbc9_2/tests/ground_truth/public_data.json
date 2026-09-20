@@ -1,0 +1,5 @@
+{
+    "change_percentage": 10,
+    "change_type": "decrease",
+    "expected_note": "The rent decreased by 10% this month."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "43213",
+  "instruction": "How can I calculate the average of a changing range in Excel, where the range increases as new data is added, and have this average automatically update as the range expands?B12 should contain the average of B11:B12,B13 should contain the average of B11:B13, output should be in 3 decimal places.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B12:B15",
+  "num_test_cases": 1
+}

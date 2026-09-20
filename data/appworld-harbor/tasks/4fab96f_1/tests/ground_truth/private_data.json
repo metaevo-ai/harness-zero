@@ -1,0 +1,28 @@
+{
+    "venmo_user_id_to_notification_messages": {
+        "{_INT_}:14": [
+            "Lindsey Simpson has sent you a reminder for their payment request of $29.00.",
+            "Lindsey Simpson has sent you a reminder for their payment request of $62.00.",
+            "Lindsey Simpson has sent you a reminder for their payment request of $17.00."
+        ],
+        "{_INT_}:25": [
+            "Lindsey Simpson has sent you a reminder for their payment request of $36.00.",
+            "Lindsey Simpson has sent you a reminder for their payment request of $60.00.",
+            "Lindsey Simpson has sent you a reminder for their payment request of $19.00.",
+            "Lindsey Simpson has sent you a reminder for their payment request of $21.00."
+        ]
+    },
+    "venmo_user_id_to_notification_payment_request_ids": {
+        "{_INT_}:14": [
+            3455,
+            3456,
+            3457
+        ],
+        "{_INT_}:25": [
+            3461,
+            3463,
+            3464,
+            3470
+        ]
+    }
+}

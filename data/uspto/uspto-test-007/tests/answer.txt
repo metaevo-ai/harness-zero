@@ -1,0 +1,1 @@
+O=C(OC(=O)C(F)(F)F)C(F)(F)F.O=[N+]([O-])c1cccc(CCNCCc2ccccc2)c1

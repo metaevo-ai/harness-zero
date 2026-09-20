@@ -1,0 +1,1 @@
+NC(=S)c1ccccc1.O=C(CCl)CCl

@@ -1,0 +1,1 @@
+COC(=O)CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H]1CCC(=O)N1.N

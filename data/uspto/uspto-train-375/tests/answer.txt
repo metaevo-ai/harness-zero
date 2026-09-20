@@ -1,0 +1,1 @@
+Cc1c(CO)cccc1-n1c([C@H]2CCCO2)nc2cc(OC(F)(F)F)ccc21

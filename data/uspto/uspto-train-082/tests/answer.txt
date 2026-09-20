@@ -1,0 +1,1 @@
+CC(Br)C(=O)Nc1ccc(Cl)cc1.Oc1ccnc2ccccc12

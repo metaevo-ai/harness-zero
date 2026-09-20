@@ -1,0 +1,1 @@
+C=C(C)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1.OO

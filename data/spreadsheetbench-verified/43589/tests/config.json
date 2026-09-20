@@ -1,0 +1,7 @@
+{
+  "id": "43589",
+  "instruction": "Calculate the number of days using Excel where I have a range of dates in a cell formatted as text, such as '2 to 5' to represent 'June 2 to June 5', which should count as 4 days. Is there a way to process these text-based date ranges to get the number of days between them?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B2",
+  "num_test_cases": 1
+}

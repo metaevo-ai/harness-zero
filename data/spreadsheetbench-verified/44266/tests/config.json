@@ -1,0 +1,7 @@
+{
+  "id": "44266",
+  "instruction": "How can I use the INDEX and MATCH functions to retrieve data from a specific cell in the 'Data' tab and place it into a 'Lookup' tab, specifically pulling values from Row 14 in the 'Data' tab into the 'Lookup' tab, based on the year? VLOOKUP cannot be used for this purpose. If no matching value is found, return an empty string.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "Lookup'!B2:B12",
+  "num_test_cases": 1
+}

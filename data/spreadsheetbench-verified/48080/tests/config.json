@@ -1,0 +1,7 @@
+{
+  "id": "48080",
+  "instruction": "How can I create a column in Excel that displays the value of every nth row from another column? I've tried using OFFSET but haven't succeeded. I've included a worksheet with data in column A and part of the desired outcome in column C for reference.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C2:C6",
+  "num_test_cases": 1
+}

@@ -1,0 +1,51 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "tr_solo@gmail.com",
+            "password": "Q3c_DvY"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists",
+        "data": {
+            "query": "Aria Sterling"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "query": "Aria Sterling",
+            "artist_id": 8,
+            "min_play_count": 990
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/music_player/song_queue",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RyX3NvbG9AZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.sSUfy5xYxOpVCLKB_KnWKG54-mQSBqDaNoWuUirNawM",
+            "song_id": 51
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

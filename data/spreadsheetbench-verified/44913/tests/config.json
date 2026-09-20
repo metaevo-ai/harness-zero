@@ -1,0 +1,7 @@
+{
+  "id": "44913",
+  "instruction": "I have an Excel table with different IDs in column A and their corresponding turnover amounts in column B across different months in column C. In column D, I want to display the maximum turnover for each ID, but only show the value in the row where that maximum occurs. All other rows for that ID should be blank/empty (\"\"). Have no header for column D and no formatting. Please do this without the MAXIFS formula. Use the MAX formula.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "D2:D13",
+  "num_test_cases": 1
+}

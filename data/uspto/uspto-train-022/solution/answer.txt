@@ -1,0 +1,1 @@
+O=CCCc1ccc2ccccc2c1.c1ccc(COc2ccccc2C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1

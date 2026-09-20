@@ -1,0 +1,1 @@
+CC(C)[Si](C(C)C)(C(C)C)n1ncc2cc(C(O)c3ccccc3C#N)ccc21

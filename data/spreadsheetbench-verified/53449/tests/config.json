@@ -1,0 +1,7 @@
+{
+  "id": "53449",
+  "instruction": "How can I categorize patient visits from a dataset as including a Covid Test or not?  I want to flag specific patient visits in a new column called \u201cTest\u201d that returns a \u201cX\u201d when the Procedure Category ID lists a \u201cCovid Test.\u201d Any other return in Procedure Category ID should return a blank. Make sure the new column is formatted to match the prior column.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "G2:G16",
+  "num_test_cases": 1
+}

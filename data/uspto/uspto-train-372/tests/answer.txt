@@ -1,0 +1,1 @@
+CCCCOCCOc1ccc(-c2ccc3c(c2)C=C(C(=O)Nc2ccc(SCc4nccs4)cc2)CCN3CC(C)C)cc1.O=C(OO)c1cccc(Cl)c1

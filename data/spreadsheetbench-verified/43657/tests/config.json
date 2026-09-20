@@ -1,0 +1,7 @@
+{
+  "id": "43657",
+  "instruction": "When I specify a person's name, I want to know how many times that name is highlighted in green in excel\nThe current formula is:\nSUMPRODUCT(--ISNUMBER(SEARCH(L2,C3:G3)))\nWrite a formula to the left of my list of names that accomplishes this task.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "K2:K8",
+  "num_test_cases": 1
+}

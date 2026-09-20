@@ -1,0 +1,36 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists",
+        "data": {
+            "query": "Zoey James"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "artist_id": 9,
+            "sort_by": "+play_count"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success",
+            "answer": "Lost in the Wilderness of Love"
+        }
+    }
+]

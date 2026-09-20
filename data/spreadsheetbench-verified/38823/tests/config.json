@@ -1,0 +1,7 @@
+{
+  "id": "38823",
+  "instruction": "I need a formula to sum values in a range between two dates where a cell contains a specific search term. \n\nThe values to sum are based on whether the corresponding date falls within the given date range and if the associated cell includes the search term.\n An example of the expected output is provided in the attached file. Apply to all search terms in column H.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "I4:I7",
+  "num_test_cases": 1
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match phone.Alarm.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the updated alarms' ids match the union of\nprivate_data.target_alarm_id and private_data.to_disable_alarm_ids.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the only changed field in target_alarm_id alarm is \"time\".",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the updated time in private_data.target_alarm_id alarm matches private_data.updated_time.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all alarms from to_disable_alarm_ids are disabled now.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all alarms from to_disable_alarm_ids have changed in only \"enabled\" field.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added, updated, removed phone.Alarm records using models.changed_records,\nand assert 0 were added or removed.",
+        "label": "no_op_pass"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/simple_note/auth/token",
+        "data": {
+            "username": "siwhit@gmail.com",
+            "password": "%o@8@lT"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzaXdoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.4jl8s2rZzBoz1ejtH-G_Xui7fThpkfGUp3MEoTnlQNU",
+            "query": "bucket list"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/3041",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzaXdoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.4jl8s2rZzBoz1ejtH-G_Xui7fThpkfGUp3MEoTnlQNU"
+        }
+    },
+    {
+        "method": "patch",
+        "url": "/simple_note/notes/3041",
+        "data": {
+            "content": "# My Bucket List ([x] = done, [ ] = not done))\n\n[ ] Going on a safari in Africa\n[ ] Taking a hot springs bath in Iceland\n[ ] Learning to scuba dive\n[x] Exploring the Amazon rainforest\n[ ] Taking a solo backpacking trip\n[x] Staying in an overwater bungalow\n[ ] Cycling across a country or a long trail\n[ ] Hiking the Inca Trail to Machu Picchu\n[x] Attending a major art exhibition\n[ ] Exploring a deep-sea submarine",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzaXdoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.4jl8s2rZzBoz1ejtH-G_Xui7fThpkfGUp3MEoTnlQNU"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

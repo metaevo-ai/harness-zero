@@ -1,0 +1,1 @@
+Nc1cccc(Cl)c1.O=c1cc(CBr)c2cccc(F)c2[nH]1

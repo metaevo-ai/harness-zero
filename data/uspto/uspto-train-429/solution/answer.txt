@@ -1,0 +1,1 @@
+FC(F)(F)c1cccc(COc2ccc(Br)cn2)c1.N#[C][Cu]

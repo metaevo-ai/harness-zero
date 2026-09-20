@@ -1,0 +1,7 @@
+{
+  "id": "1818",
+  "instruction": "I have a spreadsheet tracking students' yearly performance and need a formula to identify the lowest performing students and compile this information on a Summary sheet. I am using Excel 2013, which doesn't have the FILTER function, so I require an alternative method to accomplish this.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Summary'!B3:C68",
+  "num_test_cases": 1
+}

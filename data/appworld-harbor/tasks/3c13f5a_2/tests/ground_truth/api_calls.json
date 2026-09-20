@@ -1,0 +1,191 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "3567801924",
+            "password": "8qAz[-V"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNTY3ODAxOTI0IiwiZXhwIjoxNjg0NDEyMDk4fQ.ipU9Mm3TcTreLrGmkJEpAGxmhm22HEHSFu7q6D9AiDg",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNTY3ODAxOTI0IiwiZXhwIjoxNjg0NDEyMDk4fQ.ipU9Mm3TcTreLrGmkJEpAGxmhm22HEHSFu7q6D9AiDg",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNTY3ODAxOTI0IiwiZXhwIjoxNjg0NDEyMDk4fQ.ipU9Mm3TcTreLrGmkJEpAGxmhm22HEHSFu7q6D9AiDg",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNTY3ODAxOTI0IiwiZXhwIjoxNjg0NDEyMDk4fQ.ipU9Mm3TcTreLrGmkJEpAGxmhm22HEHSFu7q6D9AiDg",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNTY3ODAxOTI0IiwiZXhwIjoxNjg0NDEyMDk4fQ.ipU9Mm3TcTreLrGmkJEpAGxmhm22HEHSFu7q6D9AiDg",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNTY3ODAxOTI0IiwiZXhwIjoxNjg0NDEyMDk4fQ.ipU9Mm3TcTreLrGmkJEpAGxmhm22HEHSFu7q6D9AiDg",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNTY3ODAxOTI0IiwiZXhwIjoxNjg0NDEyMDk4fQ.ipU9Mm3TcTreLrGmkJEpAGxmhm22HEHSFu7q6D9AiDg",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNTY3ODAxOTI0IiwiZXhwIjoxNjg0NDEyMDk4fQ.ipU9Mm3TcTreLrGmkJEpAGxmhm22HEHSFu7q6D9AiDg",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNTY3ODAxOTI0IiwiZXhwIjoxNjg0NDEyMDk4fQ.ipU9Mm3TcTreLrGmkJEpAGxmhm22HEHSFu7q6D9AiDg",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszNTY3ODAxOTI0IiwiZXhwIjoxNjg0NDEyMDk4fQ.ipU9Mm3TcTreLrGmkJEpAGxmhm22HEHSFu7q6D9AiDg",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/auth/token",
+        "data": {
+            "username": "lindseysimpson@gmail.com",
+            "password": "lB27q[v"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/file_system/directory",
+        "data": {
+            "directory_path": "~/",
+            "substring": "internet",
+            "entry_type": "files",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStsaW5kc2V5c2ltcHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.hr9qNvuyWbHzQOrhWhiksjIi8WIbExB7oTOcFRNrDL8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "/home/lindsey/bills/internet/2023-04.txt",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStsaW5kc2V5c2ltcHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.hr9qNvuyWbHzQOrhWhiksjIi8WIbExB7oTOcFRNrDL8"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "lindseysimpson@gmail.com",
+            "password": "%iLp@(g"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/payment_requests",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytsaW5kc2V5c2ltcHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3MzF9.fKrXHumjBkx0PsW3veSnUrdI3NZkliQ8Hm7SolJODXI",
+            "user_email": "joseharr@gmail.com",
+            "amount": 46,
+            "description": "internet bill for the last month."
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/payment_requests",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytsaW5kc2V5c2ltcHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3MzF9.fKrXHumjBkx0PsW3veSnUrdI3NZkliQ8Hm7SolJODXI",
+            "user_email": "paul_mill@gmail.com",
+            "amount": 46,
+            "description": "internet bill for the last month."
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/payment_requests",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytsaW5kc2V5c2ltcHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3MzF9.fKrXHumjBkx0PsW3veSnUrdI3NZkliQ8Hm7SolJODXI",
+            "user_email": "chris.mcco@gmail.com",
+            "amount": 46,
+            "description": "internet bill for the last month."
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

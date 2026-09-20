@@ -1,0 +1,7 @@
+{
+  "id": "55260",
+  "instruction": "I need to round the amount in the second column to the nearest $5. And I want the formula in C1 to round down to 365.00 when the difference to the nearest 5 is in the middle exactly.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C1:C2",
+  "num_test_cases": 1
+}

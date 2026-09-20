@@ -1,0 +1,7 @@
+{
+  "id": "599-9",
+  "instruction": "In my Excel workbook, column G contains a list of dates that changes with every report run. I need a script that would transfer the date from column G to column K when a date is present in column G. If there is no date in column G, then the script should leave the existing value in column K unchanged. Could someone assist me with this and perhaps look at the workbook I've attached for reference?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Before'!K2:K19",
+  "num_test_cases": 1
+}

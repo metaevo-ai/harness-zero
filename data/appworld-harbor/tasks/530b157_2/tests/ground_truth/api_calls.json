@@ -1,0 +1,152 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "8903665635",
+            "password": "X^1PnVS"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "query": "Joseph"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "phone_number": "2233697879"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "phone_number": "2233697879"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "phone_number": "2233697879"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "phone_number": "2233697879"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "phone_number": "2233697879"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "phone_number": "2233697879"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "phone_number": "2233697879"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "phone_number": "2233697879"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "phone_number": "2233697879"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "phone_number": "2233697879"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "morgan-harrison@gmail.com",
+            "password": "O*3)aho"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbyttb3JnYW4taGFycmlzb25AZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyNzQxfQ.fKMPNgTt0iyUaK-FSMs2vWKyVM82cTZ4sYNG2tnjNoY",
+            "receiver_email": "joseph.webe@gmail.com",
+            "amount": 98,
+            "description": "Grocery Bill"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/phone/messages/text/2233697879",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4OTAzNjY1NjM1IiwiZXhwIjoxNjg0NDEyMDk4fQ.Y0VUib_9Y54E3CmAmy3SVdREKwodk-ttLgOfaE0gCeM",
+            "message": "Done."
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

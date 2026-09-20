@@ -1,0 +1,7 @@
+{
+  "id": "414-20",
+  "instruction": "Delete all rows above the first occurrence of the text \u201cInvoice No.\u201d in column A. The macro should search for the phrase (case-insensitive) and delete everything above it, leaving the \u201cInvoice No.\u201d row and all rows below untouched.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A4:A18",
+  "num_test_cases": 1
+}

@@ -1,0 +1,1 @@
+CC(C)(C)[Si](C)(C)O[C@H]1C[C@H](n2cc(I)c3c(N)ncnc32)OC1(CO)CO

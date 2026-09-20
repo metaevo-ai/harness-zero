@@ -1,0 +1,7 @@
+{
+  "id": "416-15",
+  "instruction": "I have an Excel spreadsheet with a column of dates where some cells include a time value that starts with 'T' and ends with 'Z' and these strings are 14 characters long. I'm seeking assistance to modify an existing macro to remove these time values, leaving just the date in each cell of column A. Outputs should adhere to m/dd/yyyy (see existing A2 format)",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A2:A19",
+  "num_test_cases": 1
+}

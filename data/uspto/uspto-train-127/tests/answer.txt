@@ -1,0 +1,1 @@
+C1COCCN1.C[C@@H]1CN(c2cc(=O)c3cc(C(=O)O)cc(C4CCCN4c4cc(F)cc(F)c4)c3o2)CCO1

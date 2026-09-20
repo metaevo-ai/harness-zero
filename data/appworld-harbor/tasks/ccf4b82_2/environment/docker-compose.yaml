@@ -1,0 +1,39 @@
+services:
+  main:
+    image: ahd-appworld-client:v2
+    command: ["appworld", "serve"]
+    # Harbor uploads files with host ownership; AHD must chmod its CLI wrapper.
+    cap_add: [FOWNER]
+    networks: [appworld, agent-egress]
+    depends_on:
+      world:
+        condition: service_healthy
+  world:
+    image: ahd-appworld-world:v2
+    command: ["python", "/opt/appworld_env/server.py"]
+    environment:
+      APPWORLD_TASK_ID: "ccf4b82_2"
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    tmpfs:
+      - /tmp
+      - /opt/appworld/experiments
+    volumes:
+      - world-export:/export
+    networks: [appworld]
+    healthcheck:
+      test: ["CMD", "curl", "--noproxy", "*", "-fsS", "http://127.0.0.1:8000/health"]
+      interval: 2s
+      timeout: 2s
+      retries: 60
+networks:
+  agent-egress:
+    driver: bridge
+  appworld:
+    internal: true
+    # Internal networks otherwise still expose services on the host bridge IP.
+    driver_opts:
+      com.docker.network.bridge.inhibit_ipv4: "true"
+volumes:
+  world-export:

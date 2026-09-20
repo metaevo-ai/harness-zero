@@ -1,0 +1,191 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "2474975253",
+            "password": "b4GXZH6"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDc0OTc1MjUzIiwiZXhwIjoxNjg0NDEyMDk4fQ.jM3mjmaB9RFM22Eo4fCwYy8R_zvElCT3CsLBJwPstgw",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDc0OTc1MjUzIiwiZXhwIjoxNjg0NDEyMDk4fQ.jM3mjmaB9RFM22Eo4fCwYy8R_zvElCT3CsLBJwPstgw",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDc0OTc1MjUzIiwiZXhwIjoxNjg0NDEyMDk4fQ.jM3mjmaB9RFM22Eo4fCwYy8R_zvElCT3CsLBJwPstgw",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDc0OTc1MjUzIiwiZXhwIjoxNjg0NDEyMDk4fQ.jM3mjmaB9RFM22Eo4fCwYy8R_zvElCT3CsLBJwPstgw",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDc0OTc1MjUzIiwiZXhwIjoxNjg0NDEyMDk4fQ.jM3mjmaB9RFM22Eo4fCwYy8R_zvElCT3CsLBJwPstgw",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDc0OTc1MjUzIiwiZXhwIjoxNjg0NDEyMDk4fQ.jM3mjmaB9RFM22Eo4fCwYy8R_zvElCT3CsLBJwPstgw",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDc0OTc1MjUzIiwiZXhwIjoxNjg0NDEyMDk4fQ.jM3mjmaB9RFM22Eo4fCwYy8R_zvElCT3CsLBJwPstgw",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDc0OTc1MjUzIiwiZXhwIjoxNjg0NDEyMDk4fQ.jM3mjmaB9RFM22Eo4fCwYy8R_zvElCT3CsLBJwPstgw",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDc0OTc1MjUzIiwiZXhwIjoxNjg0NDEyMDk4fQ.jM3mjmaB9RFM22Eo4fCwYy8R_zvElCT3CsLBJwPstgw",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDc0OTc1MjUzIiwiZXhwIjoxNjg0NDEyMDk4fQ.jM3mjmaB9RFM22Eo4fCwYy8R_zvElCT3CsLBJwPstgw",
+            "query": "roommate",
+            "relationship": "roommate"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/auth/token",
+        "data": {
+            "username": "joseharr@gmail.com",
+            "password": "mv-l]Ud"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/file_system/directory",
+        "data": {
+            "directory_path": "~/",
+            "substring": "electricity",
+            "entry_type": "files",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStqb3NlaGFyckBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.AYschL4E16bkhuN1k5c_6ujZgG3DRJ0Sg9IQliCK0qE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "/home/jose/bills/electricity/2023-04.txt",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStqb3NlaGFyckBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.AYschL4E16bkhuN1k5c_6ujZgG3DRJ0Sg9IQliCK0qE"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "joseharr@gmail.com",
+            "password": "uNK8[nt"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/payment_requests",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqb3NlaGFyckBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3MzF9.N16_63rC-5gVZ9flB2zvmADWL6uYVPOs2ABs9poGB9U",
+            "user_email": "lindseysimpson@gmail.com",
+            "amount": 30,
+            "description": "For electricity bill."
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/payment_requests",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqb3NlaGFyckBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3MzF9.N16_63rC-5gVZ9flB2zvmADWL6uYVPOs2ABs9poGB9U",
+            "user_email": "paul_mill@gmail.com",
+            "amount": 30,
+            "description": "For electricity bill."
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/payment_requests",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqb3NlaGFyckBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3MzF9.N16_63rC-5gVZ9flB2zvmADWL6uYVPOs2ABs9poGB9U",
+            "user_email": "chris.mcco@gmail.com",
+            "amount": 30,
+            "description": "For electricity bill."
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

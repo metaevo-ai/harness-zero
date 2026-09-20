@@ -1,0 +1,7 @@
+{
+  "id": "52220",
+  "instruction": "How can I create a formula in Excel that will display the sum of two horizontal cells in a third cell, only if both of the first two cells contain a value? Specifically, if there's a calendar date in cell A1 and a number representing days or hours in cell B1, I want the sum to show in cell C1 but only if both A1 and B1 are not empty.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C2:C3",
+  "num_test_cases": 1
+}

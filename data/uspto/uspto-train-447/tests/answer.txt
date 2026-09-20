@@ -1,0 +1,1 @@
+Cc1ccccc1[C@H](CC(=O)C1CCC(=O)N(C)C1)c1ccc(N2CCC(C(=O)[O-])CC2)cc1.NO

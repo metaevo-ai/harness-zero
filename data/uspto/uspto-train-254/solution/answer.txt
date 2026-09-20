@@ -1,0 +1,1 @@
+COCCl.O=Cc1ccc(OCc2ccccc2)cc1O

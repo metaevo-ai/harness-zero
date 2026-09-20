@@ -1,0 +1,7 @@
+{
+  "id": "353-6",
+  "instruction": "I am working with a large Excel sheet, and I need a solution to filter column 'I' to only display 'Hub Notes', then select all visible/filtered rows, excluding the header row '1', and delete these selected rows. This process needs to be replicable for different criteria in other columns. My original macro doesn't work because it requires manually selecting the row below the header which changes with each report.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Data'!A1:AH20",
+  "num_test_cases": 1
+}

@@ -1,0 +1,80 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/file_system/auth/token",
+        "data": {
+            "username": "jasonsimp@gmail.com",
+            "password": "6ubYf]C"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/file_system/directory",
+        "data": {
+            "directory_path": "~/photos/vacations/",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStqYXNvbnNpbXBAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ._cqOYHfZ0nZ345YW72q2I8SdweuWDc6b4okDY-gma90",
+            "recursive": false
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/photos/vacations/bali",
+            "compressed_file_path": "~/photos/vacations/bali.tar",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStqYXNvbnNpbXBAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ._cqOYHfZ0nZ345YW72q2I8SdweuWDc6b4okDY-gma90",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/photos/vacations/barcelona",
+            "compressed_file_path": "~/photos/vacations/barcelona.tar",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStqYXNvbnNpbXBAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ._cqOYHfZ0nZ345YW72q2I8SdweuWDc6b4okDY-gma90",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/photos/vacations/kyoto",
+            "compressed_file_path": "~/photos/vacations/kyoto.tar",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStqYXNvbnNpbXBAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ._cqOYHfZ0nZ345YW72q2I8SdweuWDc6b4okDY-gma90",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/photos/vacations/maldives",
+            "compressed_file_path": "~/photos/vacations/maldives.tar",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStqYXNvbnNpbXBAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ._cqOYHfZ0nZ345YW72q2I8SdweuWDc6b4okDY-gma90",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

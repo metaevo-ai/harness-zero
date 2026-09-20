@@ -1,0 +1,1 @@
+CC(C)(C)c1cc(C=O)c(O)c(-c2ccc(C(F)(F)F)nc2)c1.NO

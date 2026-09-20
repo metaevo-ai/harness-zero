@@ -1,0 +1,1 @@
+N#CC[C@H]1C[C@H](c2cccc(Cl)c2)[C@@H](c2ccc(Cl)cc2)N(CC2CC2)C1=O.[N-]=[N+]=[N-]

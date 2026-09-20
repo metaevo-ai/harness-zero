@@ -1,0 +1,1 @@
+COc1cccc(Nc2c(C(N)=O)cnc3c(C)cc(S(=O)(=O)c4cccc(C(=O)Nc5ccc(-c6ccc(CO)cc6)cc5)c4)cc23)c1

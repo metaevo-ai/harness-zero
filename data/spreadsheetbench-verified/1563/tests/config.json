@@ -1,0 +1,7 @@
+{
+  "id": "1563",
+  "instruction": "In an Excel column (column A), I have a mixture of numbers and characters with some blank cells. How can I fill the blank cells in column B so that the result looks like the example shown in column B, where the blank cells are filled with the value of the closest non-blank cell above them? I am looking to perform this operation and generate the results all in one go, completing the answers in column B.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B2:B30",
+  "num_test_cases": 1
+}

@@ -1,0 +1,1 @@
+COC(=O)[C@H](Cc1ccc(O)c([N+](=O)[O-])c1)NC(=O)OC(C)(C)C

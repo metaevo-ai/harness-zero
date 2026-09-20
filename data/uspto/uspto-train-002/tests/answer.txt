@@ -1,0 +1,1 @@
+COCCN(C)c1cc(NC(=O)OC(C)(C)C)c(N)cc1Cl.Cc1cc(-c2cc(C(=O)CC(=O)OC(C)(C)C)ccn2)on1

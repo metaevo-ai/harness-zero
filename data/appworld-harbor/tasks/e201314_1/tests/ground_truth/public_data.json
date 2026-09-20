@@ -1,0 +1,10 @@
+{
+    "relations": [
+        "friends",
+        "roommates"
+    ],
+    "event_day_text": "Saturday",
+    "product_type": "backpack",
+    "min_rating": 4.5,
+    "min_num_product_reviews": 6
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match spotify.UserArtistFollowing.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "if public_data.action is \"Follow\",\nassert IDs of added artist followings match private_data.to_be_acted_upon_artist_ids (ignore_order),\nif public_data.action is \"Unfollow\",\nassert IDs of removed artist followings match private_data.to_be_acted_upon_artist_ids (ignore_order).",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added, removed spotify.UserArtistFollowing records using models.changed_records, then,\nif public_data.action is \"Follow\", assert 0 have been removed,\nif public_data.action is \"Unfollow\", assert 0 have been added.",
+        "label": "no_op_pass"
+    }
+]

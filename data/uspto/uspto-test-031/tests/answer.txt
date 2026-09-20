@@ -1,0 +1,1 @@
+COC(=O)CCc1cccc(CNCc2ccc(-c3cccnc3)cc2)c1.O=S(=O)(Cl)c1ccccn1

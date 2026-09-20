@@ -1,0 +1,1 @@
+CCOC(=O)C(=O)CC(=O)c1ccc2c(c1)c1cc(-c3ccc(Br)cc3)c(=O)n(C)c1n2C.NN

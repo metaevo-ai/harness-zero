@@ -1,0 +1,1 @@
+CCN.O=[N+]([O-])c1cnc(Br)cc1Br

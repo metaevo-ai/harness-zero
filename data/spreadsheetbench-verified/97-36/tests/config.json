@@ -1,0 +1,7 @@
+{
+  "id": "97-36",
+  "instruction": "How can I create a VBA code that deletes all rows in an Excel sheet above a specified substring, starting from the first row and first column, with the search string 'domestic'?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:A22",
+  "num_test_cases": 1
+}

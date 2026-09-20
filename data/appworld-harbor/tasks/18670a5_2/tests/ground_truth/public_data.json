@@ -1,0 +1,4 @@
+{
+    "buffer_mins": 15,
+    "reminder_subject_template": "Reminder to Attend => <meeting_name>"
+}

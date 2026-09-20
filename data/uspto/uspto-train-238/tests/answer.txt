@@ -1,0 +1,1 @@
+CCOc1ccc2c(C#N)c(-c3ccc(N)cc3)n(C3CCC3)c2c1.O=C(OC(=O)C(F)(F)F)C(F)(F)F

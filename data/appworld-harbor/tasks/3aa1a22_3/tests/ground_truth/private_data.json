@@ -1,0 +1,13 @@
+{
+    "to_delete_message_ids": [
+        16812,
+        16814,
+        16816
+    ],
+    "to_accept_group_ids": [
+        67,
+        188,
+        179
+    ],
+    "user_id": 70
+}

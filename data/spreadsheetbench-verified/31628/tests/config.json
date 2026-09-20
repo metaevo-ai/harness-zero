@@ -1,0 +1,7 @@
+{
+  "id": "31628",
+  "instruction": "Extract the number of the last day from a range of dates in cells A1:A11 in my Excel sheet, ensuring that the last date corresponds to the final entry if the dates are not sequential. Display the resulting date in cell B1 as a static number and not a formula while retaining the inputs in column A.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B1",
+  "num_test_cases": 1
+}

@@ -1,0 +1,1 @@
+Cc1ccc(-c2ccon2)cc1.O=C1CCC(=O)N1Br

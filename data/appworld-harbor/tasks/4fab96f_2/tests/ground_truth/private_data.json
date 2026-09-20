@@ -1,0 +1,58 @@
+{
+    "venmo_user_id_to_notification_messages": {
+        "{_INT_}:59": [
+            "Kiara Bailey has sent you a reminder for their payment request of $6.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $14.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $45.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $195.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $14.00."
+        ],
+        "{_INT_}:70": [
+            "Kiara Bailey has sent you a reminder for their payment request of $326.00."
+        ],
+        "{_INT_}:86": [
+            "Kiara Bailey has sent you a reminder for their payment request of $6.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $23.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $40.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $25.00."
+        ],
+        "{_INT_}:41": [
+            "Kiara Bailey has sent you a reminder for their payment request of $60.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $25.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $30.00."
+        ],
+        "{_INT_}:36": [
+            "Kiara Bailey has sent you a reminder for their payment request of $9.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $35.00.",
+            "Kiara Bailey has sent you a reminder for their payment request of $90.00."
+        ]
+    },
+    "venmo_user_id_to_notification_payment_request_ids": {
+        "{_INT_}:59": [
+            4509,
+            4511,
+            4512,
+            4515,
+            4518
+        ],
+        "{_INT_}:70": [
+            4531
+        ],
+        "{_INT_}:86": [
+            4559,
+            4561,
+            4562,
+            4565
+        ],
+        "{_INT_}:41": [
+            4571,
+            4575,
+            4576
+        ],
+        "{_INT_}:36": [
+            4580,
+            4581,
+            4583
+        ]
+    }
+}

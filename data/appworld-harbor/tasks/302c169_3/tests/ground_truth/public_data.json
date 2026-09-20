@@ -1,0 +1,6 @@
+{
+    "alarm_type": "go-to-sleep",
+    "metric_name": "minutes",
+    "metric_value": 20,
+    "later_earlier": "later"
+}

@@ -1,0 +1,1 @@
+CC(C)(C)OC(=O)OC(=O)OC(C)(C)C.Cn1ncc2cc(Oc3ccc(F)cc3CN)ccc21

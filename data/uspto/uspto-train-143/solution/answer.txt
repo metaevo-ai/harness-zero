@@ -1,0 +1,1 @@
+C=[CH][Sn]([CH2]CCC)([CH2]CCC)[CH2]CCC.O=S(=O)(c1ccc(Cl)nc1)c1ccccc1F

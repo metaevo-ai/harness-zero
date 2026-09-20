@@ -1,0 +1,7 @@
+{
+  "id": "32562",
+  "instruction": "Automate the process of identifying each unique number in Column A and counting its order of occurrences without having to manually create an ascending list, such as from 1 to 10,000 and replacing it with the current data in column B.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B2:B21",
+  "num_test_cases": 1
+}

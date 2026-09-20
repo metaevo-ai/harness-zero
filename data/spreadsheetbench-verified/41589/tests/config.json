@@ -1,0 +1,7 @@
+{
+  "id": "41589",
+  "instruction": "How can I Create a function that populates Column J based on the last contact date in Column H and a yes/no response in Column I. The logic should be: If H4 is within the last 30 days AND I4 is 'YES' then display 'HOLD'. If H4 is more than 30 days ago AND I4 is 'YES' then display 'TOUCH BASE'.  In all other cases display 'NO ACTION'\"",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Contact List'!J4",
+  "num_test_cases": 1
+}

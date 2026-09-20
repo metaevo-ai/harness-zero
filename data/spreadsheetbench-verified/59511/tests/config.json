@@ -1,0 +1,7 @@
+{
+  "id": "59511",
+  "instruction": "I need to know the formula for incrementing a value by 1 for every 1,000, without using the XLOOKUP formula. This is because I have to use the formula in Google Sheets. The example of the expected result is shown in column F which is included in the attachment.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "F2:F6",
+  "num_test_cases": 1
+}

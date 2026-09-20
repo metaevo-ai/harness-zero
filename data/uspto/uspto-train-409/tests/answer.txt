@@ -1,0 +1,1 @@
+COc1ccc(-c2nc(Sc3ccccc3NC(C)=O)[nH]c2-c2ccc(OC)cc2)cc1.O=C(OO)c1cccc(Cl)c1

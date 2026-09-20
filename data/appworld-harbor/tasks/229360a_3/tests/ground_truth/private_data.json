@@ -1,0 +1,17 @@
+{
+    "to_remove_library_song_ids": [
+        259,
+        105,
+        139,
+        143,
+        214,
+        23,
+        310
+    ],
+    "to_remove_library_album_ids": [
+        8,
+        16,
+        4,
+        7
+    ]
+}

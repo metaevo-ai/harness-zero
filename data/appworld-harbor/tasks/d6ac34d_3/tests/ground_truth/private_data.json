@@ -1,0 +1,20 @@
+{
+    "expected_title": "Habit Log -- 2023-05-18",
+    "expected_pinned": true,
+    "expected_header": "# Daily Habit Tracker (yes/no questions to answer daily)",
+    "expected_data": {
+        "exercised_atleast_30_mins": true,
+        "ate_homemade_meals": true,
+        "practiced_meditation": true,
+        "read_atleast_30_mins": true,
+        "drank_adequate_water": true,
+        "slept_over_7_hrs": true,
+        "wrote_gratitude_journal": false,
+        "limited_screen_time_to_1_hr": false,
+        "practiced_good_posture": false,
+        "connected_with_friends": false
+    },
+    "expected_tags": [
+        "habit-tracker"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "79-7",
+  "instruction": "I am struggling to use VBA to find and replace all instances of double quotes with nothing across all columns in a worksheet, not just column A. My current code performs the replacement but it doesn't work as intended and I need assistance to fix this issue. Additionally, I have an attached file where I'm trying to apply this action.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:A4",
+  "num_test_cases": 1
+}

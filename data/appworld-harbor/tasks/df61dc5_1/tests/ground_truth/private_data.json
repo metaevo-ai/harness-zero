@@ -1,0 +1,10 @@
+{
+    "to_like_transaction_ids": [
+        3809,
+        3813,
+        6221,
+        6224,
+        1245
+    ],
+    "min_transaction_datetime": "{_DATETIME_}:2023-01-01T00:00:00"
+}

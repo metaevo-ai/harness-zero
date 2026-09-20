@@ -1,0 +1,7 @@
+{
+  "id": "54675",
+  "instruction": "How can I modify my Excel formula in cell F3 so it counts all occurrences of the name 'Gary Stoddard' in column B, including those that appear in a cell with other names, as long as column A contains the number '4'? COUNTIFS(B:B,\"Gary Stoddard\",A:A,\"4\")",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "F3",
+  "num_test_cases": 1
+}

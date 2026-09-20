@@ -1,0 +1,1 @@
+CC1(C)Oc2ccncc2[C@@H](N2CCCC2=O)[C@@H]1O.O=C(OO)c1cccc(Cl)c1

@@ -1,0 +1,6 @@
+{
+    "relations": [
+        "friends",
+        "roommates"
+    ]
+}

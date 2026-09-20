@@ -1,0 +1,1 @@
+COC(=O)CNc1ccc(Cn2cc(-c3ccc(Cl)cc3Cl)nc2/C=C/c2ccc(Br)cc2)cc1.OB(O)c1cccc(C(F)(F)F)c1

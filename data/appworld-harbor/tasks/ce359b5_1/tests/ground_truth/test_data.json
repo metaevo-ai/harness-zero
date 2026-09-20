@@ -1,0 +1,34 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match spotify.UserLibrarySong, spotify.PlaylistSong.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert song_ids of the removed library songs match private_data.to_delete_library_song_link_ids.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert id of the removed playlist_songs match private_data.to_delete_playlist_song_link_ids.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "if public_data.before_after is \"after\",\nassert all songs in song library are released on or before public_data.year, in the end state.\nif public_data.before_after is \"before\",\nassert all songs in song library are released on or after public_data.year, in the end state.\nif public_data.before_after is \"in or after\",\nassert all songs in song library are released on before public_data.year, in the end state.\nif public_data.before_after is \"in or before\",\nassert all songs in song library are released on after public_data.year, in the end state.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "if public_data.before_after is \"after\",\nassert all songs in playlists are released on or before public_data.year, in the end state.\nif public_data.before_after is \"before\",\nassert all songs in playlists are released on or after public_data.year, in the end state.\nif public_data.before_after is \"in or after\",\nassert all songs in playlists are released on before public_data.year, in the end state.\nif public_data.before_after is \"in or before\",\nassert all songs in playlists are released on after public_data.year, in the end state.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added, updated, removed spotify.UserLibrarySong records using models.changed_records,\nand assert 0 have been added or updated.",
+        "label": "no_op_pass"
+    },
+    {
+        "requirement": "obtain added, updated, removed spotify.PlaylistSong records using models.changed_records,\nand assert 0 have been added or updated.",
+        "label": "no_op_pass"
+    }
+]

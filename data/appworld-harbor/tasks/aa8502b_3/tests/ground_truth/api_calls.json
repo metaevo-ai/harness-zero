@@ -1,0 +1,278 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "vicpowe@gmail.com",
+            "password": "MG}]ZZ9"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/liked_songs",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/liked_songs",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/liked_songs",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/liked_songs",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/liked_songs",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/liked_songs",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/liked_songs",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/liked_songs",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/liked_songs",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/liked_songs",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/1",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/2",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/3",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/4",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/5",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/8",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/10",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/11",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/12",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/14",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/16",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/17",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/following_artists/18",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3ZpY3Bvd2VAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.idhGRJkHzxyYhU-Y-BETJurmIMNgnRedLoX32Gwu6Y4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

@@ -1,0 +1,1 @@
+CC1(C)OB(c2ccc(-c3cnc(N)cn3)c(F)c2)OC1(C)C.CC[C@H](CO)NS(=O)(=O)c1ccccc1Br

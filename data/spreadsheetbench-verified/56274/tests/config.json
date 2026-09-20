@@ -1,0 +1,7 @@
+{
+  "id": "56274",
+  "instruction": "I need an Excel formula that will automatically populate cells D9, D10, D11, and D12 with the Opening Balance, Debits, Credits, and Closing Balance respectively, based on the Fiscal Month in cell D7. The details and expected results are outlined in the attached excel sheet.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "D9:D12",
+  "num_test_cases": 1
+}

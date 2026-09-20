@@ -1,0 +1,1 @@
+CN(C)c1ccc(CN)cc1.O=C1OC(=O)C(c2ccccc2)=C1Cl

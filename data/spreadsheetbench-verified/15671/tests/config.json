@@ -1,0 +1,7 @@
+{
+  "id": "15671",
+  "instruction": "I have an Excel sheet with 269 rows of data in Column A, which I have changed from number format to text format. Currently, to ensure each cell displays the actual text data correctly, I need to manually press F2 for each cell, which is time-consuming. Create a formula or shortcut to convert the entire column in one step instead of editing each cell individually.  Apply the results to column B.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B1:B260",
+  "num_test_cases": 1
+}

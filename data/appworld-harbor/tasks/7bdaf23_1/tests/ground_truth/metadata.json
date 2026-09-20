@@ -1,0 +1,12 @@
+{
+    "mode": "full",
+    "difficulty": 2,
+    "num_apps": 2,
+    "num_apis": 8,
+    "num_api_calls": 66,
+    "num_solution_code_lines": 60,
+    "seconds_to_solve": 0.64,
+    "seconds_to_evaluate": 2.44,
+    "seconds_to_validate": 3.7,
+    "seconds_to_generate": 1.71
+}

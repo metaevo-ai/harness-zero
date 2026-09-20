@@ -1,0 +1,7 @@
+{
+  "id": "51431",
+  "instruction": "Build a formula that can help me extract the first name from a string of names in a cell I'm aware of the TEXT TO COLUMNS function, but it's not always suitable for the dataset I'm working with. For example, I want the first full name listed in cell A2, which contains names separated by semicolons, to be displayed in cell B2. Full Name and separator example: \"name, name;\"",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B2",
+  "num_test_cases": 1
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match venmo.Notification, venmo.PaymentRequest.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all added payment requests's receivers match private_data.roommate_venmo_user_ids.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all added payment requests's amounts\nmatch private_data.this_month_bill_share (tolerance=0.51)",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all added payment requests's notes match public_data.note (normalize_text=True).",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added, updated, removed venmo.PaymentRequest records using models.changed_records,\nand assert 0 were updated or removed.",
+        "label": "no_op_pass"
+    }
+]

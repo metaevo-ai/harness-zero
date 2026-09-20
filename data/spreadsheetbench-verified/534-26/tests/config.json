@@ -1,0 +1,7 @@
+{
+  "id": "534-26",
+  "instruction": "How can I write a macro that will delete the entire column in an Excel sheet if the Date value in the column is earlier than the current month and year?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!I1:AQ1",
+  "num_test_cases": 1
+}

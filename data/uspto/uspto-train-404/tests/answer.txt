@@ -1,0 +1,1 @@
+COc1ccc2c3c1O[C@H]1[C@@]4(OC)CC[C@@]5(C[C@@H]4CSCc4ccccc4)[C@@H](C2)N(CC2CC2)CC[C@]315.O=C(OO)c1cccc(Cl)c1

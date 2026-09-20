@@ -1,0 +1,7 @@
+{
+  "id": "36764",
+  "instruction": "Write a formula in cell C2 of sheet 1 that sums up the total number of products from sheet 2, range R2:R363. This sum should only include products that match the value in cell A2 of sheet 1, which corresponds to the values in column A of sheet 2. For example, if the product in cell A2 of sheet 1 is fully linked, I expect to get a result of 126741.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Sheet1'!C2",
+  "num_test_cases": 1
+}

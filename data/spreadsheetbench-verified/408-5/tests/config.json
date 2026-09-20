@@ -1,0 +1,7 @@
+{
+  "id": "408-5",
+  "instruction": "How can I create a macro in Excel to calculate the sum of values in Column D for rows where Column E contains a zero, insert this result into Column D next to the row containing 'BR1 Sales' in Column C, and then delete all rows where Column E contains a zero except for the rows where the reference contains 'BR1 Sales'? Also delete blank lines. If Macro is not possible, just perform this task.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A1:E137",
+  "num_test_cases": 1
+}

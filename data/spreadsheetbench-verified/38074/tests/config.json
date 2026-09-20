@@ -1,0 +1,7 @@
+{
+  "id": "38074",
+  "instruction": "I need to calculate the profit in a table by subtracting expenses (1,2,3).  The columns contain both profit and expenses values, but I need to evaluate this calculation based where column A matches the case sensitive values in J2 using vectorized operations.  The formula should go in cells K2:K5.  Furthermore, after resolving the issue, amend the formula to consider blank cells as zeros, and format final output without decimals.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "K2:K5",
+  "num_test_cases": 1
+}

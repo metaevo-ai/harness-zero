@@ -1,0 +1,7 @@
+{
+  "id": "37554",
+  "instruction": "I'm using a SUMPRODUCT(ISNUMBER(SEARCH formula in cell F2 of my Excel spreadsheet, but it's not functioning correctly. My problem is that it counts the number 'Online Travel Agency' and incorrectly adds it to the 'Travel Agency' count. How do I modify the formula so that it only returns a value for an exact match?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "F2:F17",
+  "num_test_cases": 1
+}

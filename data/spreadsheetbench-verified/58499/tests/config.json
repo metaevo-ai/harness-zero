@@ -1,0 +1,7 @@
+{
+  "id": "58499",
+  "instruction": "How can I create a formula in Excel to list all the branches in column A that do not have a corresponding tick mark in column I? My attempts with an advanced filter have been unsuccessful, and I can't seem to extract the unticked branches correctly.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "A13:A14",
+  "num_test_cases": 1
+}

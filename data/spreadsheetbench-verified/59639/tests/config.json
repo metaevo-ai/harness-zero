@@ -1,0 +1,7 @@
+{
+  "id": "59639",
+  "instruction": "I have data within a single cell, formatted as a continuous string of characters (e.g., 'abcdefgh'), and I need to separate this string into multiple cells with each cell containing a single character from the string (e.g., 'a', 'b', 'c', etc.). I'm looking for assistance in creating a formula that can accomplish this task. A sample  has been provided for reference.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "D5:K7",
+  "num_test_cases": 1
+}

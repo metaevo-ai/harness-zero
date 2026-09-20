@@ -1,0 +1,34 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match file_system.File, file_system.Directory.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all added files have tilde_path starting with public_data.backup_directory_path.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all added files have path ending with \".md\".",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all added file_system.File records' paths match keys of\nprivate_data.file_path_to_content. (ignore_case)",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all added file_system.File records' contents\nmatch values of private_data.file_path_to_content (strip).",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all added file_system.File records' path to content\nmapping match that of private_data.file_path_to_content\n(strip and ignore case).",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added, updated, removed file_system.File records using models.changed_records,\nand assert 0 were updated or removed.",
+        "label": "no_op_pass"
+    }
+]

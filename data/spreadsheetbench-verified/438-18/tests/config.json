@@ -1,0 +1,7 @@
+{
+  "id": "438-18",
+  "instruction": "How can I replace specific values in an array with new values while copying data from a 'sheet INPUT' to designated 'sheet OUTPUT' in Excel? In the 'sheet INPUT', column F contains values ('UNATIDE STATES AMERICAN', 'FRANCE', 'KOREA', 'GERMANY', 'ITALY'), which need to be replaced by the corresponding shortened values ('USA', 'FRA', 'KOR', 'GR', 'IT') respectively, and this result should appear in the 'sheet OUTPUT', maintaining the rest of the data intact.\nrespectively.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'OUPUT'!A1:D6",
+  "num_test_cases": 1
+}

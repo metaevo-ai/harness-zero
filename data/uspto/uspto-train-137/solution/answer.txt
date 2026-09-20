@@ -1,0 +1,1 @@
+CC(C)c1ccc(S(=O)(=O)c2ccccc2)cc1S(=O)(=O)Cl.N#Cc1cccc(C(=O)N2CCC(N)CC2)c1

@@ -1,0 +1,139 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "6727300099",
+            "password": "4_%505T"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "patch",
+        "url": "/phone/alarms/414",
+        "data": {
+            "time": "06:50",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/alarms",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "patch",
+        "url": "/phone/alarms/417",
+        "data": {
+            "enabled": false,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "patch",
+        "url": "/phone/alarms/419",
+        "data": {
+            "enabled": false,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs2NzI3MzAwMDk5IiwiZXhwIjoxNjg0NDEyMDk4fQ.kb4T1rrCSqOj0my5ZVzT2ZMJIa-ExlXOorLSzpnJOWA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

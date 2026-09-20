@@ -1,0 +1,7 @@
+{
+  "id": "59160",
+  "instruction": "How can I compute the number of occurrences of 'Yes' or 'No' in a worksheet for a specific date using a formula, considering that the worksheet contains Date data? I have provided a sample workbook for reference.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "D3:G3",
+  "num_test_cases": 1
+}

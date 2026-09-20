@@ -1,0 +1,1 @@
+CC(=O)Cl.O=C(c1csc(C2CCNCC2)c1)N1CCC[C@@H]2CCCC[C@@H]21

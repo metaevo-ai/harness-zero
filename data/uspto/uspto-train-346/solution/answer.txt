@@ -1,0 +1,1 @@
+CCOC(=O)C1=C(N[C@@H](C)c2ccccc2)CCC(F)(F)C1

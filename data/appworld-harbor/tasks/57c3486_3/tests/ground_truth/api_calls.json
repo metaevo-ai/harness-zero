@@ -1,0 +1,1536 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "ed_wilson@gmail.com",
+            "password": "p_rHtax"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/following_artists",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/2",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "query": "Phoenix Rivers",
+            "artist_id": 2
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 1,
+            "query": "Phoenix Rivers",
+            "artist_id": 2
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 2,
+            "query": "Phoenix Rivers",
+            "artist_id": 2
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 3,
+            "query": "Phoenix Rivers",
+            "artist_id": 2
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 4,
+            "query": "Phoenix Rivers",
+            "artist_id": 2
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 5,
+            "query": "Phoenix Rivers",
+            "artist_id": 2
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 6,
+            "query": "Phoenix Rivers",
+            "artist_id": 2
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 7,
+            "query": "Phoenix Rivers",
+            "artist_id": 2
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 8,
+            "query": "Phoenix Rivers",
+            "artist_id": 2
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 9,
+            "query": "Phoenix Rivers",
+            "artist_id": 2
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/89/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/91/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/92/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/90/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/12/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/88/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/14/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/13/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/15/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/11/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/13",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "query": "Luna Starlight",
+            "artist_id": 13
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 1,
+            "query": "Luna Starlight",
+            "artist_id": 13
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 2,
+            "query": "Luna Starlight",
+            "artist_id": 13
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 3,
+            "query": "Luna Starlight",
+            "artist_id": 13
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 4,
+            "query": "Luna Starlight",
+            "artist_id": 13
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 5,
+            "query": "Luna Starlight",
+            "artist_id": 13
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 6,
+            "query": "Luna Starlight",
+            "artist_id": 13
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 7,
+            "query": "Luna Starlight",
+            "artist_id": 13
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 8,
+            "query": "Luna Starlight",
+            "artist_id": 13
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 9,
+            "query": "Luna Starlight",
+            "artist_id": 13
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/160/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/158/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/156/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/157/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/159/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/161/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/155/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/14",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "query": "Grace Harrison",
+            "artist_id": 14
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 1,
+            "query": "Grace Harrison",
+            "artist_id": 14
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 2,
+            "query": "Grace Harrison",
+            "artist_id": 14
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 3,
+            "query": "Grace Harrison",
+            "artist_id": 14
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 4,
+            "query": "Grace Harrison",
+            "artist_id": 14
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 5,
+            "query": "Grace Harrison",
+            "artist_id": 14
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 6,
+            "query": "Grace Harrison",
+            "artist_id": 14
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 7,
+            "query": "Grace Harrison",
+            "artist_id": 14
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 8,
+            "query": "Grace Harrison",
+            "artist_id": 14
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 9,
+            "query": "Grace Harrison",
+            "artist_id": 14
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/163/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/165/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/164/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/166/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/167/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/168/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/162/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/16",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "query": "Apollo Serenade",
+            "artist_id": 16
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 1,
+            "query": "Apollo Serenade",
+            "artist_id": 16
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 2,
+            "query": "Apollo Serenade",
+            "artist_id": 16
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 3,
+            "query": "Apollo Serenade",
+            "artist_id": 16
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 4,
+            "query": "Apollo Serenade",
+            "artist_id": 16
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 5,
+            "query": "Apollo Serenade",
+            "artist_id": 16
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 6,
+            "query": "Apollo Serenade",
+            "artist_id": 16
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 7,
+            "query": "Apollo Serenade",
+            "artist_id": 16
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 8,
+            "query": "Apollo Serenade",
+            "artist_id": 16
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 9,
+            "query": "Apollo Serenade",
+            "artist_id": 16
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/179/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/181/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/184/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/176/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/12/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/178/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/177/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/182/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/183/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/185/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/14/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/180/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/13/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/15/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/11/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/20",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "query": "Emily Rivers",
+            "artist_id": 20
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 1,
+            "query": "Emily Rivers",
+            "artist_id": 20
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 2,
+            "query": "Emily Rivers",
+            "artist_id": 20
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 3,
+            "query": "Emily Rivers",
+            "artist_id": 20
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 4,
+            "query": "Emily Rivers",
+            "artist_id": 20
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 5,
+            "query": "Emily Rivers",
+            "artist_id": 20
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 6,
+            "query": "Emily Rivers",
+            "artist_id": 20
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 7,
+            "query": "Emily Rivers",
+            "artist_id": 20
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 8,
+            "query": "Emily Rivers",
+            "artist_id": 20
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 9,
+            "query": "Emily Rivers",
+            "artist_id": 20
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/207/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/208/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/209/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/210/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/211/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/23",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "query": "Soulful Reverie",
+            "artist_id": 23
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 1,
+            "query": "Soulful Reverie",
+            "artist_id": 23
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 2,
+            "query": "Soulful Reverie",
+            "artist_id": 23
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 3,
+            "query": "Soulful Reverie",
+            "artist_id": 23
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 4,
+            "query": "Soulful Reverie",
+            "artist_id": 23
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 5,
+            "query": "Soulful Reverie",
+            "artist_id": 23
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 6,
+            "query": "Soulful Reverie",
+            "artist_id": 23
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 7,
+            "query": "Soulful Reverie",
+            "artist_id": 23
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 8,
+            "query": "Soulful Reverie",
+            "artist_id": 23
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 9,
+            "query": "Soulful Reverie",
+            "artist_id": 23
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/229/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/231/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/233/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/232/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/227/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/230/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/228/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/29",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "query": "Lucas Diaz",
+            "artist_id": 29
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 1,
+            "query": "Lucas Diaz",
+            "artist_id": 29
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 2,
+            "query": "Lucas Diaz",
+            "artist_id": 29
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 3,
+            "query": "Lucas Diaz",
+            "artist_id": 29
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 4,
+            "query": "Lucas Diaz",
+            "artist_id": 29
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 5,
+            "query": "Lucas Diaz",
+            "artist_id": 29
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 6,
+            "query": "Lucas Diaz",
+            "artist_id": 29
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 7,
+            "query": "Lucas Diaz",
+            "artist_id": 29
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 8,
+            "query": "Lucas Diaz",
+            "artist_id": 29
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 9,
+            "query": "Lucas Diaz",
+            "artist_id": 29
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/274/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/276/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/277/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/71/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/275/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/278/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/279/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/73/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/70/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/72/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/34",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "query": "Lily Moon",
+            "artist_id": 34
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 1,
+            "query": "Lily Moon",
+            "artist_id": 34
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 2,
+            "query": "Lily Moon",
+            "artist_id": 34
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 3,
+            "query": "Lily Moon",
+            "artist_id": 34
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 4,
+            "query": "Lily Moon",
+            "artist_id": 34
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 5,
+            "query": "Lily Moon",
+            "artist_id": 34
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 6,
+            "query": "Lily Moon",
+            "artist_id": 34
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 7,
+            "query": "Lily Moon",
+            "artist_id": 34
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 8,
+            "query": "Lily Moon",
+            "artist_id": 34
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 9,
+            "query": "Lily Moon",
+            "artist_id": 34
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/309/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/311/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/312/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/313/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/310/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/76/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/69/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/74/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/67/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/68/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/75/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/35",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "query": "Nova Harmony",
+            "artist_id": 35
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 1,
+            "query": "Nova Harmony",
+            "artist_id": 35
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 2,
+            "query": "Nova Harmony",
+            "artist_id": 35
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 3,
+            "query": "Nova Harmony",
+            "artist_id": 35
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 4,
+            "query": "Nova Harmony",
+            "artist_id": 35
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 5,
+            "query": "Nova Harmony",
+            "artist_id": 35
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 6,
+            "query": "Nova Harmony",
+            "artist_id": 35
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 7,
+            "query": "Nova Harmony",
+            "artist_id": 35
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 8,
+            "query": "Nova Harmony",
+            "artist_id": 35
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 9,
+            "query": "Nova Harmony",
+            "artist_id": 35
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/315/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/319/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/317/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/318/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/314/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/29/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/30/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/316/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/31/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/songs/32/like",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2VkX3dpbHNvbkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.QjAbSyDmn7zTQ8tvJF35cDK3yigoFdjRaqpqia6QjSA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

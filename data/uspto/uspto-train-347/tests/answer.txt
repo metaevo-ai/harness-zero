@@ -1,0 +1,1 @@
+CC(=O)c1ccc(NS(C)(=O)=O)c(Sc2ccc(F)cc2F)c1

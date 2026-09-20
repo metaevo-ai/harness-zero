@@ -1,0 +1,7 @@
+{
+  "id": "45372",
+  "instruction": "Calculate a forecast total value in Excel column E based on the time. For instance, before 09:45, the value should come from column B, and after 09:45, it should switch to the value in column C.  Finish by applying fill hex color #FFC000 to E2:E15 and ensuring all other formatting remains unchanged from the original file. If it's 0, just leave blank",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "E2:E15",
+  "num_test_cases": 1
+}

@@ -1,0 +1,7 @@
+{
+  "id": "47827",
+  "instruction": "How to assemble three numbers into a three-digit number, with the numbers arranged in order from smallest to largest. Complete column G, bold and fill all boxed values with the color #EBF1DE",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'3 straights to 3 boxed'!G2:G16",
+  "num_test_cases": 1
+}

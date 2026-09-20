@@ -1,0 +1,1 @@
+CC(=O)Nc1ccc(Br)c(Cl)c1F.N#[C][Cu]

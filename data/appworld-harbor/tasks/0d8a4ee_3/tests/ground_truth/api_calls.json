@@ -1,0 +1,395 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "5584932120",
+            "password": "Bk}DNKG"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "roommates",
+            "relationship": "roommates"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "roommates",
+            "relationship": "roommates"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "roommates",
+            "relationship": "roommates"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "roommates",
+            "relationship": "roommates"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "roommates",
+            "relationship": "roommates"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "roommates",
+            "relationship": "roommates"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "roommates",
+            "relationship": "roommates"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "roommates",
+            "relationship": "roommates"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "roommates",
+            "relationship": "roommates"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "roommates",
+            "relationship": "roommates"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "friends",
+            "relationship": "friends"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "friends",
+            "relationship": "friends"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "friends",
+            "relationship": "friends"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "friends",
+            "relationship": "friends"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "friends",
+            "relationship": "friends"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "friends",
+            "relationship": "friends"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "friends",
+            "relationship": "friends"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "friends",
+            "relationship": "friends"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "friends",
+            "relationship": "friends"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc",
+            "query": "friends",
+            "relationship": "friends"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "chris.mcco@gmail.com",
+            "password": "+dXReKG"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/profile",
+        "data": {
+            "email": "lindseysimpson@gmail.com",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaHJpcy5tY2NvQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjc0MX0.Db27qY_vLx_qwJUtvxWG9fT2ELdJ1uWKptdNAm0HWGM"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/phone/messages/text/3567801924",
+        "data": {
+            "message": "Make an account on venmo please.",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "chris.mcco@gmail.com",
+            "password": "+dXReKG"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/profile",
+        "data": {
+            "email": "joseharr@gmail.com",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaHJpcy5tY2NvQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjczMX0.J_Nt4fmAh2NeneqCCHuevw2K9VW2VsuORPJkhxrfHgc"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "chris.mcco@gmail.com",
+            "password": "+dXReKG"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/profile",
+        "data": {
+            "email": "paul_mill@gmail.com",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaHJpcy5tY2NvQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjE1N30.ilLUyUpEMlyXpxXM77q8yv2E8mJBy7Yo5nnaSFuUyJQ"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "chris.mcco@gmail.com",
+            "password": "+dXReKG"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/profile",
+        "data": {
+            "email": "cheweber@gmail.com",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaHJpcy5tY2NvQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjYwNH0.du4CDSDGxEd3IEfCOkuitaKBnyI2B1yFUT2BkeTKevI"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "chris.mcco@gmail.com",
+            "password": "+dXReKG"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/profile",
+        "data": {
+            "email": "corwils@gmail.com",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaHJpcy5tY2NvQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjUxNn0.tSDOl4E_jDpgQ9g25vkf2uVmSrMUuMWPf7N1-QsxbPM"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "chris.mcco@gmail.com",
+            "password": "+dXReKG"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/profile",
+        "data": {
+            "email": "cod.smith@gmail.com",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaHJpcy5tY2NvQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjY4N30.AAjSs8KpbaRcuiB9Q1W5vae7hScN3gH2gE0WMiVhHSQ"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/phone/messages/text/7826309761",
+        "data": {
+            "message": "Make an account on venmo please.",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "chris.mcco@gmail.com",
+            "password": "+dXReKG"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/profile",
+        "data": {
+            "email": "tra_wils@gmail.com",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaHJpcy5tY2NvQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjgzOH0.NIWQvTx9OHpcZDfWNHM-boHWvquWVLgz6zdgqZkgmog"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "chris.mcco@gmail.com",
+            "password": "+dXReKG"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/profile",
+        "data": {
+            "email": "gra-martinez@gmail.com",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaHJpcy5tY2NvQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjAyNX0.D6yHUh30AdQzlFGemgq6I2FAtwvkmqX2BIk4IQPRuKs"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "chris.mcco@gmail.com",
+            "password": "+dXReKG"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/profile",
+        "data": {
+            "email": "william_mart@gmail.com",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaHJpcy5tY2NvQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjg5MX0.qbP7xzegFLjg_IDNBK1oJBexCVNco8ZQQYmhwnnxoAw"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/phone/messages/text/4429057162",
+        "data": {
+            "message": "Make an account on venmo please.",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs1NTg0OTMyMTIwIiwiZXhwIjoxNjg0NDEyMDk4fQ.xO3VLGReZoxtTMB2ss9rlVfhiIZ2iby2yLB2ScxsgGc"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

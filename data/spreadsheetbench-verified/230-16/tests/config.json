@@ -1,0 +1,7 @@
+{
+  "id": "230-16",
+  "instruction": "How can I create a macro in Excel that copies substrings that start from the first letter in each cell of column A and pastes these substrings into column B and delete these strings in column A?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Before'!A1:A12",
+  "num_test_cases": 1
+}

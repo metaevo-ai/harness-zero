@@ -1,0 +1,6 @@
+{
+    "alarm_type": "wake-up",
+    "metric_name": "minutes",
+    "metric_value": 40,
+    "later_earlier": "earlier"
+}

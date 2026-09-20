@@ -1,0 +1,22 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match file_system.File, file_system.Directory.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "prepare start_file_path_to_content and end_file_path_to_content from start and end state of user.files,\nthen assert the files have been renamed (with proper content) as per private_data.before_this_year_start_to_end_file_path.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the files have been renamed (with proper content) as per private_data.this_year_start_to_end_file_path.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain all the file paths from start_file_path_to_content's keys that are neither in\nprivate_data.this_year_start_to_end_file_path nor in private_data.before_this_year_start_to_end_file_path.\nThese are the file_paths that should not have been renamed. Assert their paths and contents are identical\nin the start and the end state.",
+        "label": "no_op_pass"
+    }
+]

@@ -1,0 +1,7 @@
+{
+  "id": "48257",
+  "instruction": "How can I extract numerical values and determine the valid decimal sign from a text string containing various currency positions and formats in Excel?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C2:C5",
+  "num_test_cases": 1
+}

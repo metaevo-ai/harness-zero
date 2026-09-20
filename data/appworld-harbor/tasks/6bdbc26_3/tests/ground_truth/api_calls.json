@@ -1,0 +1,40 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "gra-martinez@gmail.com",
+            "password": "j841H&Y"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/music_player/current_song",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2dyYS1tYXJ0aW5lekBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.LI0ooernffDtR--_XmNWGIlCvKpNDTn17pglkAI-q1k"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/11",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success",
+            "answer": 28
+        }
+    }
+]

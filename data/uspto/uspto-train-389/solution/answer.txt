@@ -1,0 +1,1 @@
+O=C(OO)c1cccc(Cl)c1.O=C1C(c2cccnc2)=C(c2ccccc2)c2ccc(OCCN3CCOCC3)cc21

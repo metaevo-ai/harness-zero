@@ -1,0 +1,27 @@
+version = "1.0"
+
+[task]
+name = "uspto/uspto-train-276"
+authors = []
+keywords = ["context-engineering", "classification"]
+
+[metadata]
+difficulty = "hard"
+category = "machine-learning"
+tags = ["context-engineering", "classification", "retrosynthesis"]
+
+[verifier]
+timeout_sec = 300.0
+
+[agent]
+timeout_sec = 3600.0
+
+[environment]
+docker_image = "uspto-env:1.0"
+build_timeout_sec = 1800.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 10240
+gpus = 0
+mcp_servers = []
+network_mode = "no-network"

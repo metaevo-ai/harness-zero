@@ -1,0 +1,7 @@
+{
+  "id": "488-14",
+  "instruction": "How can I sort a column in Excel using VBA to organize the data based on the frequency of occurrence of each item instead of sorting by color or value, given that the number of data rows is variable?The table \"Desired Results\" has the results I need.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!'A2:A85",
+  "num_test_cases": 1
+}

@@ -1,0 +1,7 @@
+{
+  "id": "48924",
+  "instruction": "How can I list all the missing dates from a sequence in column A and place them into column C in Excel?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C2:C13",
+  "num_test_cases": 1
+}

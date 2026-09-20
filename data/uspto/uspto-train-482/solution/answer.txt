@@ -1,0 +1,1 @@
+Cc1cccc([N+](=O)[O-])c1Br.O=C1CCC(=O)N1Br

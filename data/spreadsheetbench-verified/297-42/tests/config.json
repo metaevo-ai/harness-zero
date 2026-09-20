@@ -1,0 +1,7 @@
+{
+  "id": "297-42",
+  "instruction": "Running my macro only creates a new sheet named 'combined' without pulling in the data from the other sheets. Use a macro or similar function to copy the data from the existing sheets into the newly created 'combined' sheet. I have given the header of the expected output in the 'combined sheet' in the attachment. Please start from cell A2 to output the answer, pay attention to the position, mapping between the answer and the header name.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "combined'!A2:O822",
+  "num_test_cases": 1
+}

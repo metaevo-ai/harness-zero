@@ -1,0 +1,7 @@
+{
+  "id": "31915",
+  "instruction": "create a formula in Excel that allows me to sum the prices in column B corresponding to each unique serial number in column A, with the sum appearing only once on the first row instance of each serial number",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Sheet2'!C2:C11",
+  "num_test_cases": 1
+}

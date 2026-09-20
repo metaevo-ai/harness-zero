@@ -1,0 +1,7 @@
+{
+  "id": "325-44",
+  "instruction": "I am working with data at a wtype_id, name, and status level, and I need to split the filter data from a column into specific columns of data. I've attached the input data tab and the output data tab for reference. Leave the cell which does not have any data defined blank and leading zeros can be omitted. Retain the 'Input' data tab and update the 'Output' data tab with the result.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Output'!A1:G10",
+  "num_test_cases": 1
+}

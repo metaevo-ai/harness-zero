@@ -1,0 +1,75 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "3016947686",
+            "password": "xSqhPEu"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszMDE2OTQ3Njg2IiwiZXhwIjoxNjg0NDEyMDk4fQ.hMzDSLEgPp2ooMLz4z2GtsR84Ayd2DubbeWliO0369A",
+            "query": "2114992604"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "jar_calhoun@gmail.com",
+            "password": "QUr=X+j"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/payment_cards",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqYXJfY2FsaG91bkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.V9edOSrC4zJbuz0XZnXgGAl4wQxvtpU5IXOLr83xFu0"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqYXJfY2FsaG91bkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.V9edOSrC4zJbuz0XZnXgGAl4wQxvtpU5IXOLr83xFu0",
+            "payment_card_id": 194,
+            "receiver_email": "she_bailey@gmail.com",
+            "amount": 68,
+            "private": true,
+            "description": "Payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqYXJfY2FsaG91bkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.V9edOSrC4zJbuz0XZnXgGAl4wQxvtpU5IXOLr83xFu0",
+            "payment_card_id": 195,
+            "receiver_email": "she_bailey@gmail.com",
+            "amount": 68,
+            "private": true,
+            "description": "Payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

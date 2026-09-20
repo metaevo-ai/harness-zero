@@ -1,0 +1,7 @@
+{
+  "id": "57693",
+  "instruction": "I need a formula to calculate the total number of each alphabet in a single cell containing a string of text. For example, in a cell with the text 'abdhfujhajdbbcgsrrfssdddnmvnbdhfgtrfs', I want to be able to count and see that 'a' appears 2 times, 'b' 4 times, 'c' once, 'd' 6 times, etc., down to 'z'. I've attached a sample file for reference.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "E7:E32",
+  "num_test_cases": 1
+}

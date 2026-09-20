@@ -1,0 +1,7 @@
+{
+  "id": "36191",
+  "instruction": "I am working with data in Column B and I've used the formula =LEFT(B2,FIND(\" \",B2)-1) to extract the first name from a string containing the first name, surname, and email address. However, the formula is only extracting the first name, not the surname. I need an amended version of my formula that will correctly extract both the first name and the surname, omitting the email address from the extracted result. Put this in the Result should be column.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C2:C3",
+  "num_test_cases": 1
+}

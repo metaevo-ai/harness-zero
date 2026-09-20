@@ -1,0 +1,1 @@
+NC1CCCCC1.O=C(O)c1cnn(-c2ccc(Br)cc2)c1C1CC1

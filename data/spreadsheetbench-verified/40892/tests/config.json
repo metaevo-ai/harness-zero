@@ -1,0 +1,7 @@
+{
+  "id": "40892",
+  "instruction": "I need a formula to extract the color mentioned in each cell of column 1 and display that same color in column 2. For example, if a cell in column 1 says 'Dress with red details,' I want the corresponding cell in column 2 to show 'Red'. I have uploaded the file for reference. If no answer is found, output an empty string. Only add the colors mentioned in the list located in Column D.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B2:B17",
+  "num_test_cases": 1
+}

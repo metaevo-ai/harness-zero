@@ -1,0 +1,4 @@
+{
+    "buffer_mins": 20,
+    "reminder_subject_template": "Meeting '<meeting_name>' Starting Soon"
+}

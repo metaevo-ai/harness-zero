@@ -1,0 +1,1 @@
+CC1(CN=[N+]=[N-])Cc2cc(Cl)cc(-c3cccs3)c2O1

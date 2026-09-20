@@ -1,0 +1,7 @@
+{
+  "id": "55965",
+  "instruction": "How can I display the last 10 results from a data sheet on Sheet1 from columns G to P, based on the comparison between the ID in column E on Sheet1 and the ID in column K on the data sheet? I've provided the expected outcome in those columns, and it's manually entered as an example of the desired result.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Foglio1'!G2:G18",
+  "num_test_cases": 1
+}

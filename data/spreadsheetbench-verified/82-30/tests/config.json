@@ -1,0 +1,7 @@
+{
+  "id": "82-30",
+  "instruction": "How can I modify my VBA code to only copy and paste whole numbers from a range of columns (A to F) in the 'Raw Data' sheet, starting from row 1 and continuing across columns A to F in the 'Numbers' sheet, without including numbers with decimal points and ensuring a maximum of 6 numbers per row? You can refer to Manual Result sheet for outcome, and it should be in the exact same sorting order.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Numbers'!A1:F9",
+  "num_test_cases": 1
+}

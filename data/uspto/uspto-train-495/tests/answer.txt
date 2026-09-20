@@ -1,0 +1,1 @@
+Cc1ccc(C(C)(C)O)cc1C(F)(F)F.O=C1CCC(=O)N1Br

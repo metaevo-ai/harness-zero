@@ -1,0 +1,7 @@
+{
+  "id": "178-22",
+  "instruction": "Extract rows from Sheet1 where column B equals 'TELIVISION' OR column C equals 'CLASS III' OR column C equals 'CLASS IV'. Put the results in Sheet2 starting at A3 with headers in A2",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet2'!A1:C18",
+  "num_test_cases": 1
+}

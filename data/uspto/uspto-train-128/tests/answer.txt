@@ -1,0 +1,1 @@
+Cc1nc(C(C)(N)CC2CC2)no1.O=C(O)c1ccc(N2CC(F)(F)C2)c(OCC2CC2)n1

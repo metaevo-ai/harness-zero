@@ -1,0 +1,1 @@
+Cc1nc2c(=O)n(-c3ccc(Cl)cc3)c(-c3ccc(-c4ccccc4)cc3)nc2n1-c1ccccc1.O=C1CCC(=O)N1Br

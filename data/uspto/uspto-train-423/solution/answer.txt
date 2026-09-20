@@ -1,0 +1,1 @@
+COC(=O)Cc1ccccc1CCc1nc(Nc2ccc(N3CCC(NC(=O)OC(C)(C)C)CC3)cc2)ncc1C(F)(F)F.[NH4+]

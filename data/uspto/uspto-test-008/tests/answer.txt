@@ -1,0 +1,1 @@
+CCSCC1CC(c2ccc(C(F)(F)F)cc2)CN(C(=O)N2CCOCC2)C1.O=C(OO)c1cccc(Cl)c1

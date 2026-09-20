@@ -1,0 +1,7 @@
+{
+  "id": "58109",
+  "instruction": "Adjust the formula in I6 to sum the values of the previous four workdays, excluding weekends, since my current formula doesn\u2019t correctly handle non-working days? My dataset contains no entries on weekends, so simply subtracting four calendar days gives an inaccurate result. I want the formula to dynamically include the last four weekday dates up to the date in cell I4 (assuming today is a weekday). My current formula is: SUMIFS(B:B,A:A,\">\"&I4-4)",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "I6",
+  "num_test_cases": 1
+}

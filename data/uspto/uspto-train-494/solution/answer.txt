@@ -1,0 +1,1 @@
+C=CCC(c1ccc2c(cnn2-c2ccc(F)cc2)c1)C(C)(C)CNC(=O)NC(C)(C)C.O

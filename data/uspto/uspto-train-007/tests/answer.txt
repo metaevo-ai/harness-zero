@@ -1,0 +1,1 @@
+CCNc1nccc2c1c(C(=O)OC)nn2-c1cccc(C#C[C@]2(O)CCN(C)C2=O)c1.N

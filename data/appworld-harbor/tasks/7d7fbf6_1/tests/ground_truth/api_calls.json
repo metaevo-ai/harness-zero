@@ -1,0 +1,80 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/file_system/auth/token",
+        "data": {
+            "username": "nicholas.weber@gmail.com",
+            "password": "Ia$)7$5"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/file_system/directory",
+        "data": {
+            "directory_path": "~/photographs/vacations/",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStuaWNob2xhcy53ZWJlckBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.ExTO-mb9d0PRD0cwHmzRMrkZ5UhYEXtlaLQAr4yiScE",
+            "recursive": false
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/photographs/vacations/athens",
+            "compressed_file_path": "~/photographs/vacations/athens.zip",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStuaWNob2xhcy53ZWJlckBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.ExTO-mb9d0PRD0cwHmzRMrkZ5UhYEXtlaLQAr4yiScE",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/photographs/vacations/maui",
+            "compressed_file_path": "~/photographs/vacations/maui.zip",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStuaWNob2xhcy53ZWJlckBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.ExTO-mb9d0PRD0cwHmzRMrkZ5UhYEXtlaLQAr4yiScE",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/photographs/vacations/stockholm",
+            "compressed_file_path": "~/photographs/vacations/stockholm.zip",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStuaWNob2xhcy53ZWJlckBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.ExTO-mb9d0PRD0cwHmzRMrkZ5UhYEXtlaLQAr4yiScE",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/photographs/vacations/tokyo",
+            "compressed_file_path": "~/photographs/vacations/tokyo.zip",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStuaWNob2xhcy53ZWJlckBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.ExTO-mb9d0PRD0cwHmzRMrkZ5UhYEXtlaLQAr4yiScE",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

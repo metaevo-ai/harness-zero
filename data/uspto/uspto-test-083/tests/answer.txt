@@ -1,0 +1,1 @@
+Cc1ccc(C(C)N)o1.Nc1nc(Nc2ccc(S(=O)(=O)F)cc2)sc1C(=O)c1c(F)cccc1F

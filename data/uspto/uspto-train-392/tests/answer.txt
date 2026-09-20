@@ -1,0 +1,1 @@
+CC(=O)Oc1c(C)c(C)c2c(c1C)CC(C)(CO)O2

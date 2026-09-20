@@ -1,0 +1,4 @@
+{
+    "file_name_format": "ordered-at-yyyy-mm-dd-order-id-<order_id>.txt",
+    "directory_name": "shopping_amazon"
+}

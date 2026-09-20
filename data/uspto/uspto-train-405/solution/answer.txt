@@ -1,0 +1,1 @@
+Cc1c(OCC2OCC3(CC3)CO2)ccnc1CSc1nc2ccccc2[nH]1.O=C(OO)c1cccc(Cl)c1

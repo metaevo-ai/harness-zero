@@ -1,0 +1,7 @@
+{
+  "id": "59884",
+  "instruction": "How can I consolidate repeating first values in a list, count them, and then transpose the corresponding second values for each unique first value into a separate structured format, as demonstrated in a provided Excel worksheet?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "I2:O5",
+  "num_test_cases": 1
+}

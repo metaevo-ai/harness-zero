@@ -1,0 +1,7 @@
+{
+  "id": "54474",
+  "instruction": "I am working with a file that contains a tab named WHP and another with WHP data. I need to collect specific information from the WHP data tab for different sites located in the WHP tab.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'WHP'!E7:G8",
+  "num_test_cases": 1
+}

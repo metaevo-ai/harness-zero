@@ -1,0 +1,1 @@
+CCCCCCN.O=C(O)c1ccc(C(=O)CCC(=O)c2ccc(O)cc2)cc1

@@ -1,0 +1,7 @@
+{
+  "id": "250-20",
+  "instruction": "I need a VBA script that can sum the values in column J of an Excel sheet where the corresponding entries in columns B & C match. Following the summation, I want the script to delete all the rows that contain these duplicate entries in columns B & C, leaving only one row with the sum for each unique pair. I've provided a sample spreadsheet with a 'RNM' sheet that shows the initial data and another sheet that shows the expected result, highlighting the affected items for clarity.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'RNM'!A1:J20",
+  "num_test_cases": 1
+}

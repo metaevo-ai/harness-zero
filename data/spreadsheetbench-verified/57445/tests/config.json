@@ -1,0 +1,7 @@
+{
+  "id": "57445",
+  "instruction": "How can I create a formula in Column E on my Pricing Worksheet that will reference manually inputted data in Columns C and D and return the corresponding Cost data from a different worksheet named 'Package & Weight Data'? The table and necessary data are in an attached Excel file named 'Cost-Calculator.xlsx'.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Pricing'!E2:E5",
+  "num_test_cases": 1
+}

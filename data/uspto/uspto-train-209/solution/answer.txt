@@ -1,0 +1,1 @@
+CCCC(C)CN1CCC(c2cccc(C#N)c2)(c2ncc(C(=O)N(CC)CC)cn2)CC1.C[Si](C)(C)N=[N+]=[N-]

@@ -1,0 +1,7 @@
+{
+  "id": "44389",
+  "instruction": "How can I create a formula in Excel that returns the column header of the smallest value greater than zero in each row. If there's more than one value that matches the lowest value above zero separate them by commas without spaces?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "P2:P7",
+  "num_test_cases": 1
+}

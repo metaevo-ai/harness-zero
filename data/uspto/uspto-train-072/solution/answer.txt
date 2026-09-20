@@ -1,0 +1,1 @@
+CC1CCCN1.CCCN(CC1CC1)C(=O)c1oc(-c2ccc(OCCCCl)cc2)nc1C

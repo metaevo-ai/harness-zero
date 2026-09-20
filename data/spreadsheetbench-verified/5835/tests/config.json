@@ -1,0 +1,7 @@
+{
+  "id": "5835",
+  "instruction": "I have a basic table with relevant data and a requested table. How do I add the LOG VALUE from column I to the corresponding items in column C? I attempted to use an array function as previously learned from this forum, but it's not working as expected. Can someone guide me on how to achieve this?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C3:C19",
+  "num_test_cases": 1
+}

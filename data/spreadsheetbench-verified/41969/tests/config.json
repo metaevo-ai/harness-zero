@@ -1,0 +1,7 @@
+{
+  "id": "41969",
+  "instruction": "How can I apply the formula '=COUNTBLANK(A3:C3)' to multiple cells in a pattern where the cell range shifts by three columns each time, such as obtaining '=COUNTBLANK(D3:F3)', '=COUNTBLANK(G3:I3)', and so on without having to manually retype or adjust the formula for each new cell range? Apply the outputs to A6:C6",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "A6:C6",
+  "num_test_cases": 1
+}

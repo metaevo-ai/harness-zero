@@ -1,0 +1,40 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "allison-calhoun@gmail.com",
+            "password": "et7Jy}S"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/music_player/current_song",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2FsbGlzb24tY2FsaG91bkBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.jl4g5fkpQroVWvt6uurKoiOxVYOjmR9LjkAWYmpaLvo"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/24",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success",
+            "answer": 20
+        }
+    }
+]

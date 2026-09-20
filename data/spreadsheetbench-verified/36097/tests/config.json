@@ -1,0 +1,7 @@
+{
+  "id": "36097",
+  "instruction": "I need a formula to calculate tax recoupment and scrapping allowance in column H: if the asset sold at a loss, recoup ITV adjusted by the loss; if profit is less than original cost, recoup the full profit; otherwise recoup the cost basis reduced by ITV.  Preserve the formatting of the cells in column I.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "H3:H6",
+  "num_test_cases": 1
+}

@@ -1,0 +1,7 @@
+{
+  "id": "53167",
+  "instruction": "I am having difficulty calculating the amount of product used since its last usage. In my attached sample sheet, columns A-E present the issue I need to resolve, specifically column E where I am seeking a formula. Some of the expected results are given in column E, but I cannot design the formula for column E.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "E4:E16",
+  "num_test_cases": 1
+}

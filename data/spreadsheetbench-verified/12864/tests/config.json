@@ -1,0 +1,7 @@
+{
+  "id": "12864",
+  "instruction": "I am attempting to use the Index/Match function combination to retrieve corresponding dates from Column B on sheet 2 by matching Column D on sheet 1. Furthermore, I require the associated data from both Column B and C on sheet 2. The spreadsheet with an example has been provided. Could you assist me in accomplishing this?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Sheet2'!B2:B12",
+  "num_test_cases": 1
+}

@@ -1,0 +1,1 @@
+O=C1Cc2ccc(-c3ccccc3)cc2N1.O=Cc1cc2cc(OCCN3CCOCC3)ccc2[nH]1

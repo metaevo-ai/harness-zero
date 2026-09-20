@@ -1,0 +1,7 @@
+{
+  "id": "37378",
+  "instruction": "How can I create an Excel formula to place a number in column A, starting at cell A2, that increments by 1 each time a new entry is made in the corresponding cell of column B, starting at B2? For example, cell A2 should display '1' if B2 is not empty, and A3 should show '2' if B3 contains any text.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "A2:A6",
+  "num_test_cases": 1
+}

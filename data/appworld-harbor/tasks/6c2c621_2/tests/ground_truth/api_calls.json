@@ -1,0 +1,531 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/simple_note/auth/token",
+        "data": {
+            "username": "spencer.powell@gmail.com",
+            "password": "!y^6{9Q"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/auth/token",
+        "data": {
+            "username": "spencer.powell@gmail.com",
+            "password": "P}OX+bi"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/726",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-17.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: no\npracticed_meditation: no\nread_atleast_30_mins: yes\ndrank_adequate_water: yes\nslept_over_7_hrs: yes\nwrote_gratitude_journal: no\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: yes",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/727",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-16.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: no\npracticed_meditation: yes\nread_atleast_30_mins: yes\ndrank_adequate_water: yes\nslept_over_7_hrs: no\nwrote_gratitude_journal: yes\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: yes",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/728",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-15.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: yes\npracticed_meditation: yes\nread_atleast_30_mins: yes\ndrank_adequate_water: yes\nslept_over_7_hrs: no\nwrote_gratitude_journal: no\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: no",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/729",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-14.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: yes\npracticed_meditation: yes\nread_atleast_30_mins: yes\ndrank_adequate_water: no\nslept_over_7_hrs: yes\nwrote_gratitude_journal: yes\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: no\nconnected_with_friends: yes",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/716",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Book_Reading_Lists.md",
+            "content": "# Book Reading Lists\n\nA People's History of the United States\n - authors: Howard Zinn\n - genre: History\n\nHarry Potter and the Sorcerer's Stone\n - authors: J.K. Rowling\n - genre: Young Adult\n\nThe Lord of the Rings: The Fellowship of the Ring\n - authors: J.R.R. Tolkien\n - genre: Epic Fantasy\n\nBecoming\n - authors: Michelle Obama\n - genre: Memoir\n\n1984\n - authors: George Orwell\n - genre: Dystopian\n\nThe Power of Now\n - authors: Eckhart Tolle\n - genre: Spirituality\n\nYou Are a Badass\n - authors: Jen Sincero\n - genre: Self-Help\n\nThe Hobbit\n - authors: J.R.R. Tolkien\n - genre: Fantasy\n\nPride and Prejudice\n - authors: Jane Austen\n - genre: Romance\n\nThe 7 Habits of Highly Effective People\n - authors: Stephen R. Covey\n - genre: Self-Help\n\nGone Girl\n - authors: Gillian Flynn\n - genre: Mystery\n\nQuiet: The Power of Introverts in a World That Can't Stop Talking\n - authors: Susan Cain\n - genre: Psychology\n\nThe Catcher in the Rye\n - authors: J.D. Salinger\n - genre: Coming-of-Age\n\nLittle Women\n - authors: Louisa May Alcott\n - genre: Classic",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/730",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-13.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: no\npracticed_meditation: yes\nread_atleast_30_mins: no\ndrank_adequate_water: yes\nslept_over_7_hrs: yes\nwrote_gratitude_journal: yes\nlimited_screen_time_to_1_hr: no\npracticed_good_posture: yes\nconnected_with_friends: yes",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/731",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-12.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: yes\npracticed_meditation: no\nread_atleast_30_mins: yes\ndrank_adequate_water: yes\nslept_over_7_hrs: yes\nwrote_gratitude_journal: yes\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: yes",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/732",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-11.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: yes\npracticed_meditation: yes\nread_atleast_30_mins: yes\ndrank_adequate_water: yes\nslept_over_7_hrs: no\nwrote_gratitude_journal: no\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: yes",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/733",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-10.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: yes\npracticed_meditation: no\nread_atleast_30_mins: yes\ndrank_adequate_water: no\nslept_over_7_hrs: yes\nwrote_gratitude_journal: yes\nlimited_screen_time_to_1_hr: no\npracticed_good_posture: no\nconnected_with_friends: yes",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/719",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Gift_Ideas_for_Various_Occasions.md",
+            "content": "# Gift Ideas for Various Occasions\n\noccasion: Birthday\nideas:\n- Gift card to their favorite online store\n- Tech gadgets or accessories\n- Books by their favorite author\n- Cooking or baking equipment\n- Subscription to a streaming service\n- Customized jewelry\n- Personalized phone case\n- Wireless earbuds\n- Fitness tracker\n- Outdoor adventure gear\n\noccasion: Mother's Day\nideas:\n- Spa or pampering gift basket from online retailers\n- Online cooking or baking class\n- Handmade or personalized jewelry from online artisans\n- Books or a subscription to an e-book service\n- Gift card for a favorite online store\n- Plant or garden accessories from online nurseries\n- Online art classes\n- Subscription to online magazines or blogs\n- Virtual escape room experience\n- Online wellness retreat\n\noccasion: Graduation\nideas:\n- Gift cards for online retailers\n- Laptop or tablet accessories\n- Online courses or workshops subscription\n- Professional resume template\n- Amazon Prime membership\n- E-book reader\n- Virtual reality headset\n- Language learning app subscription\n- Online fitness class membership\n- Digital notetaking device\n\noccasion: Housewarming\nideas:\n- Indoor plants or succulents from an online nursery\n- Candles or essential oil diffusers\n- Decorative throw pillows or blankets\n- Personalized doormat\n- Wine or cocktail set\n- Home organization items\n- Art prints or wall decor from online galleries\n- Online interior design consultation\n- Subscription to a meal kit delivery service\n- Smart home devices\n\noccasion: Baby Shower\nideas:\n- Gift cards to baby stores\n- Baby books and educational toys\n- Nursery decor items\n- Online parenting course\n- Stroller or car seat\n- Online shopping for baby essentials\n- Baby monitor or breastfeeding accessories\n- Children's e-books subscription\n- Virtual baby shower games\n- Diaper subscription service\n\noccasion: Father's Day\nideas:\n- Tech gadgets or tools from online electronics stores\n- Tickets to a virtual sports game or concert\n- Whiskey or beer tasting kits from online sellers\n- Outdoor adventure gear from online retailers\n- Personalized wallet or keychain from online artisans\n- Online grilling or cooking classes\n- Virtual golf or fishing experience\n- E-book of his favorite genre\n- Digital subscription to a sports news website\n- Online DIY project kits\n\noccasion: Wedding\nideas:\n- Kitchen appliances or cookware\n- Home decor items\n- Personalized cutting board or wine glasses\n- Contribution to their honeymoon fund\n- Artwork or wall hangings\n- Fine dining experience gift card\n- Bedding or linens\n- Outdoor furniture or accessories\n- Wine or champagne set\n- Streaming device\n\noccasion: Friendship Day\nideas:\n- Customized friendship bracelet or necklace from online shops\n- Virtual spa day experience\n- Memory scrapbook or photo album created online\n- Cooking a special meal together through a virtual class\n- Online concert or movie streaming subscription\n- Subscription to a fun activity or hobby box\n- Virtual museum or art gallery tour\n- Outdoor picnic essentials available online\n- Digital games or puzzle subscriptions\n- Online crafting or DIY workshop\n\noccasion: Anniversary\nideas:\n- Romantic getaway weekend voucher\n- Customized anniversary photo book\n- Tickets to a virtual concert or show\n- Cooking or mixology class for couples (online)\n- Spa or wellness retreat gift certificate\n- Personalized star map of their wedding date\n- Engraved watches\n- Online escape room experience\n- Digital photo frame\n- Subscription to a movie streaming service\n\noccasion: Valentine's Day\nideas:\n- Gift cards to online gourmet food stores\n- Romantic e-cards or digital love notes\n- Jewelry or accessories from online boutiques\n- Virtual cooking class for couples\n- Online wine tasting experience\n- Digital music subscription\n- Virtual reality date experience\n- Online personalized gifts\n- Digital movie rental\n- E-book of romantic poetry",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/734",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-09.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: yes\npracticed_meditation: yes\nread_atleast_30_mins: no\ndrank_adequate_water: yes\nslept_over_7_hrs: yes\nwrote_gratitude_journal: no\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: yes",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/735",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-08.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: no\nate_homemade_meals: yes\npracticed_meditation: yes\nread_atleast_30_mins: no\ndrank_adequate_water: yes\nslept_over_7_hrs: no\nwrote_gratitude_journal: yes\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: no",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/736",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-07.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: no\nate_homemade_meals: yes\npracticed_meditation: yes\nread_atleast_30_mins: no\ndrank_adequate_water: yes\nslept_over_7_hrs: no\nwrote_gratitude_journal: yes\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: no",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/737",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-06.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: yes\npracticed_meditation: no\nread_atleast_30_mins: yes\ndrank_adequate_water: yes\nslept_over_7_hrs: yes\nwrote_gratitude_journal: yes\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: no",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/738",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-05.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: no\npracticed_meditation: yes\nread_atleast_30_mins: no\ndrank_adequate_water: yes\nslept_over_7_hrs: yes\nwrote_gratitude_journal: yes\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: no\nconnected_with_friends: no",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/739",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-04.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: yes\npracticed_meditation: yes\nread_atleast_30_mins: yes\ndrank_adequate_water: yes\nslept_over_7_hrs: no\nwrote_gratitude_journal: no\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: yes",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/740",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-03.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: yes\npracticed_meditation: yes\nread_atleast_30_mins: yes\ndrank_adequate_water: yes\nslept_over_7_hrs: no\nwrote_gratitude_journal: no\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: no",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/741",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Habit_Tracking_Log_for_2023-05-02.md",
+            "content": "# Daily Habit Tracker (yes/no questions to answer daily)\n\nexercised_atleast_30_mins: yes\nate_homemade_meals: yes\npracticed_meditation: yes\nread_atleast_30_mins: no\ndrank_adequate_water: yes\nslept_over_7_hrs: yes\nwrote_gratitude_journal: no\nlimited_screen_time_to_1_hr: yes\npracticed_good_posture: yes\nconnected_with_friends: yes",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/722",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Inspirational_Quotes_Collection.md",
+            "content": "# Inspirational Quotes Collection\n\n - In the middle of every difficulty lies opportunity.\n   by Albert Einstein\n - Keep your face always toward the sunshine\u2014and shadows will fall behind you.\n   by Walt Whitman\n - The future belongs to those who believe in the beauty of their dreams.\n   by Eleanor Roosevelt\n - Your time is limited, don't waste it living someone else's life.\n   by Steve Jobs\n - The harder you work for something, the greater you'll feel when you achieve it.\n   by Unknown\n - Difficult roads often lead to beautiful destinations.\n   by Unknown",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/720",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Weekly_Workout_Plan.md",
+            "content": "# Weekly Workout Plan\n\nday: monday\nexercises:\n- Warm-up - 5 minutes of jumping jacks\n- Barbell squats - 4 sets of 8 reps\n- Bench press - 4 sets of 6 reps\n- Bent-over rows - 3 sets of 10 reps\n- Plank - Hold for 1 minute\n- Cool-down - 10 minutes of flexibility exercises\nduration_mins: 35\n\nday: tuesday\nexercises:\n- Warm-up - 10 minutes of brisk walking\n- Cycling - 45 minutes at a moderate pace\n- Bodyweight lunges - 3 sets of 12 reps per leg\n- Side planks - Hold for 30 seconds each side\n- Cool-down - 5 minutes of gentle stretches\nduration_mins: 65\n\nday: wednesday\nexercises:\n- Warm-up - 5 minutes of light jogging\n- 'Interval training: 10 sets of 1-minute sprint followed by 1.5 minutes of recovery'\n- Chin-ups - 3 sets of 6 reps\n- Tricep dips - 3 sets of 10 reps\n- Cool-down - 5 minutes of deep breathing and stretching\nduration_mins: 45\n\nday: thursday\nexercises:\n- Warm-up - 5 minutes of jump rope\n- Deadlifts - 4 sets of 5 reps\n- Overhead shoulder press - 3 sets of 8 reps\n- Russian twists - 3 sets of 20 reps\n- Cool-down - 10 minutes of yoga poses\nduration_mins: 30\n\nday: friday\nexercises:\n- Warm-up - 10 minutes of light cardio\n- Swimming - 30 minutes of continuous laps\n- Pull-ups - 3 sets of 5 reps\n- Leg curls - 3 sets of 12 reps\n- Cool-down - 5 minutes of gentle stretches\nduration_mins: 55\n\nday: saturday\nexercises:\n- Warm-up - 5 minutes of dynamic stretches\n- Hiking - 2 hours of moderate-paced hiking in nature\n- Cooldown - 5 minutes of deep stretching and mindful breathing\nduration_mins: 130\n\nday: sunday\nexercises:\n- Rest day\nduration_mins: 0",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/725",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/My_Bucket_List_([x]_=_done,_[_]_=_not_done)).md",
+            "content": "# My Bucket List ([x] = done, [ ] = not done))\n\n[ ] Learning to cook a signature dish from scratch\n[ ] Taking a hot springs bath in Iceland\n[ ] Visiting the Seven Wonders of the World\n[ ] Learning a new language fluently\n[ ] Seeing the Northern Lights\n[ ] Seeing the Grand Canyon\n[x] Cruising on the Nile River\n[ ] Completing a marathon or triathlon",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/723",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Funny_Quotes_Collection.md",
+            "content": "# Funny Quotes Collection\n\n - I don't need a hair stylist; my pillow gives me a new hairstyle every morning.\n   by Unknown\n - Why don't scientists trust atoms? Because they make up everything!\n   by Unknown\n - Why do they call it rush hour when nothing moves?\n   by Robin Williams\n - I'm on the whiskey diet. I've lost three days already.\n   by Tommy Cooper\n - I used to play hide and seek with my dog until he found a better hiding spot - forever.\n   by Unknown\n - I'm not arguing; I'm just explaining why I'm right.\n   by Unknown",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/724",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Movie_Quotes_Collection.md",
+            "content": "# Movie Quotes Collection\n\n - I'm king of the world!\n   from Titanic (1997)\n - Here's Johnny!\n   from The Shining (1980)\n - To infinity and beyond!\n   from Toy Story (1995)\n - Frankly, my dear, I don't give a damn.\n   from Gone with the Wind (1939)",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/721",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Food_Recipes.md",
+            "content": "# Food Recipes\n\nname: Classic Spaghetti Carbonara\ningredients:\n- 200g spaghetti\n- 100g pancetta or guanciale, diced\n- 2 large eggs\n- 50g Pecorino Romano cheese, grated\n- Salt and black pepper to taste\n- 2 cloves garlic, minced\n- Fresh parsley, chopped, for garnish\ninstructions:\n- Cook the spaghetti in salted boiling water until al dente. Drain and set aside.\n- In a skillet, cook the diced pancetta or guanciale until crispy. Remove from heat and set aside.\n- In a bowl, whisk together the eggs, grated Pecorino Romano cheese, minced garlic, salt, and black pepper.\n- Combine the cooked spaghetti with the egg mixture and pancetta. Toss until the pasta is coated and creamy.\n- Garnish with chopped fresh parsley and additional grated cheese. Serve immediately.\nfavorite: true\n\nname: Mediterranean Quinoa Salad\ningredients:\n- 1 cup quinoa, cooked and cooled\n- 1 cup cucumber, diced\n- 1 cup cherry tomatoes, halved\n- 1/2 cup red onion, finely chopped\n- 1/2 cup Kalamata olives, pitted and sliced\n- 1/2 cup feta cheese, crumbled\n- 1/4 cup fresh parsley, chopped\n- 1/4 cup fresh mint, chopped\n- 3 tablespoons extra virgin olive oil\n- 2 tablespoons lemon juice\n- Salt and black pepper to taste\ninstructions:\n- In a large bowl, combine cooked quinoa, cucumber, cherry tomatoes, red onion, olives, feta cheese, parsley, and mint.\n- In a small bowl, whisk together olive oil, lemon juice, salt, and black pepper.\n- Pour the dressing over the quinoa mixture and toss to combine.\n- Chill in the refrigerator for about 30 minutes before serving.\nfavorite: false",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/717",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Movie_Recommendations.md",
+            "content": "# Movie Recommendations\n\nThe Dark Knight Rises\n - director: Christopher Nolan\n - genre: Action, Crime\n\nThe Wolf of Wall Street\n - director: Martin Scorsese\n - genre: Biography, Crime, Drama\n\nA Beautiful Mind\n - director: Ron Howard\n - genre: Biography, Drama\n\nEternal Sunshine of the Spotless Mind\n - director: Michel Gondry\n - genre: Drama, Romance, Sci-Fi\n\nInterstellar\n - director: Christopher Nolan\n - genre: Sci-Fi, Drama\n\nInception\n - director: Christopher Nolan\n - genre: Sci-Fi, Action\n\nThe Lord of the Rings: The Return of the King\n - director: Peter Jackson\n - genre: Adventure, Fantasy\n\nThe Matrix\n - director: The Wachowskis\n - genre: Sci-Fi, Action\n\nForrest Gump\n - director: Robert Zemeckis\n - genre: Drama, Romance\n\nAvatar\n - director: James Cameron\n - genre: Action, Adventure, Fantasy\n\nThe Shawshank Redemption\n - director: Frank Darabont\n - genre: Drama\n\nHer\n - director: Spike Jonze\n - genre: Drama, Romance, Sci-Fi\n\nThe Godfather\n - director: Francis Ford Coppola\n - genre: Crime, Drama\n\nInterstellar\n - director: Christopher Nolan\n - genre: Sci-Fi, Drama\n\nAm\u00e9lie\n - director: Jean-Pierre Jeunet\n - genre: Comedy, Romance\n\nPan's Labyrinth\n - director: Guillermo del Toro\n - genre: Drama, Fantasy, War\n\nThe Silence of the Lambs\n - director: Jonathan Demme\n - genre: Crime, Drama, Thriller\n\nFight Club\n - director: David Fincher\n - genre: Drama\n\nInglourious Basterds\n - director: Quentin Tarantino\n - genre: Adventure, Drama, War\n\nGood Will Hunting\n - director: Gus Van Sant\n - genre: Drama",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/718",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.AfBM-VkyKHhe7SNluw_vVBMH7B5zvw-guAKQc_ojej4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/notes/Grocery_List.md",
+            "content": "# Grocery List\n\n - cottage cheese (1.0 container)\n - olive oil (1.0 bottle)\n - chicken breasts (2.0 pounds)\n - yogurt (4.0 cups)\n - green beans (0.5 pound)\n - rice (1.0 pound)\n - orange juice (1.0 carton)\n - pasta (1.0 box)\n - almonds (1.0 bag)\n - bell peppers (3.0 pieces)\n - carrots (1.0 bag)\n - peanut butter (1.0 jar)",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.NZAgkcZe5UyZTFBFn_Afoc-ENcxuyUdXAadwmpGS3e8"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

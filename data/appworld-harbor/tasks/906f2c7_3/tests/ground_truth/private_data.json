@@ -1,0 +1,70 @@
+{
+    "relative_gmail_user_id": 68,
+    "file_name": "tokyo.zip",
+    "file_content": "binary:6cc13049cb...",
+    "file_compressed_data": [
+        {
+            "path": "/tokyo/IMG_15d8773.png",
+            "content": "binary:581718389e...",
+            "created_at": "2023-02-23T10:59:00",
+            "updated_at": "2023-02-23T10:59:00",
+            "compressed_data": []
+        },
+        {
+            "path": "/tokyo/IMG_18b9b57.png",
+            "content": "binary:8b47bec332...",
+            "created_at": "2023-02-26T10:33:31",
+            "updated_at": "2023-02-26T10:33:31",
+            "compressed_data": []
+        },
+        {
+            "path": "/tokyo/IMG_3977246.png",
+            "content": "binary:4304007971...",
+            "created_at": "2023-02-24T08:57:17",
+            "updated_at": "2023-02-24T08:57:17",
+            "compressed_data": []
+        },
+        {
+            "path": "/tokyo/IMG_3da0f0c.png",
+            "content": "binary:a7fd39b2fc...",
+            "created_at": "2023-02-23T11:42:37",
+            "updated_at": "2023-02-23T11:42:37",
+            "compressed_data": []
+        },
+        {
+            "path": "/tokyo/IMG_61f15f5.jpg",
+            "content": "binary:6ad0cebad8...",
+            "created_at": "2023-02-25T08:01:10",
+            "updated_at": "2023-02-25T08:01:10",
+            "compressed_data": []
+        },
+        {
+            "path": "/tokyo/IMG_a1fa85a.png",
+            "content": "binary:f22827bcdf...",
+            "created_at": "2023-02-22T09:17:19",
+            "updated_at": "2023-02-22T09:17:19",
+            "compressed_data": []
+        },
+        {
+            "path": "/tokyo/IMG_a4d1867.jpeg",
+            "content": "binary:379b36dd93...",
+            "created_at": "2023-02-25T08:08:49",
+            "updated_at": "2023-02-25T08:08:49",
+            "compressed_data": []
+        },
+        {
+            "path": "/tokyo/IMG_ed7727e.jpg",
+            "content": "binary:7ed8e856c2...",
+            "created_at": "2023-02-23T11:32:38",
+            "updated_at": "2023-02-23T11:32:38",
+            "compressed_data": []
+        },
+        {
+            "path": "/tokyo/IMG_fed825c.jpeg",
+            "content": "binary:8d2d4f0c6a...",
+            "created_at": "2023-02-23T08:04:20",
+            "updated_at": "2023-02-23T08:04:20",
+            "compressed_data": []
+        }
+    ]
+}

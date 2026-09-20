@@ -1,0 +1,1 @@
+CCC[CH2][Sn]([CH2]CCC)([CH2]CCC)[c]1ccccn1.COC(=O)c1c(I)ccc(C)c1F

@@ -1,0 +1,1 @@
+NC(=O)c1cnc(Nc2ccccn2)cc1N[C@@H]1CCN(c2ncc(Br)cn2)C[C@@H]1F.[C-]#N

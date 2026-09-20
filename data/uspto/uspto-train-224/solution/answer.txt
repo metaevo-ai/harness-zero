@@ -1,0 +1,1 @@
+COC(=O)c1ccc(C(N)=S)cc1.O=C(CBr)c1ccc(C(F)(F)F)cc1

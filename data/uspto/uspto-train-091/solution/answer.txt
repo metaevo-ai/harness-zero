@@ -1,0 +1,1 @@
+CC(=O)c1ccc(N2CCNCC2)cc1.O=Cc1ccccc1

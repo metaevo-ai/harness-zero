@@ -1,0 +1,1 @@
+[N-]=[N+]=N[C@@H]1CN2C(=O)N(c3cc(Cl)cc(Cl)c3)C(=O)[C@@]2(Cc2ccc(Br)cc2)C1

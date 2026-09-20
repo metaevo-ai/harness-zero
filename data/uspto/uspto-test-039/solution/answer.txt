@@ -1,0 +1,1 @@
+CC(C)(C)OC(=O)n1ccc2cc(CO)ccc21

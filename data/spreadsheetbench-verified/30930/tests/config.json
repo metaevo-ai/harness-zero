@@ -1,0 +1,7 @@
+{
+  "id": "30930",
+  "instruction": "On Sheet1, how can I calculate the number of values greater than zero in Column A between occurrences of the number 1 in Column B, and display the result in Column C on each row where Column B contains 1? Leave other rows in Column C blank.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C2:C66",
+  "num_test_cases": 1
+}

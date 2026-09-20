@@ -1,0 +1,7 @@
+{
+  "id": "448-11",
+  "instruction": "I found a code in this forum that highlights and deletes duplicate rows within the current region in Excel, using the entire row content for comparison. The existing code successfully identifies and highlights entire rows that are duplicates and then deletes them. However, I need to modify the code so that it deletes duplicate rows based only on the data in Column A, ignoring whether the other columns from B to the last column match or not. How can this be achieved?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A2:J16",
+  "num_test_cases": 1
+}

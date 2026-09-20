@@ -1,0 +1,75 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "8267279358",
+            "password": "e9(lh6J"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4MjY3Mjc5MzU4IiwiZXhwIjoxNjg0NDEyMDk4fQ.wBPFMsD5Sd_wixv4Cwh7pj9BeZQ9epfpRRwdY-Vur8I",
+            "query": "5734599766"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "spencer.powell@gmail.com",
+            "password": "O_8T=iu"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/payment_cards",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.OuCUrx3iKTPpNbDOy5-WwQ78xDjVeYaDK5luLyeybLc"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.OuCUrx3iKTPpNbDOy5-WwQ78xDjVeYaDK5luLyeybLc",
+            "payment_card_id": 116,
+            "receiver_email": "connorbrow@gmail.com",
+            "amount": 100,
+            "private": false,
+            "description": "Payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytzcGVuY2VyLnBvd2VsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.OuCUrx3iKTPpNbDOy5-WwQ78xDjVeYaDK5luLyeybLc",
+            "payment_card_id": 117,
+            "receiver_email": "connorbrow@gmail.com",
+            "amount": 100,
+            "private": false,
+            "description": "Payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

@@ -1,0 +1,7 @@
+{
+  "id": "36277",
+  "instruction": "How can I create a lookup formula that returns results based on header names, which works correctly when dragged down in Excel 2019?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "I2:I5",
+  "num_test_cases": 1
+}

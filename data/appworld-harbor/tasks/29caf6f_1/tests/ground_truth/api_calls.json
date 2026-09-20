@@ -1,0 +1,79 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "3155673041",
+            "password": "QAEZ+BF"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszMTU1NjczMDQxIiwiZXhwIjoxNjg0NDEyMDk4fQ.C4KErOnI83mCYHyUSFRYk8pcOkI8p7yl0OoQOvMJ1Uk",
+            "query": "Christopher"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 0,
+            "query": "recommendation suggestion movie",
+            "phone_number": "4275730168",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszMTU1NjczMDQxIiwiZXhwIjoxNjg0NDEyMDk4fQ.C4KErOnI83mCYHyUSFRYk8pcOkI8p7yl0OoQOvMJ1Uk"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/simple_note/auth/token",
+        "data": {
+            "username": "joyce-weav@gmail.com",
+            "password": "RluCyXn"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStqb3ljZS13ZWF2QGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjc0MX0._66INqie1ijO12h8q9Glte7VDedxhnReew0wci4eYkA",
+            "query": "movie recommendation suggestion",
+            "dont_reorder_pinned": true
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/1608",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStqb3ljZS13ZWF2QGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjc0MX0._66INqie1ijO12h8q9Glte7VDedxhnReew0wci4eYkA"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/phone/messages/text/4275730168",
+        "data": {
+            "message": "Fight Club, The Social Network",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszMTU1NjczMDQxIiwiZXhwIjoxNjg0NDEyMDk4fQ.C4KErOnI83mCYHyUSFRYk8pcOkI8p7yl0OoQOvMJ1Uk"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

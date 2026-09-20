@@ -1,0 +1,7 @@
+{
+  "id": "44296",
+  "instruction": "How can I convert data from a range in Sheet 1 to column D in Sheet 2 by matching units with states using a formula? I need a step-by-step guide on how to achieve this since I'm unsure about the looping aspect.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Sheet2'!D3:D104",
+  "num_test_cases": 1
+}

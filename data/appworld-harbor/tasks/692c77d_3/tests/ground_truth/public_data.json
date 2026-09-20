@@ -1,0 +1,7 @@
+{
+    "target_rating": 4,
+    "library_name": "album library",
+    "liked_status": "liked",
+    "change_type": "increase",
+    "current_rating_direction": "lower"
+}

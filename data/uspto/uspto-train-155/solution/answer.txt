@@ -1,0 +1,1 @@
+CC(C)C(=O)c1cc(Br)cs1.CCS(=O)(=O)N1CCC(c2c[nH]c3c(C(N)=O)cc(B4OC(C)(C)C(C)(C)O4)cc23)CC1

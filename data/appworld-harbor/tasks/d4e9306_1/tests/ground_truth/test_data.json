@@ -1,0 +1,26 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match spotify.UserArtistFollowing.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert private_data.to_be_followed_artist_ids_by_songs artists have been newly followed.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert private_data.to_be_followed_artist_ids_by_albums artists have been newly followed.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert artist_ids from added artists match union of\nprivate_data.to_be_followed_artist_ids_by_songs and private_data.to_be_followed_artist_ids_by_albums.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added, updated, removed spotify.UserArtistFollowing records using models.changed_records,\nand assert 0 have been removed.",
+        "label": "no_op_pass"
+    }
+]

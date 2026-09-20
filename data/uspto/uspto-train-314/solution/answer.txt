@@ -1,0 +1,1 @@
+Cc1cc(NC(=O)c2cccc(CCc3cc(Nc4ccc(S(=O)(=O)N(C)C(c5ccccc5)c5ccccc5)cc4)n[nH]3)c2)ccc1C(C)C

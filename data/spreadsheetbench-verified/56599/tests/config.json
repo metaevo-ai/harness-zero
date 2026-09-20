@@ -1,0 +1,7 @@
+{
+  "id": "56599",
+  "instruction": "How can I find the Book Number associated with a given slip number on my Excel sheet where each book contains 10 slips, each with a unique number? I attempted using a formula in B2 by provided Looking Slip number in M5 and if Cell is blank or not found write \"not found - please re-enter\". Each number in my Excel sheet has seven digits.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B2",
+  "num_test_cases": 1
+}

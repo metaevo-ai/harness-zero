@@ -1,0 +1,28 @@
+{
+    "related_person_phone_user_id": 2,
+    "director_movie_titles": [
+        "Django Unchained",
+        "Pulp Fiction"
+    ],
+    "non_director_movie_titles": [
+        "Interstellar",
+        "Inception",
+        "The Dark Knight Rises",
+        "The Dark Knight",
+        "Black Swan",
+        "The Shawshank Redemption",
+        "The Green Mile",
+        "The Wolf of Wall Street",
+        "Drive",
+        "Her",
+        "The Big Lebowski",
+        "Gladiator",
+        "Fight Club",
+        "The Revenant",
+        "Good Will Hunting",
+        "Avatar",
+        "Spirited Away",
+        "Forrest Gump",
+        "A Beautiful Mind"
+    ]
+}

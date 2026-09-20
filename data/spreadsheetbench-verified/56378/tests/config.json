@@ -1,0 +1,7 @@
+{
+  "id": "56378",
+  "instruction": "How can I create a formula in Excel that will copy products from a list in frame 1 into frame 2, but only include the products that have a non-empty 'QUANTITY UNITS' field? When complete, please implement the formula.  Once complete left align the Product names and right align the values in columns O:R that are output as a result of the implemented.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "L5:R8",
+  "num_test_cases": 1
+}

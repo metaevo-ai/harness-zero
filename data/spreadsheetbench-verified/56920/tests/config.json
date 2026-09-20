@@ -1,0 +1,7 @@
+{
+  "id": "56920",
+  "instruction": "I need a formula to extract 10-digit numbers or letters from a text string in Excel where one sequence always starts with '955' and another starts with 'CHK'. The number that starts with '955' may be preceded by '/TES-'. How can I extract these 10-digit numbers or letters correctly, considering both types may be present in the string? Please use priority extraction, input into Column C.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C3:C8",
+  "num_test_cases": 1
+}

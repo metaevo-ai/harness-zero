@@ -1,0 +1,7 @@
+{
+  "id": "46897",
+  "instruction": "How can I create a formula in Excel that counts the instances of a specific text or number in a column that matches a specified header title?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "I3",
+  "num_test_cases": 1
+}

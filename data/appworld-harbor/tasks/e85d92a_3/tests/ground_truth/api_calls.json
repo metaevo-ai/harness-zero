@@ -1,0 +1,36 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists",
+        "data": {
+            "query": "Jasper Skye"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs",
+        "data": {
+            "page_index": 0,
+            "artist_id": 3,
+            "sort_by": "-play_count"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success",
+            "answer": "Chasing Echoes in the Rain"
+        }
+    }
+]

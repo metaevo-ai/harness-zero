@@ -1,0 +1,7 @@
+{
+  "id": "57117",
+  "instruction": "I need to create an Excel formula that looks up text within a cell and returns a specific text result in another cell. For example, if cell D2 contains the abbreviation 'BA', then cell F2 should display 'BA', and similarly, if D2 contains 'MA', then F2 should display 'MA'. How can I achieve this?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "F2:F5",
+  "num_test_cases": 1
+}

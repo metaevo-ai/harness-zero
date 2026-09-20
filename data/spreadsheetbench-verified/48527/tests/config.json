@@ -1,0 +1,7 @@
+{
+  "id": "48527",
+  "instruction": "How can I retrieve unique text from the third column of a worksheet where the first two columns contain the same text, and place it into a fourth column?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "D2:D5",
+  "num_test_cases": 1
+}

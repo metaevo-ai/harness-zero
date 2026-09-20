@@ -1,0 +1,7 @@
+{
+  "id": "58701",
+  "instruction": "How can I automatically populate an office code on the 'Entry Tab' when a user enters a location name in another cell, using the location - office code pairs stored in the 'Table Tab'? For example, when a user types a location such as \u2018Applewood\u2019 on the 'Entry Tab', the corresponding office code linked to that location in the 'Table Tab' should automatically appear in the designated office code column.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Entry Tab'!E2:E3",
+  "num_test_cases": 1
+}

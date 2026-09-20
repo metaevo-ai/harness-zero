@@ -1,0 +1,9 @@
+{
+    "target_alarm_id": 122,
+    "to_disable_alarm_ids": [
+        126,
+        121,
+        120
+    ],
+    "updated_time": "22:30"
+}

@@ -1,0 +1,1 @@
+CC1(C)CCC(C)(C)c2cc(C#CC(O)c3ccc(C(=O)O)cc3)ccc21

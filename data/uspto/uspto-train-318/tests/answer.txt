@@ -1,0 +1,1 @@
+CC1(c2ccc(N[C@@H]3C[C@@H](N4C(=O)C(C)(C)c5cccnc54)C3)nc2)OCCO1

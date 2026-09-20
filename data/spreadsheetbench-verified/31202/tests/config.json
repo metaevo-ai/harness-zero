@@ -1,0 +1,7 @@
+{
+  "id": "31202",
+  "instruction": "How can I automatically update the 'debt' column in my payroll table based on the deductions or additions made each week? I need to find the previous week's debt value for a specific worker and either add or subtract the new value depending on whether it's a deduction or addition.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "J2:J47",
+  "num_test_cases": 1
+}

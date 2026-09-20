@@ -1,0 +1,1 @@
+COC(=O)/C(=C/C1CCCC1)c1ccc(-n2nnnc2C)c(S(C)(=O)=O)c1

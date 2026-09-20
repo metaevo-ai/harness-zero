@@ -1,0 +1,7 @@
+{
+  "id": "147-48",
+  "instruction": "I want to create a macro or transpose data similar to how I manually transposed data from Column A to Column C onwards. The data I've shown is a trimmed version, whereas the actual file is much longer. However, when I tried the macro provided by a forum user, it resulted in a 'run time error 7 out of memory'. After an adjustment was suggested to the macro code, it worked correctly.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!C1:K6",
+  "num_test_cases": 1
+}

@@ -1,0 +1,7 @@
+{
+  "id": "269-44",
+  "instruction": "In my Excel sheet named 'Import Data,' I am trying to create a macro that will delete the four rows located immediately before each instance of the text 'Chassis' in column A. Make sure that the two \"Chassis\" texts are located in A2 & A3.  However, my current VBA code is not functioning properly. Can someone assist me in correcting this code so that it will carry out the task as intended?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A1:A15",
+  "num_test_cases": 1
+}

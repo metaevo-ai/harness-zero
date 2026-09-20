@@ -1,0 +1,22 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match spotify.MusicPlayer.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert music_player in the end state is in the playing state.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the music_player's queue_songs' total duration in the end state\nis >= data.private.workout_duration_mins.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the set music_player's queue_songs' song_ids in the end state\nmatch set of private_data.long_enough_playlist_song_ids.",
+        "label": "no_op_fail"
+    }
+]

@@ -1,0 +1,1 @@
+O=C1CC2C(CC(OC(=O)c3ccccc3)C2CCC(F)COc2cccc(Cl)c2)O1

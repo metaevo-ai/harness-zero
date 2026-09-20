@@ -1,0 +1,1 @@
+CC(C)(C)n1ncc(O)c(Cl)c1=O.CCOC(C)COc1ccc(CBr)cc1

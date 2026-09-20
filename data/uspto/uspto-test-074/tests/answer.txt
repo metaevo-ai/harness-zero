@@ -1,0 +1,1 @@
+CC[C@@H](COC)n1cc(Cl)nc(Cl)c1=O.Clc1cc(Br)cc2c1NCC2

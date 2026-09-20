@@ -1,0 +1,1 @@
+Cc1ccc(NC(=O)c2ccc([N+](=O)[O-])c(NCCO)c2)cc1C

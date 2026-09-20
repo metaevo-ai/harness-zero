@@ -1,0 +1,1 @@
+Cc1cccc([C@@H]2CNC(=O)N2C2CCN(Cc3ccc(Oc4ccc(OCC(=O)OC(C)(C)C)cc4)nc3C)CC2)c1

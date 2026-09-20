@@ -1,0 +1,1 @@
+COC(=O)c1ccc2c(c1)NCC2.COc1cc(C)c(S(=O)(=O)Cl)c(C)c1

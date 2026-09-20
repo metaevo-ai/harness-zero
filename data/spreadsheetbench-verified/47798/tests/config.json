@@ -1,0 +1,7 @@
+{
+  "id": "47798",
+  "instruction": "How can I extract the collection name from cells where the 'Collection-' tag is placed at different positions within the text? Specifically, I am looking to capture the text immediately following 'Collection-' up to either the first comma or the end of the data in each cell, bearing in mind that the 'Collection-' tag appears only once in each cell.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B2:B7",
+  "num_test_cases": 1
+}

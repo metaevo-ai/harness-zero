@@ -1,0 +1,7 @@
+{
+  "id": "12307",
+  "instruction": "How can I calculate the number of countries each company operates in (meaning they have more than 0 employees in that country), based on two tables: one with a list of companies and another with a list of countries and the corresponding companies with the number of employees?I need to apply a formula to cell I12, I 13 to count how many countries mentioned in Table-1 does ABC  operate in with > 0 employees in that country.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "I12:I13",
+  "num_test_cases": 1
+}

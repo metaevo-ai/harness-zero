@@ -1,0 +1,1 @@
+CC(=O)OC[C@@H]1C[C@H](Nc2cc(Cl)c(Cl)cc2[N+](=O)[O-])[C@@H](OC(C)=O)[C@H]1OC(C)=O

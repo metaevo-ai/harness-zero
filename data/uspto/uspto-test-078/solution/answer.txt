@@ -1,0 +1,1 @@
+O=c1c2nc(Br)n(-c3ccccc3)c2nc(-c2ccc(C(F)(F)F)cc2)n1-c1ccc(Cl)cc1.[C-]#N

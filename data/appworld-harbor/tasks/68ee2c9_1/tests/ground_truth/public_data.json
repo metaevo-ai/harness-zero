@@ -1,0 +1,5 @@
+{
+    "prefix_format": "YYYY-MM-DD_",
+    "downloads_directory": "~/downloads/",
+    "trash_directory": "~/trash/"
+}

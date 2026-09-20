@@ -1,0 +1,1 @@
+CC(Cl)c1cc(Cl)c(C#N)c2c1OCCN(C(=O)OC(C)(C)C)C2.Cc1n[nH]c2ncnc(N)c12

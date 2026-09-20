@@ -1,0 +1,7 @@
+{
+  "id": "52541",
+  "instruction": "Write and implement a formula for the remarks column (J) in my Excel spreadsheet for tracking accounts receivable. It needs to incorporate amount outstanding and prepaid, because the current formula is not providing the results that I require. Could you provide a proper one? My current formula is:\n   IF([@[Over Due Days]]=\"\", \"\", IF([@[Over Due Days]]<90, \"Call Customer\", \"Bad Debts\")). If the amount outstanding is negative, the remark should be 'Prepaid'.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "J6:J10",
+  "num_test_cases": 1
+}

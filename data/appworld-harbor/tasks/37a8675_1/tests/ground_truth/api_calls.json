@@ -1,0 +1,99 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "3808719492",
+            "password": "5!Dkf5d"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSszODA4NzE5NDkyIiwiZXhwIjoxNjg0NDEyMDk4fQ.hUQwLZANzyKPQO2PM689b7d4VAQ5TDAU4E4b7WiPblM",
+            "query": "2192158297"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "jes.mill@gmail.com",
+            "password": "*mR5XTY"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/payment_cards",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqZXMubWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.Vw-I7cOPHNdgCjOW6RZZOJHR_j1WqoFIGIoBa5AYPw4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqZXMubWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.Vw-I7cOPHNdgCjOW6RZZOJHR_j1WqoFIGIoBa5AYPw4",
+            "payment_card_id": 96,
+            "receiver_email": "thomas.solomon@gmail.com",
+            "amount": 91,
+            "private": true,
+            "description": "Payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqZXMubWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.Vw-I7cOPHNdgCjOW6RZZOJHR_j1WqoFIGIoBa5AYPw4",
+            "payment_card_id": 97,
+            "receiver_email": "thomas.solomon@gmail.com",
+            "amount": 91,
+            "private": true,
+            "description": "Payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqZXMubWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.Vw-I7cOPHNdgCjOW6RZZOJHR_j1WqoFIGIoBa5AYPw4",
+            "payment_card_id": 98,
+            "receiver_email": "thomas.solomon@gmail.com",
+            "amount": 91,
+            "private": true,
+            "description": "Payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytqZXMubWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9.Vw-I7cOPHNdgCjOW6RZZOJHR_j1WqoFIGIoBa5AYPw4",
+            "payment_card_id": 99,
+            "receiver_email": "thomas.solomon@gmail.com",
+            "amount": 91,
+            "private": true,
+            "description": "Payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

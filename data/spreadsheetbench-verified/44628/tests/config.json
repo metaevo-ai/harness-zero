@@ -1,0 +1,7 @@
+{
+  "id": "44628",
+  "instruction": "Group and sum the total sales of all products by using the first letter of each product's name, such as 'A' from the product SKU 'A2-3442-2244', and aggregate the sales for all SKUs starting with the same letter. Display these results in D3:G3.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "D3:G3",
+  "num_test_cases": 1
+}

@@ -1,0 +1,7 @@
+{
+  "id": "42930",
+  "instruction": "How can I assign a unique number to each subdivision based on the earliest house built within it, to sort a longer list of houses by this number, ensuring that the subdivisions are clustered together in the order of the earliest built houses, without manually 'Find and Replace' in an Excel sheet containing several thousand houses and hundreds of subdivisions?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C2:C22",
+  "num_test_cases": 1
+}

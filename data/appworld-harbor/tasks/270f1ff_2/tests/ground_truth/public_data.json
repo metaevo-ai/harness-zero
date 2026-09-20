@@ -1,0 +1,8 @@
+{
+    "child_relation": "daughter",
+    "multiplier": "thrice",
+    "expected_note": "Many happy returns of the day!",
+    "expected_message": "Happy Birthday daughter! Looking forward to meet you soon!",
+    "pronoun_1": "her",
+    "pronoun_2": "her"
+}

@@ -1,0 +1,1 @@
+Nc1ccccc1.O=C(O)c1ccc(OCC(=O)C23CC4CC(CC(C4)C2)C3)cc1

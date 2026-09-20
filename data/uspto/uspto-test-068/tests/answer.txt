@@ -1,0 +1,1 @@
+C=CCOCC1(c2cccc(C)c2)NC(=O)NC1=O.N#Cc1ccc(Br)cc1C(F)(F)F

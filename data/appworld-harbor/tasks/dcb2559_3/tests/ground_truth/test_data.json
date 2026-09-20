@@ -1,0 +1,18 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match {app_name}.{subscription_name}Subscription,\ngmail.Attachment, gmail.Email, file_system.Directory, file_system.File,\ngmail.GlobalEmailThread.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert 1 record was added in {app_name}.{subscription_name}Subscription,\nusing models.changed_records.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the added subscription's .duration matches private_data.duration.",
+        "label": "no_op_fail"
+    }
+]

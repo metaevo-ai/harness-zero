@@ -1,0 +1,7 @@
+{
+  "id": "531-18",
+  "instruction": "I need to transpose data from the 'Data' tab into the format shown on the 'Transpose' tab of my Excel file, specifically focusing on the ITEM, DATE, and QTY columns. Could you advise whether a macro or VBA is more appropriate for this task?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Transpose'!A3:C970",
+  "num_test_cases": 1
+}

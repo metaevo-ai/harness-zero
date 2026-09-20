@@ -1,0 +1,6 @@
+{
+    "relations": "roommates",
+    "product_type": "gaming console controller",
+    "min_price": 70,
+    "max_price": 170
+}

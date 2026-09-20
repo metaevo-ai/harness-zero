@@ -1,0 +1,7 @@
+{
+  "id": "52917",
+  "instruction": "I need to create a formula that can combine day, month, and year data from separate columns A, B, and C into a complete date format in column J, as shown in my attached  file.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "J2:J9",
+  "num_test_cases": 1
+}

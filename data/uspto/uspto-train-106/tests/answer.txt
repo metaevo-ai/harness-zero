@@ -1,0 +1,1 @@
+C[SiH](C)Oc1c(C(C)(C)C)ccc(N)c1NC(=O)c1ccc(C(C)(C)C)cc1.O=C(O)c1ccc2cc[nH]c2c1

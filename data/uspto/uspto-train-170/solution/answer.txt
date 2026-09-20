@@ -1,0 +1,1 @@
+CC(C)(C)OC(=O)N1CC=C(OS(=O)(=O)C(F)(F)F)CC1.O=[N+]([O-])c1ccc(B(O)O)cc1

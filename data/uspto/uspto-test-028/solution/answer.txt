@@ -1,0 +1,1 @@
+C1CNC1.O=[N+]([O-])c1ccc(Cl)nc1

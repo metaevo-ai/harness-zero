@@ -1,0 +1,18 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match spotify.UserArtistFollowing.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert artist_ids of the added artist followings match private_data.to_be_followed_artist_ids.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added, removed spotify.UserArtistFollowing records using models.changed_records\nand assert 0 have been removed.",
+        "label": "no_op_pass"
+    }
+]

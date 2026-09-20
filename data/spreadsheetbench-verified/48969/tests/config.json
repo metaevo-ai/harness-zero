@@ -1,0 +1,7 @@
+{
+  "id": "48969",
+  "instruction": "How can I compare and match the columns and rows of two separate data sources in Excel to get a result, as demonstrated in the attached file?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "J3:N5",
+  "num_test_cases": 1
+}

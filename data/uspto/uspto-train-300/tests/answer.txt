@@ -1,0 +1,1 @@
+COC(=O)c1ccc2c(/C=C3\Oc4c(ccc(O)c4CN4CCN(C(=O)OC(C)(C)C)CC4)C3=O)c[nH]c2c1

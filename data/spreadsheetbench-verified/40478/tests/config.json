@@ -1,0 +1,7 @@
+{
+  "id": "40478",
+  "instruction": "How do I use a formula to extract text from column A in a spreadsheet, starting after the second space character to the right and ending before a dash character? An example of the manually extracted data is provided in column B for reference. When you have a formula created please use it.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B1:B3",
+  "num_test_cases": 1
+}

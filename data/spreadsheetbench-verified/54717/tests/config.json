@@ -1,0 +1,7 @@
+{
+  "id": "54717",
+  "instruction": "How do I use Excel to sum the values in a specific column based on particular start and end row numbers, where the column to search and the row numbers are determined by the values in predefined cells?\n   These numbers represent the amount owner contributes in the 1.9 thread\n   The border means this is the point when P1 and P2 auto prime",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "S10",
+  "num_test_cases": 1
+}

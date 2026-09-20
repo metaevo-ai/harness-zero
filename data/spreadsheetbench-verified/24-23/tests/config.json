@@ -1,0 +1,7 @@
+{
+  "id": "24-23",
+  "instruction": "In my Excel spreadsheet, which has over 13,000 rows, I need to filter column A for the groups labeled '@9T', 'SAL', and 'T9A', and then delete these rows. The attached example only shows 207 rows. Can the provided code handle deleting the rows without taking excessive amounts of time?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A2:D207",
+  "num_test_cases": 1
+}

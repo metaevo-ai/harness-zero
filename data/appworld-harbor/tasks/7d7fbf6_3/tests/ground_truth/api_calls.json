@@ -1,0 +1,80 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/file_system/auth/token",
+        "data": {
+            "username": "adrian_burt@gmail.com",
+            "password": "unJp1*f"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/file_system/directory",
+        "data": {
+            "directory_path": "~/pictures/vacations/",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbSthZHJpYW5fYnVydEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.VxszQcGCTa0saz1mg8gYsS1PGhw78OvKLvhvLwBummg",
+            "recursive": false
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/pictures/vacations/bali",
+            "compressed_file_path": "~/pictures/vacations/bali.zip",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbSthZHJpYW5fYnVydEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.VxszQcGCTa0saz1mg8gYsS1PGhw78OvKLvhvLwBummg",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/pictures/vacations/maui",
+            "compressed_file_path": "~/pictures/vacations/maui.zip",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbSthZHJpYW5fYnVydEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.VxszQcGCTa0saz1mg8gYsS1PGhw78OvKLvhvLwBummg",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/pictures/vacations/santorini",
+            "compressed_file_path": "~/pictures/vacations/santorini.zip",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbSthZHJpYW5fYnVydEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.VxszQcGCTa0saz1mg8gYsS1PGhw78OvKLvhvLwBummg",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/directory/compress",
+        "data": {
+            "directory_path": "~/pictures/vacations/seoul",
+            "compressed_file_path": "~/pictures/vacations/seoul.zip",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbSthZHJpYW5fYnVydEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.VxszQcGCTa0saz1mg8gYsS1PGhw78OvKLvhvLwBummg",
+            "delete_directory": true,
+            "overwrite": true
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

@@ -1,0 +1,7 @@
+{
+  "id": "227-40",
+  "instruction": "How can I remove or replace text duplicates within the same row in Excel, as most of the available methods only apply to columns? I have provided the sheet showing the issue I am facing with duplicates in consecutive columns where the expected result is shown in 'The Result I'm after' section. Place the output in A14:E17.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A14:E17",
+  "num_test_cases": 1
+}

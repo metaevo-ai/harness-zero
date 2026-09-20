@@ -1,0 +1,7 @@
+{
+  "id": "32612",
+  "instruction": "How can I create a workday column in an Excel file that identifies each date as the day of the week (e.g., Mon, Tue, Wed, etc.)? Additionally, when the date is a holiday, you do not need to fill in the day of the week, instead you need to marks the date as a public holiday, specifying if it's a working public holiday (PH(working)) or a non-working public holiday (PH(non-working)), using a provided list of public holidays.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "E2:E75",
+  "num_test_cases": 1
+}

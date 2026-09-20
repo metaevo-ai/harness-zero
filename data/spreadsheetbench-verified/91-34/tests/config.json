@@ -1,0 +1,7 @@
+{
+  "id": "91-34",
+  "instruction": "Create a macro or Delete only one entry of a person (same last name, first name, and DOB) marked 'Yes' in the 'Duplicate?' column, provided that the 'Relationship' column for these duplicates is anything but 'Employee'? For example, Emily Doees is listed twice as non-employee, so one entry should be deleted, but Lisa Doees, present as both a spouse and an employee, should not have either entry deleted.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'SwiftMD'!B2:O42",
+  "num_test_cases": 1
+}

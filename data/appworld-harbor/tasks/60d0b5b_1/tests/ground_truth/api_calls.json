@@ -1,0 +1,63 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "2738013302",
+            "password": "DO2biFi"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNzM4MDEzMzAyIiwiZXhwIjoxNjg0NDEyMDk4fQ.8f7tPw-aMbjNGW8pdLt9NL9zyoM91mofEiQ-lqa85og",
+            "query": "Robert"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "ta.weav@gmail.com",
+            "password": "]^JbJnD"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/sent_payment_requests",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbyt0YS53ZWF2QGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjc0MX0.ToADyRDPnDzQ5kD6TmHfr6tg8DsYemzxdpsvBEWioEY",
+            "status": "approved"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbyt0YS53ZWF2QGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjc0MX0.ToADyRDPnDzQ5kD6TmHfr6tg8DsYemzxdpsvBEWioEY",
+            "receiver_email": "robertmartinez@gmail.com",
+            "amount": 74.0,
+            "description": "Returning the accidental payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

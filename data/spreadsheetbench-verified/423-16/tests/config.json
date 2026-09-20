@@ -1,0 +1,7 @@
+{
+  "id": "423-16",
+  "instruction": "Can you use VBA or execute a process to selectively transpose cells from one sheet to another in Excel? Specifically, I want to transpose the yellow (#FFFF00) shaded cells in column A from the 'Test' sheet, in rows 1 of the 'master' sheet.  Once complete format all the transposed cells with yellow shading (#FFFF00) and borders and remove any cell that is blank.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'master'!A1:AH1",
+  "num_test_cases": 1
+}

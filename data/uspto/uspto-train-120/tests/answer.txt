@@ -1,0 +1,1 @@
+C#CCOc1cc(OC)cc(OC)c1S(=O)(=O)Cl.CC(C)C[C@H](NC(=O)[C@H](CCc1ccccc1)NC(=O)CN1CCOCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(C)C)C(=O)[C@](C)(O)CO

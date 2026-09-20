@@ -1,0 +1,150 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "jer.calhoun@gmail.com",
+            "password": "a42EQ0j"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 0,
+            "query": "Velvet Underground"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 1,
+            "query": "Velvet Underground"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 2,
+            "query": "Velvet Underground"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 3,
+            "query": "Velvet Underground"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 4,
+            "query": "Velvet Underground"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 5,
+            "query": "Velvet Underground"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 6,
+            "query": "Velvet Underground"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 7,
+            "query": "Velvet Underground"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 8,
+            "query": "Velvet Underground"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 9,
+            "query": "Velvet Underground"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/37",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/38",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/39",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/40",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/41",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/42",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/43",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/music_player/play",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2plci5jYWxob3VuQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjA5OH0.TGGJ8h0f1dFfjbDBf5GwbPZpAEAn5m66mKRtYzlVRg8",
+            "song_id": 41
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

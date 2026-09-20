@@ -1,0 +1,7 @@
+{
+  "id": "183-8",
+  "instruction": "How can I calculate the weighted average for columns J, K, and L based on the data? I have provided a sample file for reference. Only write formulas in J3:L6.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!I3:L7",
+  "num_test_cases": 1
+}

@@ -1,0 +1,1 @@
+CC(C)Oc1ccc(-c2nnc(Br)s2)cc1Cl.CCc1c(/C=C/OC)cccc1B1OC(C)(C)C(C)(C)O1

@@ -1,0 +1,7 @@
+{
+  "id": "39046",
+  "instruction": "How can I use a formula in Excel to check if a reference in column B is marked as 'CANCELLED' in another column, then count how many subreferences in column D contain a part of the parent reference from the entire column B, placing 'Yes' in column E if there is at least one match or 'No' otherwise, and finally count the number of 'Yes' entries to be displayed in column F?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "F2:F6",
+  "num_test_cases": 1
+}

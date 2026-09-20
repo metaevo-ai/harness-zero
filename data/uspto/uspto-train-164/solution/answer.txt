@@ -1,0 +1,1 @@
+COC(=O)[C@@H]1CC[C@@H](C(=O)Cl)CC1.C[Si](C)(C)c1ccc(Br)cn1

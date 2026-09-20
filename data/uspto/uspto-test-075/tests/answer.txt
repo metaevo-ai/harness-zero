@@ -1,0 +1,1 @@
+CC(N)=S.COC(=O)C(=O)C(Cl)c1ccc(F)c(F)c1

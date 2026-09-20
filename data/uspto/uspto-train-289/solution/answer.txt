@@ -1,0 +1,1 @@
+CC(=O)Nc1cccc(Oc2cnc(Cl)c(F)c2)c1

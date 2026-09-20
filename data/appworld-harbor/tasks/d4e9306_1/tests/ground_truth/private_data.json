@@ -1,0 +1,29 @@
+{
+    "to_be_followed_artist_ids_by_songs": [
+        32,
+        33,
+        34,
+        4,
+        8,
+        9,
+        18,
+        21,
+        22,
+        25,
+        26,
+        27,
+        28,
+        30
+    ],
+    "to_be_followed_artist_ids_by_albums": [
+        34,
+        35,
+        36,
+        8,
+        9,
+        11,
+        12,
+        19,
+        27
+    ]
+}

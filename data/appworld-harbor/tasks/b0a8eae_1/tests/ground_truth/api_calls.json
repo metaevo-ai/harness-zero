@@ -1,0 +1,225 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/simple_note/auth/token",
+        "data": {
+            "username": "timothy.whit@gmail.com",
+            "password": "O{CBZVF"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y",
+            "query": "workout"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y",
+            "query": "workout"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y",
+            "query": "workout"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y",
+            "query": "workout"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y",
+            "query": "workout"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y",
+            "query": "workout"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y",
+            "query": "workout"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y",
+            "query": "workout"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y",
+            "query": "workout"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y",
+            "query": "workout"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/3016",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZSt0aW1vdGh5LndoaXRAZ21haWwuY29tIiwiZXhwIjoxNjg0ODM0NzQ0fQ.AYJy0T8WP8xH-nfdjRFzA-TkNF2XvTQpoTbVNKgof0Y"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "timothy.whit@gmail.com",
+            "password": "K8@@L3Q"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/80",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/music_player/play",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ4MzUzODd9.75hBXbFc7Q8Cv9T6XN_iMpTWIO1ntQjBwZykHoatHUc",
+            "playlist_id": 636
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

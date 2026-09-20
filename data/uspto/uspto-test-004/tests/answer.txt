@@ -1,0 +1,1 @@
+CS(=O)(=O)c1ccc(Oc2cc(Cl)ccc2CCC#N)c(Cl)c1.[N-]=[N+]=[N-]

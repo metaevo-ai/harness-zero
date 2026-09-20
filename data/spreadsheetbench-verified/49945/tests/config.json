@@ -1,0 +1,7 @@
+{
+  "id": "49945",
+  "instruction": "How can I create an Excel formula that will allow me to sum the quantities in range D4:D4 associated with a specific model listed in range C4:C11, regardless of the year, with the goal of entering this formula in cell G4? My attempt using SUM and XLOOKUP only sums the first value and does not aggregate across multiple columns. I have provided an example spreadsheet with the data.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "G4:G6",
+  "num_test_cases": 1
+}

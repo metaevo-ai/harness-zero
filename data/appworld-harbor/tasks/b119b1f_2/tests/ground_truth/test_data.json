@@ -1,0 +1,26 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match spotify.MusicPlayer.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert spotify.MusicPlayer has 1 updated using models.changed_records",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert this music player record has updated only in the cursor_position\nusing models.changed_field_names",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the currently playing song has ID private_data.song_id in the end state.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert music player's cursor is on the song by private_data.artist_id in the end state.",
+        "label": "no_op_fail"
+    }
+]

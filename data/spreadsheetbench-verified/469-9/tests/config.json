@@ -1,0 +1,7 @@
+{
+  "id": "469-9",
+  "instruction": "I need a macro that will take debit and credit values from Column C in my Excel spreadsheet and separate them into two new columns. Specifically, it should create a new column titled 'Debits' in Column H to contain all the debit amounts, and another column titled 'Credits' in Column I for all the credit amounts, both of which should be filled in as absolute values and not filled in if there is no value. I have included a sample Excel file for reference and assistance.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "H1:I10",
+  "num_test_cases": 1
+}

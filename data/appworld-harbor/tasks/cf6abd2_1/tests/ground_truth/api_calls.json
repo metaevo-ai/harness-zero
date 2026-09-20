@@ -1,0 +1,51 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/simple_note/auth/token",
+        "data": {
+            "username": "ron.harrison@gmail.com",
+            "password": "^tqDJrM"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStyb24uaGFycmlzb25AZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.sohkAzOfwKWtW09XAZWggKSHKovc8DeWCq1AU4ciHic",
+            "query": "bucket list"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/318",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStyb24uaGFycmlzb25AZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.sohkAzOfwKWtW09XAZWggKSHKovc8DeWCq1AU4ciHic"
+        }
+    },
+    {
+        "method": "patch",
+        "url": "/simple_note/notes/318",
+        "data": {
+            "content": "# My Bucket List ([x] = done, [ ] = not done))\n\n[x] Riding the Trans-Siberian Railway\n[x] Traveling to at least 5 different continents\n[x] Staying in an overwater bungalow\n[x] Seeing the Pyramids of Egypt\n[x] Taking a photography expedition\n[x] Cruising on the Nile River\n[x] Camping under the stars in a remote location\n[x] Learning to cook a signature dish from scratch\n[x] Taking a cooking class in a foreign country\n[ ] Riding a gondola in Venice",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStyb24uaGFycmlzb25AZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.sohkAzOfwKWtW09XAZWggKSHKovc8DeWCq1AU4ciHic"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

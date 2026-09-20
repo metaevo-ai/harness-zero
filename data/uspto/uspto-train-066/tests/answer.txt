@@ -1,0 +1,1 @@
+CC1(C)OC(=O)C(=CC(=O)Cl)O1.CONCc1ccc(OC)cc1

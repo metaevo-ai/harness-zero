@@ -1,0 +1,1 @@
+CC(C)(C)OC(=O)NC1=N[C@@]2(c3cc(Br)ccc3F)CO[C@@H](CF)C[C@H]2CS1.CC(C)(C)OC(=O)OC(=O)OC(C)(C)C

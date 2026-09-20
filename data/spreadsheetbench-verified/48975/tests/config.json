@@ -1,0 +1,7 @@
+{
+  "id": "48975",
+  "instruction": "How can I copy values from columns 'A' and 'B' in one row from the 'Input' worksheet to the 'Output' worksheet if the corresponding 'To Do' cell in column 'E' is marked 'yes', while also skipping any empty rows or cells, without using VBA, as I have tried unsuccessfully for the last three hours?",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "Output'!B11:B17",
+  "num_test_cases": 1
+}

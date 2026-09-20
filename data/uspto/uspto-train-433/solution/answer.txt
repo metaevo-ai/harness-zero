@@ -1,0 +1,1 @@
+Cc1cc(Cl)ccc1C(CC(=O)c1ccc(=O)n(CCC(=O)O)c1)c1ccc(S(C)(=O)=O)cc1.NO

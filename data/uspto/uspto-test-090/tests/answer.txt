@@ -1,0 +1,1 @@
+CC(C)(C)[Si](C)(C)Oc1cc(O)cc(O[Si](C)(C)C(C)(C)C)c1.OCCOCCOCCOCCOCCOC(c1ccccc1)(c1ccccc1)c1ccccc1

@@ -1,0 +1,218 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "timothy.whit@gmail.com",
+            "password": "K8@@L3Q"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.vcjzfUiUAXeSMl2SyhTMLrGfTDKg8H0mNUZKE8JmFIQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.vcjzfUiUAXeSMl2SyhTMLrGfTDKg8H0mNUZKE8JmFIQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.vcjzfUiUAXeSMl2SyhTMLrGfTDKg8H0mNUZKE8JmFIQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.vcjzfUiUAXeSMl2SyhTMLrGfTDKg8H0mNUZKE8JmFIQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.vcjzfUiUAXeSMl2SyhTMLrGfTDKg8H0mNUZKE8JmFIQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.vcjzfUiUAXeSMl2SyhTMLrGfTDKg8H0mNUZKE8JmFIQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.vcjzfUiUAXeSMl2SyhTMLrGfTDKg8H0mNUZKE8JmFIQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.vcjzfUiUAXeSMl2SyhTMLrGfTDKg8H0mNUZKE8JmFIQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.vcjzfUiUAXeSMl2SyhTMLrGfTDKg8H0mNUZKE8JmFIQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/recommendations",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3RpbW90aHkud2hpdEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.vcjzfUiUAXeSMl2SyhTMLrGfTDKg8H0mNUZKE8JmFIQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/10",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/11",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/40",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/67",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/72",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/74",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/89",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/96",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/97",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/122",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/126",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/176",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/179",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/182",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/193",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/196",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/273",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/276",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/279",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/297",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/301",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/28",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success",
+            "answer": "Evelyn Rose"
+        }
+    }
+]

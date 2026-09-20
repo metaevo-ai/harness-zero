@@ -1,0 +1,34 @@
+schema_version = "1.4"
+
+[[artifacts]]
+source = "/export/appworld"
+destination = "appworld"
+service = "world"
+
+[metadata]
+category = "multi-app-workflow"
+tags = ["appworld", "test_normal"]
+
+[agent]
+timeout_sec = 3600.0
+
+[environment]
+docker_image = "ahd-appworld-client:v2"
+workdir = "/workdir"
+
+[environment.healthcheck]
+command = "appworld task && appworld exec --json </dev/null"
+timeout_sec = 15.0
+start_period_sec = 60.0
+
+[verifier]
+environment_mode = "separate"
+timeout_sec = 900.0
+
+[[verifier.collect]]
+service = "world"
+command = "python /opt/appworld_env/snapshot.py"
+timeout_sec = 360.0
+
+[verifier.environment]
+build_timeout_sec = 600.0

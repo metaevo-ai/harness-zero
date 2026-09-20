@@ -1,0 +1,1 @@
+NC(=O)c1cc([N+](=O)[O-])c(N)c(F)c1F

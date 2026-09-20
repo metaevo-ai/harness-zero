@@ -1,0 +1,1 @@
+Cc1c(N(Cc2ccccc2)Cc2ccc(Oc3cccc(O)c3)cc2)cccc1[N+](=O)[O-].O=C1c2ccccc2C(=O)N1CCCO

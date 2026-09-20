@@ -1,0 +1,7 @@
+{
+  "id": "11276",
+  "instruction": "I am using the TEXT formula from F3:AJ3 in my Excel sheet, which is meant to return the weekday name, but it is incorrectly returning the date value instead. Correct the formula to display the weekday like the other cells that are correctly showing this information? For example, Mon, Wed... etc. Please apply this formula to the rest of the appropriate cells in that row.\n\nMy wrong formula: TEXT(F4,\"DD\")",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "F3:AJ3",
+  "num_test_cases": 1
+}

@@ -1,0 +1,1 @@
+C#CC1(O)CCN(C(=O)Cc2ccc(-n3cnnn3)cc2)CC1.N#Cc1cccc(Br)c1

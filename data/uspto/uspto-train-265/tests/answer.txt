@@ -1,0 +1,1 @@
+CC(C)(C)OC(=O)OC(=O)OC(C)(C)C.C[Si](C)(C)CCOC(=O)NC[C@@H](N)CC1CCCCC1

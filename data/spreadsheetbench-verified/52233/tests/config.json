@@ -1,0 +1,7 @@
+{
+  "id": "52233",
+  "instruction": "How can I modify my Excel formula so that when I drag it down, the column reference changes (e.g., B3:B5 to C3:C5), but the row reference remains the same, while maintaining the functionality of the sum and index/match currently in the formula: =SUM(INDEX(B3:B5,0,MATCH(A7,$B$2:$Z$2,0)))?\nWrite a modified formula and drag it vertically to the appropriate cell range in the column.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B7:B10",
+  "num_test_cases": 1
+}

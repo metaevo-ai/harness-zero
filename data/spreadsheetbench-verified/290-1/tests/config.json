@@ -1,0 +1,7 @@
+{
+  "id": "290-1",
+  "instruction": "I have a data set that is currently manually transposed in columns K to V, and I would like a macro to automate this process for data that will likely span around 2,000 rows. The relevant data is evidenced in the file that I have attached. I have given some examples in the answer attachment, please help me complete the rest of the answer. Note the position correspondence. Don't change any formatting",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "K2:U10",
+  "num_test_cases": 1
+}

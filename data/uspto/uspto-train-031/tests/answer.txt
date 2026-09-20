@@ -1,0 +1,1 @@
+C[C@H]1C[C@@H](c2ccncc2NC(=O)c2ccc(F)c(-c3c(F)cccc3F)n2)C[C@@H](NC(=O)OC(C)(C)C)[C@H]1N=[N+]=[N-]

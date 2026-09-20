@@ -1,0 +1,51 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/simple_note/auth/token",
+        "data": {
+            "username": "ja-solomon@gmail.com",
+            "password": "cn$Fr]h"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStqYS1zb2xvbW9uQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjA5OH0.Aqir7P4W70fG_SnVbsTijUUdrDvHG6oCQCZsI1zA8iE",
+            "query": "bucket list"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/251",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStqYS1zb2xvbW9uQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjA5OH0.Aqir7P4W70fG_SnVbsTijUUdrDvHG6oCQCZsI1zA8iE"
+        }
+    },
+    {
+        "method": "patch",
+        "url": "/simple_note/notes/251",
+        "data": {
+            "content": "# My Bucket List ([x] = done, [ ] = not done))\n\n[x] Witnessing a total solar eclipse\n[ ] Learning to play a musical instrument\n[ ] Writing a book or novel\n[x] Traveling to at least 5 different continents\n[x] Taking a cooking class in a foreign country\n[x] Bungee jumping from a high platform\n[x] Going on a meditation or yoga retreat\n[ ] Watching a Broadway show in New York City\n[x] Riding the Trans-Siberian Railway\n[x] Exploring the Amazon rainforest",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStqYS1zb2xvbW9uQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjA5OH0.Aqir7P4W70fG_SnVbsTijUUdrDvHG6oCQCZsI1zA8iE"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

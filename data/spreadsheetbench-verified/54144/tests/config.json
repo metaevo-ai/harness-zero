@@ -1,0 +1,7 @@
+{
+  "id": "54144",
+  "instruction": "How can I create an Excel 365 formula to sum the quantities of trucks listed on the 'Data' Sheet when the truck names are concatenated on the 'Report' Sheet, but they are listed separately on the 'Data' Sheet?     Could you help me in my question ,please?\nI need a formula to sum trucks quantities from \"Data\"Sheet but the problem is that the Trucks here are concatenated and in Data\" Sheet Trucks are not concatenated\nPlease help me",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Report'!D3:D10",
+  "num_test_cases": 1
+}

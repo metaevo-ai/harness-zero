@@ -1,0 +1,1 @@
+CC(Oc1ccccc1[N+](=O)[O-])c1nnc(N=C=O)s1.CNCC(OC)OC

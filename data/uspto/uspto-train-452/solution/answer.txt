@@ -1,0 +1,1 @@
+[N-]=[N+]=NCC1CN(c2ccc3c(c2)CC(=O)CCC3)C(=O)O1

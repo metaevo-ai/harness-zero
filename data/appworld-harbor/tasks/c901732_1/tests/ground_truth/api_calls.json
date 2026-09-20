@@ -1,0 +1,150 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "joyce-weav@gmail.com",
+            "password": "qge1k1L"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 0,
+            "query": "Echo Chamber Chronicles"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 1,
+            "query": "Echo Chamber Chronicles"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 2,
+            "query": "Echo Chamber Chronicles"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 3,
+            "query": "Echo Chamber Chronicles"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 4,
+            "query": "Echo Chamber Chronicles"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 5,
+            "query": "Echo Chamber Chronicles"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 6,
+            "query": "Echo Chamber Chronicles"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 7,
+            "query": "Echo Chamber Chronicles"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 8,
+            "query": "Echo Chamber Chronicles"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/albums",
+        "data": {
+            "page_index": 9,
+            "query": "Echo Chamber Chronicles"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/1",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/2",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/3",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/4",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/5",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/6",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/7",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/music_player/play",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2pveWNlLXdlYXZAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.-4SESAodmQQZXj1xkfwFIRI1EUfc2rL_fGELgWkJlXg",
+            "song_id": 2
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match venmo.Notification",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert all receiver ids of added notifications match keys of\nprivate_data.venmo_user_id_to_notification_messages ignoring order.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert set of added notfications messages match flattened values\nof private_data.venmo_user_id_to_notification_messages.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert user_id to message mapping from notifications match private_data.venmo_user_id_to_notification_messages",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert set of added notfications payment_request_ids match flattened values\nof private_data.venmo_user_id_to_notification_payment_request_ids.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert user_id to message mapping from notifications match\nprivate_data.venmo_user_id_to_notification_messages",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added, removed venmo.Notification records using models.changed_records,\nand assert 0 notifications were removed.",
+        "label": "no_op_pass"
+    }
+]

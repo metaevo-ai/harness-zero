@@ -1,0 +1,1 @@
+COCOc1ccc(-c2cc(CN3CC(C)(C)N(Cc4ccccc4)CC3(C)C)c3c(C)nn(C4CCCCO4)c3n2)cc1

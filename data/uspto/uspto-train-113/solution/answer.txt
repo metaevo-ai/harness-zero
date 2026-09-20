@@ -1,0 +1,1 @@
+COC(=O)[C@@H]1C[C@H](NC(C)(C)C)CC[C@@H]1N1CC[C@H](N)C1=O.O=C(O)c1cccc(C(F)(F)F)c1

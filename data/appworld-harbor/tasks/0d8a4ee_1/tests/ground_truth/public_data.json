@@ -1,0 +1,8 @@
+{
+    "message_text": "Please get on venmo.",
+    "app_name": "venmo",
+    "relation_types": [
+        "parents",
+        "siblings"
+    ]
+}

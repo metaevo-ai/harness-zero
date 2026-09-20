@@ -1,0 +1,7 @@
+{
+  "id": "267-18",
+  "instruction": "I have an Excel sheet where I am concatenating strings in column G in the format [\"/out/\",\"https://theurl.top/images/2.jpg \", \"text?\", \"text!\"]. I need to add a prefix \"//\" to this concatenation pattern (eg, //[ ), Apply formula but only for rows that are highlighted with a yellow color. How can I accomplish this? Could you implement this based on my description?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "G1:G2",
+  "num_test_cases": 1
+}

@@ -1,0 +1,1 @@
+CC(O)c1nc(Br)c(C(=O)NCc2ccc(Cl)c(Oc3cc(Cl)cc(C#N)c3)c2F)[nH]1

@@ -1,0 +1,1 @@
+CC(C)(C)C(N)=O.CCOC(=O)c1c(I)c2cc(OCc3ccccc3)ccc2n1-c1ccc(OC(C)C)cc1

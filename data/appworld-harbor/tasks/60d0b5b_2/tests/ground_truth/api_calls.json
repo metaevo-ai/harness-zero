@@ -1,0 +1,63 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "7763361246",
+            "password": "2*oodVX"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs3NzYzMzYxMjQ2IiwiZXhwIjoxNjg0NDEyMDk4fQ.VT4WvQxht8ROi4vK5p46rr9hlQJt4ssmKNzN7xubZZU",
+            "query": "Cory"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "chelsea-burch@gmail.com",
+            "password": "^%Rz^Sj"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/sent_payment_requests",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaGVsc2VhLWJ1cmNoQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjc0MX0.Se8XCj9BQAx1eSftGSdDI82e2Rapmu8yPqtD6ks62Ag",
+            "status": "approved"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytjaGVsc2VhLWJ1cmNoQGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjc0MX0.Se8XCj9BQAx1eSftGSdDI82e2Rapmu8yPqtD6ks62Ag",
+            "receiver_email": "corwils@gmail.com",
+            "amount": 48.0,
+            "description": "Returning the accidental payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

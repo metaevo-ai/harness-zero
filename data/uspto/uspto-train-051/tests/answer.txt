@@ -1,0 +1,1 @@
+CI.O=C(NCCc1noc(-c2ccc(F)cc2)n1)c1ccccc1-n1nccn1

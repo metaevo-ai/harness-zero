@@ -1,0 +1,361 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "8506051563",
+            "password": "[NXg136"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/text/16804",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/text/16812",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/text/16802",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/text/16808",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/text/16810",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/text/16800",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/text/16806",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/text/16798",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/text/16794",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/text/16796",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/voice",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/voice",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/voice",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/voice",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/voice",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/voice",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/voice",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/voice",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/voice",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/voice",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU",
+            "phone_number": "3654328626"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17028",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17036",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17038",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17042",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17040",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17026",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17030",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17034",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17024",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17032",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17044",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/phone/messages/voice/17022",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4NTA2MDUxNTYzIiwiZXhwIjoxNjg0NDEyMDk4fQ.QvARzdbSokHwI73CiRsdnvbE23nJAIJNWrM_4C6rRiU"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

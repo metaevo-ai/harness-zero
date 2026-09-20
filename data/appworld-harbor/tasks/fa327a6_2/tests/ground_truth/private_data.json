@@ -1,0 +1,5 @@
+{
+    "required_activity_type": "payment_request",
+    "required_activity_amount": 55.52,
+    "relative_user_id": 3
+}

@@ -1,0 +1,1 @@
+COC(=O)c1cccc(CCc2nc(-c3ccccc3C)[nH]c2C(=O)NC23CC4CC(CC(C4)C2)C3)c1

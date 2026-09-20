@@ -1,0 +1,7 @@
+{
+  "id": "15387",
+  "instruction": "I am working on a model in Excel and need to find a formula that allows me to obtain a list of customer names that I have migrated based on a specific input. In my uploaded Excel file, I want to be able to input '0' in cells B1:F1 and have Excel display the corresponding list of customers I have migrated in cells A13 and A14. Choose and implement a formula to accomplish this.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "A13:A14",
+  "num_test_cases": 1
+}

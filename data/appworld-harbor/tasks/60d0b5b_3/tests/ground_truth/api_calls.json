@@ -1,0 +1,63 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "2444880289",
+            "password": "Xm4bukk"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSsyNDQ0ODgwMjg5IiwiZXhwIjoxNjg0NDEyMDk4fQ.2SUeBWN6aj-0mHkB-5bCm4NAVUjeRjV77LtS158OmZ0",
+            "query": "Brandon"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/auth/token",
+        "data": {
+            "username": "pa_ritter@gmail.com",
+            "password": "F[QML{n"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/venmo/sent_payment_requests",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytwYV9yaXR0ZXJAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyNzQxfQ.kbeIITU9NN-RAQ-aePho47hxzAxHeDzKvHx2ALdD7QU",
+            "status": "approved"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/venmo/transactions",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2ZW5tbytwYV9yaXR0ZXJAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyNzQxfQ.kbeIITU9NN-RAQ-aePho47hxzAxHeDzKvHx2ALdD7QU",
+            "receiver_email": "brandon-webe@gmail.com",
+            "amount": 56.0,
+            "description": "Returning the accidental payment"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "she_bailey@gmail.com",
+            "password": "10[sXbM"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists",
+        "data": {
+            "query": "Silent Thunder"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/music_player/previous_song",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3NoZV9iYWlsZXlAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.lD63nRNWGnFpdD-QjnPbxprWvrgn7rAsPddufTB_s_4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/music_player/current_song",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3NoZV9iYWlsZXlAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.lD63nRNWGnFpdD-QjnPbxprWvrgn7rAsPddufTB_s_4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/music_player/previous_song",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3NoZV9iYWlsZXlAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.lD63nRNWGnFpdD-QjnPbxprWvrgn7rAsPddufTB_s_4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/music_player/current_song",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3NoZV9iYWlsZXlAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.lD63nRNWGnFpdD-QjnPbxprWvrgn7rAsPddufTB_s_4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/music_player/previous_song",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3NoZV9iYWlsZXlAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.lD63nRNWGnFpdD-QjnPbxprWvrgn7rAsPddufTB_s_4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/music_player/current_song",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3NoZV9iYWlsZXlAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.lD63nRNWGnFpdD-QjnPbxprWvrgn7rAsPddufTB_s_4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/spotify/music_player/previous_song",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3NoZV9iYWlsZXlAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.lD63nRNWGnFpdD-QjnPbxprWvrgn7rAsPddufTB_s_4"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/music_player/current_song",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K3NoZV9iYWlsZXlAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.lD63nRNWGnFpdD-QjnPbxprWvrgn7rAsPddufTB_s_4"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

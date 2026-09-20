@@ -1,0 +1,7 @@
+{
+  "id": "41601",
+  "instruction": "How can I create a system in Excel to automatically reference the correct sheet based on a list of student names in Column A to compile their ages located at cell C2 in each individual sheet, without writing individual formulas for each student in the 'Students' sheet? My current formula is: =Joe!C2",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Students'!E2:E7",
+  "num_test_cases": 1
+}

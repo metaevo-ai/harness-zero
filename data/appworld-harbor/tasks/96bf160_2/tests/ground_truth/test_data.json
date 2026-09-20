@@ -1,0 +1,34 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match gmail.GlobalEmailThread, gmail.UserEmailThread, gmail.Email.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added gmail.Email records using models.changed_records,\nand assert 1 was added.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the added email's recipient_ids match private_data.other_roommates_gmail_user_ids.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the added email's response_to_email_id is private_data.bill_email_id.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the added email's subject is private_data.expected_subject.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the added email's body contains private_data.expected_body_substring.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain 0 gmail.UserEmailThread records were deleted using models.changed_records.",
+        "label": "no_op_pass"
+    }
+]

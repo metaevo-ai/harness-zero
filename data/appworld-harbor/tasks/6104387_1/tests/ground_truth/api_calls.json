@@ -1,0 +1,1081 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "ka_burt@gmail.com",
+            "password": "CgR}U-F"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/songs",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/songs",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/songs",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/songs",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/songs",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/songs",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/songs",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/songs",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/songs",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/songs",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/albums",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/albums",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/albums",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/albums",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/albums",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/albums",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/albums",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/albums",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/albums",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/albums",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/128",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/257",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/26",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/130",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/262",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/27",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/134",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/9",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/6",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/3",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/26",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/6",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/10",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/32",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/141",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/10",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/142",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/10",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/17",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/36",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/18",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/36",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/146",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/11",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/150",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/12",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/279",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/29",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/159",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/13",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/32",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/36",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/19",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/35",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/161",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/13",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/34",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/11",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/290",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/31",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/160",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/13",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/38",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/170",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/15",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/171",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/15",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/172",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/15",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/45",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/46",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/47",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/48",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/49",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/50",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/51",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/52",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/53",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/8",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/54",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/5",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/55",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/5",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/56",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/5",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/57",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/5",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/183",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/16",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/314",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/35",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/317",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/35",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/63",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/31",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/5",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/64",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/31",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/5",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/65",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/31",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/5",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/66",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/31",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/5",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/319",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/35",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/196",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/18",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/200",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/18",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/202",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/19",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/74",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/34",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/9",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/75",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/34",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/9",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/76",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/34",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/9",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/77",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/12",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/27",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/78",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/12",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/27",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/79",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/12",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/27",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/80",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/33",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/81",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/33",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/82",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/33",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/207",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/20",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/217",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/21",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/90",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/2",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/220",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/21",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/221",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/22",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/96",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/3",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/100",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/3",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/228",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/23",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/229",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/23",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/108",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/5",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/238",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/24",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/114",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/6",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/116",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/6",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/120",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/7",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/121",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/artists/7",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/file_system/auth/token",
+        "data": {
+            "username": "ka_burt@gmail.com",
+            "password": "+ok}#yD"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/file_system/file",
+        "data": {
+            "file_path": "~/backups/spotify.csv",
+            "content": "Title,Artists\nSilent Sorrow,Aria Sterling\nIn the Theater of Broken Promises,Isabella Cruz\nLonging for Another Chance,Aria Sterling\nThe Spiral of Unending Thoughts,Carter Knight\nLost in a Sea of Echoes,Zoey James\nReflections in a Pool of Regret,Jasper Skye|Isabella Cruz|Seraphina Dawn\nThe Curse of Loving You,Lucas Grey\nThe Unbearable Lightness of Loss,Zoe Mitchell\nMortal Coil,Zoe Mitchell\nDancing Through the Veil of Dreams,Noah Bennett\nSecrets We Dare Not Speak,Noah Bennett\nDrifting Through Eternal Skies,Eliana Harper\nDream's End,Mia Sullivan\nThe Silence After the Storm,Lucas Diaz\nThe Forgotten Pages of Time,Luna Starlight\nWading Through Rivers of Tears,Noah Bennett|Ethan Wallace|Nova Harmony\nIn the Embrace of Midnight,Luna Starlight\nUnder the Gaze of a Watchful Moon,Eliana Harper\nWhispers in the Wind,Hazel Winter\nWeeping Sky,Luna Starlight\nDestiny's Game,Aria Sterling\nThe Silence that Speaks Volumes,Violet Cascade\nEnd of the Line,Violet Cascade\nNeon Reverie,Violet Cascade\nEclipsed,Aria Sterling\nSymphony of the Twilight Forest,Aria Sterling\nTime's Hold,Aria Sterling\nCherry Blossom Tears,Aria Sterling\nWhispers of the Enchanted Forest,Aria Sterling\nLonely Skies,Aria Sterling\nThe Silence Between Us,Aria Sterling\nBleeding Sun,Aria Sterling\nUnearthed Secrets,Aria Sterling\nHeartstrings Symphony,Ava Morgan\nTangled Lies,Ava Morgan\nDistant Love,Ava Morgan\nSilver Lining,Ava Morgan\nIn the Tunnels of Despair,Apollo Serenade\nThe Complexity of Simple Things,Nova Harmony\nTrapped in a Daydream,Nova Harmony\nJourney Through the Unknown,Hazel Winter|Ava Morgan\nCaught in a Web of Lies,Hazel Winter|Ava Morgan\nEternal Solitude,Hazel Winter|Ava Morgan\nPhantom Pain,Hazel Winter|Ava Morgan\nUnder the Willow,Nova Harmony\nFalling Through the Cracks of Time,Astrid Nightshade\nBeneath the Stars of Reminiscence,Astrid Nightshade\nSummer's End,Ethan Wallace\nOn the Border of Reality,Lily Moon|Zoey James\nWalking Through the Valley of Shadows,Lily Moon|Zoey James\nWhispers of the Heart,Lily Moon|Zoey James\nWhispers of the Soul,Mia Sullivan|Carter Knight\nA Love That Never Was,Mia Sullivan|Carter Knight\nFleeting Touch,Mia Sullivan|Carter Knight\nWandering the Streets Alone,Felix Blackwood\nEchoes of the Whispering Wind,Felix Blackwood\nLost in the Twilight of Hope,Felix Blackwood\nA Tale of Unspoken Longing,Emily Rivers\nTorn Between Two Worlds,Oceanic Odyssey\nWhispers of Tomorrow,Phoenix Rivers\nThe Threads of a Frayed Bond,Oceanic Odyssey\nSailing on the Sea of Dreams,Silent Thunder\nIn the Chambers of My Mind,Jasper Skye\nFragile Bonds,Jasper Skye\nThe Last Waltz of a Broken Heart,Soulful Reverie\nFading Glow,Soulful Reverie\nCold Embrace,Ava Morgan\nThe Illusion of Forever,Liam Palmer\nWhen All Hope Seems Lost,Seraphina Dawn\nPaper Planes,Seraphina Dawn\nElusive Joy,Orion Steele\nAstral Serenity,Orion Steele\n",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmaWxlX3N5c3RlbStrYV9idXJ0QGdtYWlsLmNvbSIsImV4cCI6MTY4NDQxMjc0MX0.O-nTKWQsLWGI0YLkh-DXd8OmquJt00uLY0Fi33tgxNQ"
+        }
+    },
+    {
+        "method": "delete",
+        "url": "/spotify/account",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2thX2J1cnRAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyMDk4fQ.I7BBYZrWnBfH_0YyGQgpu9qsZy27p_gyoOWzD9VD6oE"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

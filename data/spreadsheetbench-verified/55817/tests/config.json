@@ -1,0 +1,7 @@
+{
+  "id": "55817",
+  "instruction": "I need to figure out how to take symmetrical data that is currently arranged in one column and display it in a specific symmetrical order across multiple rows. I have provided an example in the file to illustrate what I'm trying to achieve. I have data that is symmetrical in nature shown in column A. I need all of the data in column A to be transposed and placed starting in B2.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B2:H6",
+  "num_test_cases": 1
+}

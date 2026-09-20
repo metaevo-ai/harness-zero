@@ -1,0 +1,1 @@
+CON=C(COCc1cc(C(F)(F)F)cc(C(F)(F)F)c1)C(CCO)c1ccc(Cl)c(Cl)c1

@@ -1,0 +1,7 @@
+{
+  "id": "42902",
+  "instruction": "I want to transpose a list of over 21 rows into columns, where each group of 3 rows becomes a separate record. The first row of each group should go in column D, the second row in column E, and the third row in column F, with each record occupying its own row.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "D1:F7",
+  "num_test_cases": 1
+}

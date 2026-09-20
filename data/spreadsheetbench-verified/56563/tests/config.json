@@ -1,0 +1,7 @@
+{
+  "id": "56563",
+  "instruction": "Create a formula in Excel to sum a range of cells that contains the #NUM error value, as illustrated in the attached '#NUM.xlsx' spreadsheet?\u00a0 \nMy current formula is:\nSUM(C2:C13)",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "C14",
+  "num_test_cases": 1
+}

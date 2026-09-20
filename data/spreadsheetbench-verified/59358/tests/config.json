@@ -1,0 +1,7 @@
+{
+  "id": "59358",
+  "instruction": "How can I search through two ranges in Excel (B2:B23 and D2:D23), identify the first occurrence where a value in range B matches a value in range D, and then return the text from the adjacent cell in range F (F2:F23) that corresponds to the first successful match? I have provided an example and values I am interested in are located in L7, L8 & L9.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "L7:L9",
+  "num_test_cases": 1
+}

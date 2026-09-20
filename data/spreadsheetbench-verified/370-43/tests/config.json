@@ -1,0 +1,7 @@
+{
+  "id": "370-43",
+  "instruction": "I need assistance with writing some VBA code that can insert a row above every line where there is an \"X\" in Column A, specifically within the range of A7:A1000. I've attempted various methods without success. I have also provided a sheet that shows what I am aiming for before and after the VBA is implemented.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Before Insert Row'!A1:A70",
+  "num_test_cases": 1
+}

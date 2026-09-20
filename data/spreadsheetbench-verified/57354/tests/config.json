@@ -1,0 +1,7 @@
+{
+  "id": "57354",
+  "instruction": "I am seeking a formula for total revenue and total GP cells on row 3 in my Excel sheet that would identify all columns in row 3 that belong to the same total category and calculate their sum. My current manual method is inefficient as the number of columns grows, so I need an automated solution that sums these values without manual adjustment as I add more columns.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "B3:E3",
+  "num_test_cases": 1
+}

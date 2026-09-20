@@ -1,0 +1,7 @@
+{
+  "id": "57232",
+  "instruction": "How can I retrieve the corresponding volume from a workbook if the origin port, equipment size, and destination port match across two different sheets, where volumes are recorded in three separate columns associated with different ports? I have tried using Index & Match functions without success. Could someone also suggest how to achieve this using VBA?\nThe formula data output result may be \"#N/A\".",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'Sea Freight Rates'!H2:H191",
+  "num_test_cases": 1
+}

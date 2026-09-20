@@ -1,0 +1,1 @@
+CC(=O)CC(C)=O.NNc1ccc(C(=O)O)cc1

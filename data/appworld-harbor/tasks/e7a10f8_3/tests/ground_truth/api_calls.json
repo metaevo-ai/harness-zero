@@ -1,0 +1,315 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/spotify/auth/token",
+        "data": {
+            "username": "ismill@gmail.com",
+            "password": "_u(r]7K"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 1,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 2,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 3,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 4,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 5,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 6,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 7,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 8,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/library/playlists",
+        "data": {
+            "page_index": 9,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/playlists/127",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/150",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/231",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/248",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/270",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/317",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/playlists/128",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/135",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/162",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/274",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/293",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/310",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/playlists/129",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/42",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/70",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/76",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/156",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/192",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/playlists/130",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/102",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/133",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/149",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/167",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/250",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/playlists/131",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/25",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/64",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/108",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/151",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/155",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/224",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/225",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/230",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/playlists/132",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzcG90aWZ5K2lzbWlsbEBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTIwOTh9.c7dF06yfqSznxBs1RYX8lrmQI3UcTSJF_xXxzpDsRUQ"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/2",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/84",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/122",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/169",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/spotify/songs/207",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success",
+            "answer": 33
+        }
+    }
+]

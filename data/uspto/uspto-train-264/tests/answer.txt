@@ -1,0 +1,1 @@
+CC(=O)c1cc(Cn2ncc([N+](=O)[O-])n2)on1.OCCO

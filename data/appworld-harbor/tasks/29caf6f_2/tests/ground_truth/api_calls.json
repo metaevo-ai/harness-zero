@@ -1,0 +1,79 @@
+[
+    {
+        "method": "get",
+        "url": "/supervisor/profile",
+        "data": {}
+    },
+    {
+        "method": "get",
+        "url": "/supervisor/account_passwords",
+        "data": {}
+    },
+    {
+        "method": "post",
+        "url": "/phone/auth/token",
+        "data": {
+            "username": "8346699249",
+            "password": "2I1#6ld"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/contacts",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4MzQ2Njk5MjQ5IiwiZXhwIjoxNjg0NDEyMDk4fQ.vxssv6p2bogPTZUPV_Y5haQJcgL0A7EqOSlZjsj12_M",
+            "query": "Laura"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/phone/messages/text",
+        "data": {
+            "page_index": 0,
+            "query": "recommendation suggestion movie",
+            "phone_number": "2873148336",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4MzQ2Njk5MjQ5IiwiZXhwIjoxNjg0NDEyMDk4fQ.vxssv6p2bogPTZUPV_Y5haQJcgL0A7EqOSlZjsj12_M"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/simple_note/auth/token",
+        "data": {
+            "username": "gl.moore@gmail.com",
+            "password": "aVfy)Rr"
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes",
+        "data": {
+            "page_index": 0,
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStnbC5tb29yZUBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9._ceaWG_PYKjgAJnJ_WHeeVCLQmiP605bzDV11bv-cK0",
+            "query": "movie recommendation suggestion",
+            "dont_reorder_pinned": true
+        }
+    },
+    {
+        "method": "get",
+        "url": "/simple_note/notes/1556",
+        "data": {
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW1wbGVfbm90ZStnbC5tb29yZUBnbWFpbC5jb20iLCJleHAiOjE2ODQ0MTI3NDF9._ceaWG_PYKjgAJnJ_WHeeVCLQmiP605bzDV11bv-cK0"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/phone/messages/text/2873148336",
+        "data": {
+            "message": "Django Unchained, Pulp Fiction",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs4MzQ2Njk5MjQ5IiwiZXhwIjoxNjg0NDEyMDk4fQ.vxssv6p2bogPTZUPV_Y5haQJcgL0A7EqOSlZjsj12_M"
+        }
+    },
+    {
+        "method": "post",
+        "url": "/supervisor/message",
+        "data": {
+            "status": "success"
+        }
+    }
+]

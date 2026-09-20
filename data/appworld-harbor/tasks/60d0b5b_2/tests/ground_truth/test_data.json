@@ -1,0 +1,30 @@
+[
+    {
+        "requirement": "assert answers match.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert model changes match venmo.Transaction, venmo.Notification, venmo.User.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added, updated, removed venmo.Transaction records using models.changed_records,\nand assert 1 is added, 0 is updated, and 0 is deleted.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the added transaction's receiver_id is private_data.person_venmo_user_id.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the added transaction has amount private_data.accident_cost.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "obtain added, updated, removed venmo.User using models.changed_records,\nand assert 0 is added, >= 1 is updated, and 0 is deleted.",
+        "label": "no_op_fail"
+    },
+    {
+        "requirement": "assert the changed_field_names of all updated users only include venmo_balance.",
+        "label": "no_op_fail"
+    }
+]

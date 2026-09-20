@@ -1,0 +1,1 @@
+COc1cc(CN2CCOCC2)ccc1N=C=S.NC(=O)[C@@H]1[C@H](Nc2c(Cl)cnc(N)c2N)[C@H]2C=C[C@@H]1C2
