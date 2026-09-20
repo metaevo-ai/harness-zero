@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/StonyBrookNLP/appworld",
+  "commit": "a072b7a86e7c1d5b1d7175659d750ebb9b79f10a",
+  "path": "experiments/prompts/react_code_agent/instructions.txt",
+  "sha256": "c41f7852217d46586047a38f68e88b827cb9dcbe624e9651f9db8301547a534b",
+  "runtime": "appworld==0.1.3.post1",
+  "license": "Apache-2.0"
+}

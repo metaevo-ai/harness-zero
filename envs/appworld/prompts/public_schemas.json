@@ -1,0 +1,130 @@
+{
+  "login": {
+    "app_name": "spotify",
+    "api_name": "login",
+    "path": "/spotify/auth/token",
+    "method": "POST",
+    "description": "Login to your account.",
+    "parameters": [
+      {
+        "name": "username",
+        "type": "string",
+        "required": true,
+        "description": "Your account email.",
+        "default": null,
+        "constraints": []
+      },
+      {
+        "name": "password",
+        "type": "string",
+        "required": true,
+        "description": "Your account password.",
+        "default": null,
+        "constraints": []
+      }
+    ],
+    "response_schemas": {
+      "success": {
+        "access_token": "string",
+        "token_type": "string"
+      },
+      "failure": {
+        "message": "string"
+      }
+    }
+  },
+  "show_playlist_library": {
+    "app_name": "spotify",
+    "api_name": "show_playlist_library",
+    "path": "/spotify/library/playlists",
+    "method": "GET",
+    "description": "Get a list of playlists in the user's playlist library.",
+    "parameters": [
+      {
+        "name": "access_token",
+        "type": "string",
+        "required": true,
+        "description": "Access token obtained from spotify app login.",
+        "default": null,
+        "constraints": []
+      },
+      {
+        "name": "is_public",
+        "type": "boolean",
+        "required": false,
+        "description": "Whether to show public playlists or private playlists.",
+        "default": null,
+        "constraints": []
+      },
+      {
+        "name": "page_index",
+        "type": "integer",
+        "required": false,
+        "description": "The index of the page to return.",
+        "default": 0,
+        "constraints": [
+          "value >= 0.0"
+        ]
+      },
+      {
+        "name": "page_limit",
+        "type": "integer",
+        "required": false,
+        "description": "The maximum number of results to return per page.",
+        "default": 5,
+        "constraints": [
+          "value >= 1.0, <= 20.0"
+        ]
+      }
+    ],
+    "response_schemas": {
+      "success": [
+        {
+          "playlist_id": 1,
+          "title": "string",
+          "is_public": true,
+          "rating": 0.0,
+          "like_count": 1,
+          "review_count": 1,
+          "owner": {
+            "name": "string",
+            "email": "user@example.com"
+          },
+          "created_at": "2019-01-01T00:00:00",
+          "song_ids": [
+            1
+          ]
+        }
+      ],
+      "failure": {
+        "message": "string"
+      }
+    }
+  },
+  "indexes": {
+    "spotify": [
+      {
+        "name": "login",
+        "description": "Login to your account."
+      },
+      {
+        "name": "logout",
+        "description": "Logout from your account."
+      },
+      {
+        "name": "show_playlist_library",
+        "description": "Get a list of playlists in the user's playlist library."
+      },
+      {
+        "name": "show_playlist",
+        "description": "Get detailed information about a specific playlist. You can view your own playlists or others' playlists if they are public."
+      }
+    ],
+    "supervisor": [
+      {
+        "name": "show_account_passwords",
+        "description": "Show your supervisor's app account passwords."
+      }
+    ]
+  }
+}
