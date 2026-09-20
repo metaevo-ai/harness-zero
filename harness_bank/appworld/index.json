@@ -1,0 +1,8 @@
+{
+  "components": [
+    {"id":"memory:appworld-review","kind":"memory","path":"memory.md","summary":"Prioritize exact entities/metrics, complete sources, full action scope, app files and evidence-based submission."},
+    {"id":"skill:api-workflow","kind":"skill","path":"skill/api_workflow.md","summary":"Repair public API contracts, credentials and complete paginated/member data using visible observations."},
+    {"id":"skill:actions-files","kind":"skill","path":"skill/actions_files.md","summary":"Plan mutations over original IDs, preserve files/metadata, independently verify every final group before deletion or completion."},
+    {"id":"tool:public-patterns","kind":"tool","path":"tool/public_patterns.md","summary":"Translate complete pagination and app-file write/read-back into ordinary student execute commands."}
+  ]
+}

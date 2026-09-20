@@ -1,0 +1,17 @@
+AppWorld: use execute with the preloaded aw helper. Python variables persist.
+Ordinary apis and requester calls now use the same strict contracts below.
+Run Python in this exact shell form:
+appworld exec <<'PY'
+print(aw.docs('supervisor'))
+print(aw.call('supervisor', 'show_profile'))
+PY
+
+1. Keep the original verbs and every qualifier. Write a short plan mapping EACH requested operation to its target set. A global operation and a conditional follow-up BOTH apply to overlapping targets: do not partition away the global step. Finding records does not perform the requested action. Read referenced messages.
+2. aw.docs(app) lists endpoints; aw.docs(app, api) gives parameters and response fields. Read that endpoint before use. aw.call(app, api, field=value) rejects unknown/missing keywords and supplies app tokens. Use keyword data arguments. Both aw.call and ordinary apis calls validate names and supply missing tokens; explicit tokens are preserved. A token is login_result["access_token"], not the login response dict.
+3. aw.pages(app, api, **filters) collects all pages through an empty page, including parent/container lists. aw.call requires an explicit page_index for intentional single-page samples. Errors mean INCOMPLETE retrieval. Reuse the list; calculate the requested metric over it with Python. First-page results, page order, query similarity and arbitrary tie-breaks are not complete evidence. For non-paginated APIs inspect all relevant nested collections. Use target-record IDs/fields, never list positions or a public catalog in place of personal data. Container membership can omit valid targets. Liked/favorite flags are per-entity, not the container's.
+4. Implicit personal relationships refer to phone contacts, as the shared AppWorld instructions specify. Use other groups/messages only when the task explicitly references them. A name/email search does not prove a relationship. If that read fails, repair it; do not act on unverified relationships. Only query the phone clock for relative dates; retain time-of-day for elapsed-time windows. Verify that set from the source before any write.
+5. Save and deduplicate target IDs, original fields and allowed write locations. Related collections are not automatically in scope. For app files use file_system APIs. Plan original -> final paths for every group. Keep user paths exactly: '~/x' and '/x' differ. Verify by reading the ORIGINAL requested path, not just the variable used to write it. Before deleting sources, verify the backup's path, columns, row count and contents. When copy/move implements rename, inspect retain_dates and preserve original dates unless asked otherwise. Verify both moved and unmoved groups. Never treat failed reads as empty or silently catch errors as success.
+6. Re-read the task and verify every deliverable before one submission. ACTIONS ONLY: aw.finish_actions() with no answer. Put summaries in final chat, never the supervisor answer field. ANSWER REQUESTED: aw.answer(value) after complete retrieval/calculation. For mixed requests, perform all actions first, then answer. The example counts playlists because its task asks for a count; do not copy that answer pattern into action tasks. task_completed=True only means submitted: correct a known submission mistake once, even if already completed. Replies carry only the requested content; headers/separators follow the task text.
+
+After worker reset, restore aw inside appworld exec:
+import sys; sys.path.insert(0, '/opt/ahd/harness/skills/appworld-workflow'); import aw; aw.bind_apis()

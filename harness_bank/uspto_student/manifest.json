@@ -1,0 +1,6 @@
+{
+  "skills": ["retrosynthesis-candidates"],
+  "memory": true,
+  "tools": ["propose_retrosynthesis", "smiles_check", "verify_answer"],
+  "middlewares": ["answer_guard", "completeness_guard"]
+}

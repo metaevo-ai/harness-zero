@@ -1,0 +1,28 @@
+{
+  "components": [
+    {
+      "id": "memory:accumulated-failures",
+      "kind": "memory",
+      "path": "memory.md",
+      "summary": "Accumulated student failure patterns on SpreadsheetBench xlsx tasks and the interventions that fix them: skill-first, in-place edit, worked examples as spec, literal values, coordinate discipline, assertion verification, mechanical ground truth, loop and budget discipline."
+    },
+    {
+      "id": "skill:spreadsheet-manipulation",
+      "kind": "skill",
+      "path": "skill/spreadsheet-manipulation.md",
+      "summary": "xlsx manipulation workflow and pitfall catalog: explore-first data discovery, literal values over formulas, data_only reads, key normalization, target-range hygiene. Reference for diagnosing which workflow step the student got wrong."
+    },
+    {
+      "id": "tool:prefilled-diff",
+      "kind": "tool",
+      "path": "tool/prefilled_diff.md",
+      "summary": "Diff input vs output workbook inside the answer range and report every pre-filled literal cell the output changed. Deploy before the student finishes when no input-output comparison appears in the trajectory."
+    },
+    {
+      "id": "tool:answer-range-check",
+      "kind": "tool",
+      "path": "tool/answer_range_check.md",
+      "summary": "Mechanical health check of the deliverable's answer range: empty range, formula strings, numbers-as-text, error literals, degenerate constant fills. Deploy after the output workbook exists, before finishing."
+    }
+  ]
+}

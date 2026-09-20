@@ -1,0 +1,6 @@
+{
+  "skills": ["spreadsheet-manipulation"],
+  "memory": true,
+  "tools": [],
+  "middlewares": ["empty_turn_guard", "output_guard", "prefilled_guard", "answer_range_guard", "turn_budget"]
+}

@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "id": "memory:accumulated-failures",
+      "kind": "memory",
+      "path": "memory.md",
+      "summary": "Version 2: evidence-backed failure guidance; separate graph/format checks from chemical ranking, avoid unsupported size/frequency priors, recover locally from network errors, and finish with visible text."
+    },
+    {
+      "id": "skill:retrosynthesis-candidates",
+      "kind": "skill",
+      "path": "skill/retrosynthesis-candidates.md",
+      "summary": "Compare reaction families, sites and precursor identities using the parsed graph and chemistry; do not force three candidates, hidden-reference priors or minimal-atom ranking."
+    },
+    {
+      "id": "tool:propose-retrosynthesis",
+      "kind": "tool",
+      "path": "tool/propose_retrosynthesis.md",
+      "summary": "Reference implementation: enumerate candidate reactant sets with a named-transform library."
+    },
+    {
+      "id": "tool:smiles-check",
+      "kind": "tool",
+      "path": "tool/smiles_check.md",
+      "summary": "Reference implementation: mechanical per-candidate scoring (validity, atom budget, MCS coverage, changed sites)."
+    },
+    {
+      "id": "tool:verify-answer",
+      "kind": "tool",
+      "path": "tool/verify_answer.md",
+      "summary": "Reference implementation: output-contract battery plus RDKit-canonical rewrite of the answer file."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "skills": [
+    "appworld-workflow"
+  ],
+  "memory": false,
+  "tools": [],
+  "middlewares": [
+    "bootstrap_instruction",
+    "failure_recovery_instruction",
+    "context_guard",
+    "submit_gate"
+  ]
+}
