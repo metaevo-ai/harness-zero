@@ -1,4 +1,4 @@
-"""Local entry points for rollout planning, datum building, and SFT."""
+"""Local entry points for rollouts, datum building, and SFT."""
 
 from __future__ import annotations
 
@@ -6,7 +6,7 @@ import argparse
 import json
 from pathlib import Path
 
-from harness_zero.rollout import build_rollout_plan, load_task_ids
+from harness_zero.rollout import build_rollout_command, load_task_ids, run_rollout
 
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
@@ -19,7 +19,7 @@ def _parser() -> argparse.ArgumentParser:
     build.add_argument("--output", type=Path, required=True)
     build.add_argument("--reward-threshold", type=float, default=1.0)
 
-    rollout = sub.add_parser("plan-rollout")
+    rollout = sub.add_parser("run-rollout")
     rollout.add_argument("--dataset", type=Path, required=True)
     rollout.add_argument("--components", type=Path, required=True)
     rollout.add_argument("--teacher-middleware-factory")
@@ -76,8 +76,11 @@ def _parser() -> argparse.ArgumentParser:
     train.add_argument("--run-name", required=True)
     train.add_argument("--output-dir", type=Path, required=True)
     train.add_argument("--resume-from")
-    train.add_argument("--reviewed", action="store_true")
-    train.add_argument("--plan-only", action="store_true")
+    train.add_argument(
+        "--yes",
+        action="store_true",
+        help="submit the training job without asking for confirmation",
+    )
     return parser
 
 
@@ -94,8 +97,8 @@ def main() -> None:
         )
         print(json.dumps(stats))
         return
-    if args.command == "plan-rollout":
-        plan = build_rollout_plan(
+    if args.command == "run-rollout":
+        command = build_rollout_command(
             repo_root=REPO_ROOT,
             dataset=args.dataset,
             components_dir=args.components,
@@ -123,39 +126,29 @@ def main() -> None:
             teacher_prompt_path=args.teacher_prompt_path,
             teacher_oracle_answer_dir=args.teacher_oracle_answer_dir,
         )
-        print(json.dumps(plan, ensure_ascii=False, indent=2))
-        return
+        raise SystemExit(run_rollout(command))
 
     rows = [
         json.loads(line)
         for line in args.data.read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
-    plan = {
-        "data": str(args.data),
-        "examples": len(rows),
-        "tasks": len({row.get("task_id") for row in rows}),
-        "base_model": args.base_model,
-        "renderer": args.renderer,
-        "rank": args.rank,
-        "peak_learning_rate": args.peak_learning_rate,
-        "final_learning_rate": args.final_learning_rate,
-        "warmup_ratio": args.warmup_ratio,
-        "epochs": args.epochs,
-        "batch_size": args.batch_size,
-        "max_length": args.max_length,
-        "seed": args.seed,
-        "run_name": args.run_name,
-        "output_dir": str(args.output_dir),
-    }
-    print(json.dumps(plan, ensure_ascii=False, indent=2))
-    if args.plan_only:
-        return
-    if not args.reviewed:
-        raise SystemExit(
-            "refusing external Tinker submission: show this plan and full command "
-            "to the user, then rerun with --reviewed after approval"
-        )
+    tasks = len({row.get("task_id") for row in rows})
+    print(f"data: {args.data} ({len(rows)} examples, {tasks} tasks)")
+    print(f"base model: {args.base_model} (renderer {args.renderer}, LoRA rank {args.rank})")
+    print(f"epochs: {args.epochs}, batch size: {args.batch_size}, max length: {args.max_length}")
+    print(
+        f"learning rate: {args.peak_learning_rate} -> {args.final_learning_rate}"
+        f" (warmup ratio {args.warmup_ratio})"
+    )
+    print(f"run: {args.run_name} -> {args.output_dir}")
+    if not args.yes:
+        try:
+            answer = input("submit this training job to Tinker? [y/N] ")
+        except EOFError:
+            answer = ""
+        if answer.strip().lower() not in {"y", "yes"}:
+            raise SystemExit("aborted; rerun with --yes to skip the confirmation prompt")
     from harness_zero.train import train_positive_sft
 
     print(

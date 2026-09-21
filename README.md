@@ -56,12 +56,12 @@ Requirements: Python 3.12–3.13, Docker (rollouts run in local Docker sandboxes
 
 ## Quickstart
 
-**1. Plan a reviewed rollout** (prints the full Harbor command; nothing is submitted):
+**1. Run a reviewed rollout** (launches Harbor directly; Docker sandboxes):
 
 ```bash
 printf 'uspto-train-000\nuspto-train-001\n' > /tmp/tasks.txt
 
-harness-zero plan-rollout \
+harness-zero run-rollout \
   --dataset data/uspto \
   --components harness_bank/uspto \
   --teacher-middleware-factory harness_bank.uspto.middlewares:build_teacher_middlewares \
@@ -78,13 +78,13 @@ harness-zero plan-rollout \
 harness-zero build-sft --trials runs/demo --output sft.jsonl --reward-threshold 1.0
 ```
 
-**3. Train** (LoRA SFT via Tinker; `--plan-only` prints the plan without submitting):
+**3. Train** (LoRA SFT via Tinker; asks for confirmation before submitting, `--yes` skips the prompt):
 
 ```bash
 harness-zero train-sft --data sft.jsonl --base-model Qwen/Qwen3.5-9B \
   --renderer qwen3_5 --rank 32 --peak-learning-rate 2e-4 --final-learning-rate 1e-6 \
   --warmup-ratio 0.05 --epochs 2 --batch-size 8 --max-length 65536 --seed 42 \
-  --run-name hz-demo --output-dir runs/train --plan-only
+  --run-name hz-demo --output-dir runs/train
 ```
 
 AppWorld rollouts **must** use the dedicated agent and environment — see [`envs/appworld/README.md`](envs/appworld/README.md).

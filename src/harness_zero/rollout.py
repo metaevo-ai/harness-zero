@@ -1,9 +1,11 @@
-"""Build a reviewable Harbor command without submitting external work."""
+"""Build and launch Harbor commands for reviewed rollouts."""
 
 from __future__ import annotations
 
 import json
 import shlex
+import subprocess
+import sys
 from pathlib import Path
 
 
@@ -20,7 +22,7 @@ def load_task_ids(path: Path) -> list[str]:
     return tasks
 
 
-def build_rollout_plan(
+def build_rollout_command(
     *,
     repo_root: Path,
     dataset: Path,
@@ -48,7 +50,7 @@ def build_rollout_plan(
     teacher_oracle_answer_dir: str | None = None,
     student_reasoning_prefill: str = "none",
     student_azure_api: str = "deepseek",
-) -> dict:
+) -> list[str]:
     if student_reasoning_prefill not in {"none", "think"}:
         raise ValueError("student_reasoning_prefill must be none or think")
     if student_azure_api not in {"deepseek", "responses"}:
@@ -218,34 +220,13 @@ def build_rollout_plan(
     for task in tasks:
         command.extend(["--include-task-name", task])
 
-    return {
-        "dataset": str(dataset),
-        "tasks": tasks,
-        "task_count": len(tasks),
-        "attempts": attempts,
-        "total_trials": len(tasks) * attempts,
-        "concurrency": concurrency,
-        "student_model": student_model,
-        "student_reasoning": configured_reasoning,
-        "student_reasoning_prefill": student_reasoning_prefill,
-        "student_azure_api": student_azure_api if student_model.startswith("azure:") else None,
-        "teacher_provider": teacher_provider,
-        "teacher_model": teacher_model,
-        "teacher_reasoning_effort": teacher_reasoning_effort,
-        "inherited_gateway_url": inherited_gateway_url,
-        "max_replacements_per_trial": max_replacements_per_trial,
-        "student_max_turns": student_max_turns,
-        "max_retries": max_retries,
-        "components_dir": str(components_dir),
-        "teacher_middleware_factory": teacher_middleware_factory,
-        "student_harness_dir": student_harness_dir,
-        "teacher_prompt_suffix": teacher_prompt_suffix,
-        "teacher_prompt_path": teacher_prompt_path,
-        "teacher_oracle_answer_dir": teacher_oracle_answer_dir,
-        "argv": command,
-        "command": _shell_command(command),
-    }
+    return command
 
 
-def _shell_command(argv: list[str]) -> str:
+def shell_command(argv: list[str]) -> str:
     return " ".join(shlex.quote(arg) for arg in argv)
+
+
+def run_rollout(argv: list[str]) -> int:
+    print(f"running: {shell_command(argv)}", file=sys.stderr, flush=True)
+    return subprocess.run(argv, check=False).returncode

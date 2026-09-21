@@ -197,7 +197,7 @@ def test_sandbox_normalization_keeps_tool_calls():
     assert normalized["tool_calls"] == message["tool_calls"]
 
 
-def test_training_and_planning_import_without_rollout_runtime():
+def test_training_and_cli_import_without_rollout_runtime():
     import subprocess
     import sys
 
@@ -243,11 +243,11 @@ def test_async_sdk_retains_reasoning():
     assert seen[0].get("stream") is not True
 
 
-def test_prefill_plan_wires_main_and_sandbox_clients(tmp_path):
+def test_prefill_command_wires_main_and_sandbox_clients(tmp_path):
     from harness_zero.harness import HarnessZeroMinisweAgent
-    from harness_zero.rollout import build_rollout_plan
+    from harness_zero.rollout import build_rollout_command
 
-    plan = build_rollout_plan(
+    argv = build_rollout_command(
         repo_root=tmp_path, dataset=tmp_path, components_dir=tmp_path,
         teacher_middleware_factory=None, tasks=["task"], attempts=1, concurrency=1,
         student_model="openai:explicit", student_base_url="http://localhost:1234/v1",
@@ -255,8 +255,7 @@ def test_prefill_plan_wires_main_and_sandbox_clients(tmp_path):
         student_reasoning_prefill="think", teacher_provider="passthrough",
         teacher_model="none", teacher_reasoning_effort="none", job_name="test", output_dir=tmp_path,
     )
-    assert 'student_reasoning_prefill="think"' in plan["argv"]
-    assert plan["student_reasoning_prefill"] == "think"
+    assert 'student_reasoning_prefill="think"' in argv
     agent = HarnessZeroMinisweAgent(logs_dir=tmp_path, model_name="openai:explicit",
                             model_kwargs={"base_url": "http://localhost:1234/v1", "api_key": "dummy", "reasoning_effort": "high"},
                             student_reasoning_prefill="think", teacher_model="none", teacher_provider="passthrough",

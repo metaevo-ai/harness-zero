@@ -34,8 +34,8 @@ python envs/appworld/build.py
 # 2. Sanity-check the images without a model
 python envs/appworld/validate.py --image-tag v2
 
-# 3. Plan a reviewed rollout over the 147-task training split
-harness-zero plan-rollout \
+# 3. Run a reviewed rollout over the 147-task training split
+harness-zero run-rollout \
   --dataset data/appworld-harbor/tasks \
   --components harness_bank/appworld \
   --tasks-file data/appworld-harbor/split_train147.txt \

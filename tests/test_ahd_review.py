@@ -16,7 +16,7 @@ from harness_zero.sft import build_sft_file
 from harness_zero.store import TrialStore
 from harness_zero.teacher import DeepAgentReviewer
 from harness_zero.teacher_models import build_openai_model
-from harness_zero.rollout import build_rollout_plan
+from harness_zero.rollout import build_rollout_command, shell_command
 from harness_zero.harness import HarnessZeroMinisweAgent
 from deepagents_harbor.trajectory import TrajectoryRecorder
 from harness_bank.uspto.middlewares import build_teacher_middlewares
@@ -912,90 +912,94 @@ def test_responses_reasoning_summary_is_stored_as_reasoning():
     assert response.content == "I will inspect it."
 
 
-def test_rollout_plan_is_explicit_and_non_executing(tmp_path):
-    plan = build_rollout_plan(
-        repo_root=tmp_path,
-        dataset=tmp_path / "tb-dev",
-        components_dir=COMPONENTS,
-        teacher_middleware_factory="harness_bank.uspto.middlewares:build_teacher_middlewares",
-        tasks=["task-a", "task-b"],
-        attempts=2,
-        concurrency=20,
-        student_model="openai:student-checkpoint",
-        student_base_url="http://127.0.0.1:9000/v1",
-        student_reasoning_effort="medium",
-        student_reasoning_enabled=None,
-        teacher_provider="openai",
-        teacher_model="gpt-5.6-sol",
-        teacher_reasoning_effort="high",
-        job_name="hz-positive-01",
-        output_dir=tmp_path / "jobs",
-        student_harness_dir=str(tmp_path / "student-bank"),
+def test_rollout_command_is_explicit(tmp_path):
+    command = shell_command(
+        build_rollout_command(
+            repo_root=tmp_path,
+            dataset=tmp_path / "tb-dev",
+            components_dir=COMPONENTS,
+            teacher_middleware_factory="harness_bank.uspto.middlewares:build_teacher_middlewares",
+            tasks=["task-a", "task-b"],
+            attempts=2,
+            concurrency=20,
+            student_model="openai:student-checkpoint",
+            student_base_url="http://127.0.0.1:9000/v1",
+            student_reasoning_effort="medium",
+            student_reasoning_enabled=None,
+            teacher_provider="openai",
+            teacher_model="gpt-5.6-sol",
+            teacher_reasoning_effort="high",
+            job_name="hz-positive-01",
+            output_dir=tmp_path / "jobs",
+            student_harness_dir=str(tmp_path / "student-bank"),
+        )
     )
-    assert plan["total_trials"] == 4
-    assert plan["teacher_model"] == "gpt-5.6-sol"
-    assert "--env docker" in plan["command"]
-    assert "--env e2b" not in plan["command"].lower()
-    assert f'student_harness_dir="{tmp_path / "student-bank"}"' in plan["command"]
-    assert "max_replacements_per_trial=5" in plan["command"]
-    assert f'components_dir="{COMPONENTS}"' in plan["command"]
+    assert "gpt-5.6-sol" in command
+    assert "--env docker" in command
+    assert "--env e2b" not in command.lower()
+    assert f'student_harness_dir="{tmp_path / "student-bank"}"' in command
+    assert "max_replacements_per_trial=5" in command
+    assert f'components_dir="{COMPONENTS}"' in command
     assert (
         "teacher_middleware_factory="
         '"harness_bank.uspto.middlewares:build_teacher_middlewares"'
-    ) in plan["command"]
-    assert "openai:student-checkpoint" in plan["command"]
-    assert "HARNESS_ZERO_GATEWAY_URL=http://127.0.0.1:9000/v1" in plan["command"]
-    assert "HARNESS_ZERO_GATEWAY_TOKEN=dummy" in plan["command"]
+    ) in command
+    assert "openai:student-checkpoint" in command
+    assert "HARNESS_ZERO_GATEWAY_URL=http://127.0.0.1:9000/v1" in command
+    assert "HARNESS_ZERO_GATEWAY_TOKEN=dummy" in command
 
 
-def test_official_openai_plan_sources_env_without_embedding_key_or_dummy(tmp_path):
-    plan = build_rollout_plan(
-        repo_root=tmp_path,
-        dataset=tmp_path / "tb-dev",
-        components_dir=COMPONENTS,
-        teacher_middleware_factory="harness_bank.uspto.middlewares:build_teacher_middlewares",
-        tasks=["task-a"],
-        attempts=1,
-        concurrency=1,
-        student_model="openai:gpt-5.4-nano",
-        student_base_url=None,
-        student_reasoning_effort="medium",
-        student_reasoning_enabled=None,
-        teacher_provider="openai",
-        teacher_model="gpt-5.6-sol",
-        teacher_reasoning_effort="high",
-        job_name="official-openai",
-        output_dir=tmp_path / "jobs",
+def test_official_openai_command_sources_env_without_embedding_key_or_dummy(tmp_path):
+    command = shell_command(
+        build_rollout_command(
+            repo_root=tmp_path,
+            dataset=tmp_path / "tb-dev",
+            components_dir=COMPONENTS,
+            teacher_middleware_factory="harness_bank.uspto.middlewares:build_teacher_middlewares",
+            tasks=["task-a"],
+            attempts=1,
+            concurrency=1,
+            student_model="openai:gpt-5.4-nano",
+            student_base_url=None,
+            student_reasoning_effort="medium",
+            student_reasoning_enabled=None,
+            teacher_provider="openai",
+            teacher_model="gpt-5.6-sol",
+            teacher_reasoning_effort="high",
+            job_name="official-openai",
+            output_dir=tmp_path / "jobs",
+        )
     )
 
-    assert f"--env-file {tmp_path / '.env'}" in plan["command"]
-    assert "gpt-5.6-sol" in plan["command"]
-    assert "gpt-5.4-nano" in plan["command"]
-    assert 'api_key\\\":\\\"dummy' not in plan["command"]
-    assert "'HARNESS_ZERO_GATEWAY_TOKEN=${OPENAI_API_KEY}'" in plan["command"]
+    assert f"--env-file {tmp_path / '.env'}" in command
+    assert "gpt-5.6-sol" in command
+    assert "gpt-5.4-nano" in command
+    assert 'api_key\\\":\\\"dummy' not in command
+    assert "'HARNESS_ZERO_GATEWAY_TOKEN=${OPENAI_API_KEY}'" in command
 
 
-def test_openrouter_student_plan_uses_openrouter_reasoning_options(tmp_path):
-    plan = build_rollout_plan(
-        repo_root=tmp_path,
-        dataset=tmp_path / "tb-dev",
-        components_dir=COMPONENTS,
-        teacher_middleware_factory="harness_bank.uspto.middlewares:build_teacher_middlewares",
-        tasks=["task-a"],
-        attempts=1,
-        concurrency=1,
-        student_model="openrouter:qwen/qwen3.5-9b",
-        student_base_url=None,
-        student_reasoning_effort=None,
-        student_reasoning_enabled=True,
-        teacher_provider="openai",
-        teacher_model="gpt-5.6-sol",
-        teacher_reasoning_effort="high",
-        job_name="qwen-openrouter",
-        output_dir=tmp_path / "jobs",
+def test_openrouter_student_command_uses_openrouter_reasoning_options(tmp_path):
+    command = shell_command(
+        build_rollout_command(
+            repo_root=tmp_path,
+            dataset=tmp_path / "tb-dev",
+            components_dir=COMPONENTS,
+            teacher_middleware_factory="harness_bank.uspto.middlewares:build_teacher_middlewares",
+            tasks=["task-a"],
+            attempts=1,
+            concurrency=1,
+            student_model="openrouter:qwen/qwen3.5-9b",
+            student_base_url=None,
+            student_reasoning_effort=None,
+            student_reasoning_enabled=True,
+            teacher_provider="openai",
+            teacher_model="gpt-5.6-sol",
+            teacher_reasoning_effort="high",
+            job_name="qwen-openrouter",
+            output_dir=tmp_path / "jobs",
+        )
     )
 
-    command = plan["command"]
     assert "openrouter:qwen/qwen3.5-9b" in command
     assert "gpt-5.6-sol" in command
     assert "HARNESS_ZERO_GATEWAY_URL=https://openrouter.ai/api/v1" in command
@@ -1010,7 +1014,7 @@ def test_openrouter_student_plan_uses_openrouter_reasoning_options(tmp_path):
 
 def test_openrouter_student_rejects_base_url_override(tmp_path):
     with pytest.raises(ValueError, match="official endpoint"):
-        build_rollout_plan(
+        build_rollout_command(
             repo_root=tmp_path,
             dataset=tmp_path / "tb-dev",
             components_dir=COMPONENTS,
@@ -1032,7 +1036,7 @@ def test_openrouter_student_rejects_base_url_override(tmp_path):
 
 def test_openrouter_student_rejects_reasoning_effort(tmp_path):
     with pytest.raises(ValueError, match="does not accept a reasoning effort"):
-        build_rollout_plan(
+        build_rollout_command(
             repo_root=tmp_path,
             dataset=tmp_path / "tb-dev",
             components_dir=COMPONENTS,
@@ -1052,7 +1056,7 @@ def test_openrouter_student_rejects_reasoning_effort(tmp_path):
         )
 
 
-def _azure_plan(tmp_path, **overrides):
+def _azure_command(tmp_path, **overrides):
     kwargs = dict(
         repo_root=tmp_path,
         dataset=tmp_path / "spreadsheetbench-verified",
@@ -1072,13 +1076,12 @@ def _azure_plan(tmp_path, **overrides):
         output_dir=tmp_path / "jobs",
     )
     kwargs.update(overrides)
-    return build_rollout_plan(**kwargs)
+    return shell_command(build_rollout_command(**kwargs))
 
 
-def test_azure_student_plan_uses_env_gateway_and_thinking_flag(tmp_path):
-    plan = _azure_plan(tmp_path)
+def test_azure_student_command_uses_env_gateway_and_thinking_flag(tmp_path):
+    command = _azure_command(tmp_path)
 
-    command = plan["command"]
     assert "azure:DeepSeek-V4-Pro" in command
     assert "'HARNESS_ZERO_GATEWAY_URL=${AZURE_OPENAI_ENDPOINT}'" in command
     assert "'HARNESS_ZERO_GATEWAY_TOKEN=${AZURE_OPENAI_API_KEY}'" in command
@@ -1086,22 +1089,21 @@ def test_azure_student_plan_uses_env_gateway_and_thinking_flag(tmp_path):
     assert '"reasoning_effort":"high"' in command
     assert "use_responses_api" not in command
     assert "output_version" not in command
-    assert plan["student_reasoning"] == {"effort": "high"}
 
 
 def test_azure_student_rejects_base_url_override(tmp_path):
     with pytest.raises(ValueError, match="AZURE_OPENAI_ENDPOINT"):
-        _azure_plan(tmp_path, student_base_url="https://example.invalid/v1")
+        _azure_command(tmp_path, student_base_url="https://example.invalid/v1")
 
 
 def test_azure_student_rejects_reasoning_enabled(tmp_path):
     with pytest.raises(ValueError, match="reasoning effort, not enabled"):
-        _azure_plan(tmp_path, student_reasoning_enabled=True)
+        _azure_command(tmp_path, student_reasoning_enabled=True)
 
 
 def test_azure_student_rejects_unknown_effort(tmp_path):
     with pytest.raises(ValueError, match="low, high or max"):
-        _azure_plan(tmp_path, student_reasoning_effort="medium")
+        _azure_command(tmp_path, student_reasoning_effort="medium")
 
 
 def test_azure_student_model_build_reads_env_and_skips_teacher_throttle(
