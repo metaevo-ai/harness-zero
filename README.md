@@ -4,7 +4,7 @@
 
 **Distill an optimized agent harness into model weights — deploy with a minimal harness, keep the gains.**
 
-[![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE) [![Models](https://img.shields.io/badge/HuggingFace-metaevo--ai-yellow)](https://huggingface.co/metaevo-ai) [![Python](https://img.shields.io/badge/python-3.12%2B-green)](pyproject.toml)
+[![Paper](https://img.shields.io/badge/paper-PDF-red)](<assets/Harness-Zero Harness Distillation via Agent-as-Harness.pdf>) [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE) [![Models](https://img.shields.io/badge/HuggingFace-metaevo--ai-yellow)](https://huggingface.co/metaevo-ai) [![Python](https://img.shields.io/badge/python-3.12%2B-green)](pyproject.toml)
 
 </div>
 
@@ -23,7 +23,7 @@ Agent harnesses — the external systems that mediate model–environment intera
 
 ## Results
 
-Distillation into Qwen3.5-9B (pass@1 / SGC %, single run):
+Distillation into Qwen3.5-9B:
 
 | Setting | SpreadsheetBench | AppWorld | USPTO | **Avg.** |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ uv sync --group tinker       # additionally: training (Tinker recipe)
 
 Requirements: Python 3.12–3.13, Docker (rollouts run in local Docker sandboxes via [Harbor](https://github.com/harbor-framework/harbor)).
 
-**Environment variables.** Copy `.env.example` to `.env` and fill in the routes you use — rollouts read this file via Harbor's `--env-file`. Which keys you need depends on the model route: official OpenAI (`OPENAI_API_KEY`), Azure AI Foundry (`AZURE_OPENAI_API_KEY` + `AZURE_OPENAI_ENDPOINT`), OpenRouter (`OPENROUTER_API_KEY`), and Tinker training (`TM_API_KEY`). `.env` is gitignored; never commit real keys. Model names are always passed explicitly on the command line, never read from the environment.
+**Environment variables.** Copy `.env.example` to `.env` and fill in the routes you use — rollouts read this file via Harbor's `--env-file`. Which keys you need depends on the model route: official OpenAI (`OPENAI_API_KEY`), Azure AI Foundry (`AZURE_OPENAI_API_KEY` + `AZURE_OPENAI_ENDPOINT`), OpenRouter (`OPENROUTER_API_KEY`), and Tinker training (`TM_API_KEY`).
 
 ## Quickstart
 
@@ -87,7 +87,7 @@ harness-zero train-sft --data sft.jsonl --base-model Qwen/Qwen3.5-9B \
   --run-name hz-demo --output-dir runs/train
 ```
 
-AppWorld rollouts **must** use the dedicated agent and environment — see [`envs/appworld/README.md`](envs/appworld/README.md).
+AppWorld rollouts **must** use the dedicated mini-SWE-agent and environment — see [`envs/appworld/README.md`](envs/appworld/README.md).
 
 ## Repository layout
 
@@ -101,7 +101,7 @@ envs/appworld/         dedicated AppWorld agent/environment + image build + SFT 
 data/                  the three Harbor benchmark task sets, exactly as used in the paper
 .agents/skills/        the skill used to evolve the student-side harnesses
 assets/                figures used in this README
-tests/                 local test suite (no paid models, no Docker):  PYTHONPATH=src pytest -q
+tests/                 local test suite:  PYTHONPATH=src pytest -q
 ```
 
 ## Benchmarks
