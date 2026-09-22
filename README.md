@@ -4,7 +4,7 @@
 
 **Distill an optimized agent harness into model weights — deploy with a minimal harness, keep the gains.**
 
-[![Paper](https://img.shields.io/badge/paper-PDF-red)](<assets/Harness-Zero Harness Distillation via Agent-as-Harness.pdf>) [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE) [![Models](https://img.shields.io/badge/HuggingFace-metaevo--ai-yellow)](https://huggingface.co/metaevo-ai) [![Python](https://img.shields.io/badge/python-3.12%2B-green)](pyproject.toml)
+[![Paper](https://img.shields.io/badge/paper-alphaXiv-red)](https://www.alphaxiv.org/abs/2609.24974) [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE) [![Models](https://img.shields.io/badge/HuggingFace-metaevo--ai-yellow)](https://huggingface.co/metaevo-ai) [![Python](https://img.shields.io/badge/python-3.12%2B-green)](pyproject.toml)
 
 </div>
 
@@ -12,7 +12,7 @@
   <img src="assets/harness-zero.png" width="85%" alt="Harness-Zero overview">
 </p>
 
-Agent harnesses — the external systems that mediate model–environment interaction — can substantially improve agent performance, but their gains remain tied to the harness at deployment. **Harness-Zero** transfers the behaviors an optimized harness induces into the model itself: a *harnessing agent* reviews the student's every response during training-time rollouts and rewrites it, in the student's own action space, whenever the optimized harness would have done better. Fine-tuning on the reviewed trajectories internalizes the behavior — at deployment the harness is gone and the gains remain.
+Agent harnesses — the external systems that mediate model–environment interaction — can substantially improve agent performance, but their gains remain tied to the harness at deployment. **Harness-Zero** transfers the behaviors an optimized harness induces into the model itself: a *harnessing agent* reviews the student's every response during training-time rollouts and rewrites it, in the student's own action space, whenever the optimized harness would have done better. Fine-tuning on the reviewed trajectories internalizes the behavior — at deployment the harness is gone and the gains remain. The full paper is available on [alphaXiv](https://www.alphaxiv.org/abs/2609.24974).
 
 ## Highlights
 
