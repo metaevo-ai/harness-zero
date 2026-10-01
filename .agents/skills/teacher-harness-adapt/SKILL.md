@@ -1,6 +1,6 @@
 ---
 name: teacher-harness-adapt
-description: Generic workflow for harness adaptation (Harness-Zero paper, Appendix B) -- rewrite an evolved student-side harness h* (`harness_bank/<domain>_student/`) into the private reference harness K (`harness_bank/<domain>/`) used by the harnessing teacher agent: tools become action recipes, student middleware becomes review middleware, skills become review guidance, memory becomes failure patterns, plus an optional domain prompt. Use when creating a teacher-side bank for a new domain or re-adapting after the student bank evolves.
+description: "Generic workflow for harness adaptation (Harness-Zero paper, Appendix B) -- rewrite an evolved student-side harness h* (`harness_bank/<domain>_student/`) into the private reference harness K (`harness_bank/<domain>/`) used by the harnessing teacher agent: tools become action recipes, student middleware becomes review middleware, skills become review guidance, memory becomes failure patterns, plus an optional domain prompt. Use when creating a teacher-side bank for a new domain or re-adapting after the student bank evolves."
 ---
 
 # Harness Adaptation Guide (student-side h* -> teacher-side K)
