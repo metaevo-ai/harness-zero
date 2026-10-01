@@ -99,7 +99,8 @@ harness_bank/          per-domain harnesses: evolved student-side h* (*_student)
                        adapted reference harness K for the harnessing agent
 envs/appworld/         dedicated AppWorld agent/environment + image build + SFT pipeline
 data/                  the three Harbor benchmark task sets, exactly as used in the paper
-.agents/skills/        the skill used to evolve the student-side harnesses
+.agents/skills/        the skills used to evolve the student-side harnesses and to adapt
+                       them into the teacher-side reference harnesses
 assets/                figures used in this README
 tests/                 local test suite:  PYTHONPATH=src pytest -q
 ```
