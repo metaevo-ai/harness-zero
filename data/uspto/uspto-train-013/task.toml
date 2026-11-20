@@ -10,7 +10,11 @@ difficulty = "hard"
 category = "machine-learning"
 tags = ["context-engineering", "classification", "retrosynthesis"]
 
+[[artifacts]]
+source = "/app/answer.txt"
+
 [verifier]
+environment_mode = "separate"
 timeout_sec = 300.0
 
 [agent]

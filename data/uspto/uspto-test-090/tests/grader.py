@@ -51,7 +51,6 @@ def main() -> None:
         "accuracy": accuracy,
         "jaccard_similarity": jaccard,
         "prediction": prediction,
-        "ground_truth": ground_truth,
         "answer_file_present": answer_path.is_file(),
     }, indent=2) + "\n")
     (OUT / "reward.txt").write_text(str(accuracy))
