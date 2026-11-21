@@ -23,5 +23,9 @@ def test_public_benchmark_tasks_isolate_verifier(
     for path in configs:
         config = tomllib.loads(path.read_text())
         assert config["verifier"]["environment_mode"] == "separate", path
+        assert config["verifier"]["environment"] == {"network_mode": "no-network"}, path
+        tests = path.parent / "tests"
+        assert (tests / "test.sh").is_file(), path
+        assert "COPY . /tests/" in (tests / "Dockerfile").read_text().splitlines(), path
         assert config["environment"][network_key] == network_value, path
         assert {item["source"] for item in config["artifacts"]} == {artifact}, path

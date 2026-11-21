@@ -17,6 +17,9 @@ source = "/app/answer.txt"
 environment_mode = "separate"
 timeout_sec = 300.0
 
+[verifier.environment]
+network_mode = "no-network"
+
 [agent]
 timeout_sec = 3600.0
 

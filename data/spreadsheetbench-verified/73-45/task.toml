@@ -26,6 +26,9 @@ source = "/app/output"
 environment_mode = "separate"
 timeout_sec = 600.0
 
+[verifier.environment]
+network_mode = "no-network"
+
 [agent]
 timeout_sec = 600.0
 
