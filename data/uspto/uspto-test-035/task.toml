@@ -10,8 +10,15 @@ difficulty = "hard"
 category = "machine-learning"
 tags = ["context-engineering", "classification", "retrosynthesis"]
 
+[[artifacts]]
+source = "/app/answer.txt"
+
 [verifier]
+environment_mode = "separate"
 timeout_sec = 300.0
+
+[verifier.environment]
+network_mode = "no-network"
 
 [agent]
 timeout_sec = 3600.0
@@ -24,4 +31,4 @@ memory_mb = 2048
 storage_mb = 10240
 gpus = 0
 mcp_servers = []
-network_mode = "public"
+network_mode = "no-network"
