@@ -74,6 +74,9 @@ harness-zero run-rollout \
 
 **2. Build the SFT dataset** from successful reviewed trials:
 
+The reward threshold must be finite. Trials with non-finite rewards are skipped
+rather than treated as successful training examples.
+
 ```bash
 harness-zero build-sft --trials runs/demo --output sft.jsonl --reward-threshold 1.0
 ```
