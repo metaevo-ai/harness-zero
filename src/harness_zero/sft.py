@@ -3,10 +3,16 @@
 from __future__ import annotations
 
 import json
+import math
 from pathlib import Path
 from typing import Any, Iterable
 
-from harness_zero.dataset_utils import assert_student_only, conversation_messages, reasoning_leaks_review, trial_result
+from harness_zero.dataset_utils import (
+    assert_student_only,
+    conversation_messages,
+    reasoning_leaks_review,
+    trial_result,
+)
 
 
 def build_sft_file(
@@ -15,6 +21,9 @@ def build_sft_file(
     *,
     reward_threshold: float = 1.0,
 ) -> dict[str, Any]:
+    if not math.isfinite(reward_threshold):
+        raise ValueError("reward_threshold must be finite")
+
     rows: list[dict[str, Any]] = []
     successful_trials = 0
     skipped_trials = 0
@@ -23,7 +32,7 @@ def build_sft_file(
     for trial_dir in trial_dirs:
         events_path = trial_dir / "trial" / "trajectory.jsonl"
         reward, exception = trial_result(trial_dir)
-        if reward is None or not events_path.is_file():
+        if reward is None or not math.isfinite(reward) or not events_path.is_file():
             skipped_trials += 1
             continue
         if reward < reward_threshold or exception is not None:
